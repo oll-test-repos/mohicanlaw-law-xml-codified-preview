@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2002 SMTCA 2">
+  <num>2002 SMTCA 2</num>
+  <heading>Lillian Wheelock vs. Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>2002-08-23</effective>
+    <citations>
+      <citation type="reporter" url="./2002 SMTCA 2.pdf">2002 SMTCA 2</citation>
+      <citation type="opinion" url="./01-AA-001.pdf">Case No. 01-AA-001</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Lillian Wheelock</name>
+        <designation>Appellant</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Appellee</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="Jurisdictional Statement">
+    <heading>Jurisdictional Statement</heading>
+    <para>
+      <num>¶1</num>
+      <text>Appellant, appeals from a Mohican Nation, Stockbridge-Munsee Band Tribal Court decision which upheld her termination from employment with the Stockbridge-Munsee Band of Mohicans Indian Tribe (hereafter called Tribe).</text>
+    </para>
+    <para>
+      <num>¶2</num>
+      <text>The Mohican Nation, Stockbridge-Munsee Band, Court of Appeals has jurisdiction over this appeal pursuant to <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">Section 1.6 (L)</cite> of the Mohican Judiciary Act, which states that "The Stockbridge-Munsee Court of Appeals shall have jurisdiction over appeals from the Tribal Court."</text>
+    </para>
+  </container>
+  <container name="Background">
+    <heading>Background</heading>
+    <para>
+      <num>¶3</num>
+      <text>After a trial before the Honorable Kimberly Vele, a decision was entered denying relief for the Appellant in the termination of her employment with the Tribe as a Mental Health Counselor with the Stockbridge-Munsee Behavioral Health Department. The <em>Decision</em> was entered August 13, 2001 but file <em>Nunc Pro Tunc</em> with the Court on January 25, 2002.</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>The Appellant filed written notice of appeal with the Court on March 07, 2002. Written grounds for the appeal were filed on Маy 06, 2002.</text>
+    </para>
+  </container>
+  <container name="Issues">
+    <heading>Issues</heading>
+    <para>
+      <num>¶5</num>
+      <text>The central issue being considered is the timeliness of the filing of the notice of appeal. <cite doc="SMRP" path="§23|(C)" proof="needed">Section 23 (C) of The Stockbridge-Munsee Tribal Court Rules of Procedure (hereafter called SMB CRT Rules)</cite> states: <em>"Written notice of appeal from a decision of the trial Court </em><strong><em>mus</em></strong><em>t be filed within 20 days of the announcement of the decision in open Court, or within 20 days of receiving notice of the decision".</em></text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>Further, <cite doc="SMRP" path="§23|(J)" proof="needed">§23 (J) of the SMB CRT Rules</cite>, states: <em>"An Appellant shall submit a written statement of the grounds for his or her appeal within twenty (20) days of filing the notice of appeal, unless the Court below or the appellate Court shall deem an expedited appeal to be advisable and shall notify the appellant promptly of the reduced time limit".</em></text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>The <em>Decision</em> in this case was filed, <em>nunc pro tunc</em>, with the Court on January 25, 2002. The Appellee states that it received a copy of the <em>Decision</em> on January 25, 2002. Therefore, the Appellant would have received her copy of the <em>Decision</em> within a few days of January 25, 2002, as her copy was mailed to her. However, the Appellant did not file her <strong>written notice </strong>of appeal with the Court until 42 days later.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>In the Appellant's written notice of appeal, filed March 07, 2002, she states <em>"I have made numerous attempts to reach the Tribal Court in the past three weeks, without any results". </em>She further states <em>"After talking to David Raasch this morning, he informed me of the fact that the Court clerk has been out of the office on medical leave. Therefore, Tribal Court telephone calls aren't being returned."</em></text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>The issue then is, even though the written notice of appeal was filed well beyond the 20 day time limit for filing, do the attempted phone calls meet the requirements for the filing of a notice of appeal.</text>
+    </para>
+  </container>
+  <container name="Analysis">
+    <heading>Analysis</heading>
+    <para>
+      <num>¶10</num>
+      <text>The obvious test to be applied in this matter is whether, or not, the Appellant file written notice of appeal within the 20 day limit established by <cite doc="SMRP" path="23" proof="needed">§23 of SMB CRT Rules</cite>. It is unreasonable to conclude that the Appellant did not receive her copy of the <em>Decision</em> within a few days of January 25, 2002.</text>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>Even considering it may have taken one week for the Appellant to receive the <em>Decision</em> through the mail, her filing of the written notice of appeal still exceeds the 20 day time frame. Therefore, applying this test, the Appellant has failed to protect her appellate rights, and this Appellate Court lacks jurisdiction to hear her appeal.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>However, this Appellate Court agrees to apply another test that was established by the Stockbridge-Munsee Court of Appeals in <em><u><cite doc="97-AA-004">Stockbridge-Munsee Community v. Joseph Miller, Case No. 97-AA-004</cite></u></em>. In this case the Stockbridge-Munsee Community appealed the Trial Court's decision to dismiss the appeal as untimely. The Trial Court had denied the appeal of an Employment Mediation Panel's (EMP) decision in an employment rights case involving Mr. Miller. <em>The Director of Tribal Services issued an Inter-Office Memorandum to the Interim Manager of Human Resources requesting an appeal of the EMP's decision. Specifically, the memo referred to the subject as an "Appeal to Tribal Court for Joe Miller Grievance" and further stated "I do not agree with the panels (sic) response. Please foreward (sic) this to the Tribal Court per section V. Panel hearing Process #3, of the Employee Rights Ordinance. Thank you". </em><fn path="|footnotes|1">1</fn><em/></text>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>This memo was filed with the Tribal Court. The Trial Court determined that the filing of an "inter-office memo" did not constitute a request for an appeal even though it was filed on time. The Appellate Court in that case set a bare requirements standard by concluding that the memo did constitute a Notice of Appeal. The Court, in that case, further stated: <em>"Finally, we note that all petitions for review should include a specific statement of what administrative decision is being appealed and on what grounds it is being appealed. This makes the notice of appeal more detailed and therefore, more meaningful to all interested parties, particularly the Court".</em><fn path="|footnotes|2">2</fn><em/></text>
+    </para>
+    <para>
+      <num>¶14</num>
+      <text>In applying this test to the case now before this Appellate Court, this Appellant also fails to provide adequate notice of appeal. The bare requirements standard established in <em><cite doc="97-AA-004">Stockbridge-Munsee Community v. Joseph Miller</cite></em>, would not allow Notice of Appeal to be filed by a phone call, much less attempted phone calls. Even though the Tribal Court Clerk was on medical leave, had the Appellant provided a written notice of appeal in person, like Sunday Warrington<fn path="|footnotes|3">3</fn>, or had mailed it to the Court within the 20 day limit, this would be a different case. However, the Appellant, here, has not met the <em>bare requirements</em> standard, and this Court lacks jurisdiction to review any further issues in this case.</text>
+    </para>
+  </container>
+  <container name="DECISION">
+    <heading>DECISION</heading>
+    <para>
+      <num>¶15</num>
+      <text>Accordingly, the Appellant's appeal is dismissed under <cite doc="SMRP" path="§23|(B)" proof="needed">SMB CRT Rules §23 (B)</cite>. The <em>Decision</em> of this Court of Appeals is final as to all such review as provided under <cite doc="SMRP" path="§24|(A)" proof="needed">SMB CRT Rules §24 (A)</cite>.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>By the Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals</text>
+    <text>This 23<sup>rd</sup> Day of August 2002</text>
+    <text>Honorable David D. Raasch</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>
+        <cite doc="97-AA-004" path="2">SMC v. Joseph Miller, Case No. 97-AA-004 Page 2</cite>
+      </text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>
+        <cite doc="97-AA-004" path="6">SMC -v- Joseph Miller 97-AA-004 at page 6</cite>
+      </text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text>'<cite doc="2002-AA-001">Sunday R. Warrington -v- Stockbridge-Munsee Tribe, Mohican North Star Casino and Bingo, and Tammy R. Pecore, Assistant General Manager in her official capacity Case No. 2002-AA-001</cite></text>
+    </footnote>
+  </footnotes>
+</document>

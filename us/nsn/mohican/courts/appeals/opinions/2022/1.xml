@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2022 SMTCA 1">
+  <num>2022 SMTCA 1</num>
+  <heading>Gregory Miller, et al. vs. Stockbridge-Munsee Community, et al.</heading>
+  <meta>
+    <effective>2022-05-27</effective>
+    <citations>
+      <citation type="reporter" url="./2022 SMTCA 1.pdf">2022 SMTCA 1</citation>
+      <citation type="opinion" url="./2021-AP-0003.pdf">Case No. 2021-AP-0003</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Gregory Miller and Scott R. Vele</name>
+        <designation>Plaintiffs/Appellees</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community, et. al</name>
+        <designation>Defendants/Appellants</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="INTRODUCTION">
+    <num>I.</num>
+    <heading>INTRODUCTION</heading>
+    <para>
+      <num>¶1</num>
+      <text>The Stockbridge-Munsee Community ("Community"), Stockbridge-Munsee Tribal Council Members ("Council"), and the Stockbridge-Munsee Membership Committee Members ("Committee Members") (collectively "Appellants") appeal the Stockbridge-Munsee Tribal Court's <em>Decision and Opinio</em>n denying the Defendants' <em>Motion to Dismis</em>s in Case No. 2021-CV-0009. <cite doc="2021-CV-0009"><em>Miller v. Stockbridge-Munsee Community</em>, Civil No. 2021-CV-0009 (S-M Tr., Oct.6, 2021)</cite>.</text>
+    </para>
+  </container>
+  <container name="SUMMARY">
+    <num>II.</num>
+    <heading>SUMMARY</heading>
+    <para>
+      <num>¶2</num>
+      <text>On March 30, 2021, Plaintiffs-Appellees (hereinafter "Appellees") filed suit against Defendants-Appellants (hereinafter "Appellants") in the Stockbridge-Munsee Tribal Court (the "Tribal Court") for membership decisions made in 2018-2019. As enrolled members of the Community, Appellees allege that Appellants violated the Stockbridge-Munsee Constitution ("SMC Constitution") and the Stockbridge-Munsee Community's enacted ordinances by improperly approving membership-enrollment applicants.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>Appellants filed their <em>Motion to Dismiss</em> and their <em>Brief in Support of the Motion to Dismiss </em>on April 19, 2021. On April 28, 2021, the Tribal Court dismissed the case for Appellees failure to appear. <cite doc="2021-CV-0009"><em>Miller v. Stockbridge-Munsee Community</em> Case No. 2021-CV-0009 (S-M Tr. April 28, 2021)</cite>. Appellees appealed the dismissal to the Stockbridge-Munsee Court of Appeals (the "Court of Appeals"). On September 1, 2021, the Court of Appeals remanded the case for consideration of <em>Appellants Motion to Dismiss</em>. <cite doc="2021 SMTCA 4">Gregory Miller, et al. vs. Stockbridge-Munsee Community, 2021 SMTCA 4, August 21th, 2021.</cite> On September 22, 2021, the Court of Appeals appointed the Honorable James M. Redwine to serve as special <em>Pro-Tem</em> Judge to preside over the remand. <cite doc="2021 SMTCA 4">Gregory Miller, et al. vs. Stockbridge-Munsee Community, 2021 SMTCA 4, August 21th, 2021.</cite> On October 5, 2021 Special <em>Pro-Tem</em> Judge Redwine presided over a telephone hearing on the <em>Motion to Dismiss</em>. On October 6, 2021, Special <em>Pro-Tem</em> Judge Redwine issued a <em>Decision and Order</em> denying Appellants' <em>Motion to Dismiss</em>. Civil No. 2021-AP-0009 (S-M Tr., October 6, 2021). On October 21, 2021, Appellants timely filed their <em>Notice of Appeal.</em></text>
+    </para>
+  </container>
+  <container name="APPELLANTS' ARGUMENT">
+    <num>III.</num>
+    <heading>APPELLANTS' ARGUMENT</heading>
+    <para>
+      <num>¶4</num>
+      <text>Appellants argue that the Tribal Court erroneously held that the Tribal Court possessed "jurisdiction to hear this cause due to sufficiently pled issues of Defendants' misconduct establishing a Waiver of Sovereign Immunity." <cite doc="2021-AP-0009">Miller v. Stockbridge-Munsee Community, et al. Civil No. 2021-AP-0009 at page 5</cite>. Appellants argue to the contrary, both that there was no express waiver of sovereign immunity by the Stockbridge-Munsee Community ("Community" or "Tribe") connected to this action. Further, Appellants submit, the Tribal Court did not explain which actions taken by the individual Council Members and Committee Members constitute a waiver. Additionally, Appellants argue the Tribal Court's holding disregards the requirements for the Tribe to waive its sovereign immunity under the SMC Constitution and the SMC Sovereign Immunity Ordinance.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>Appellants acknowledge that the SMC Constitution does not expressly address the Community's sovereign immunity from suit and that the Tribal Council enacted the Sovereign Immunity Ordinance through its constitutionally enumerated power to "promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior." <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|1(f)">Const. SMC Art. VII, § 1(f)</cite>; Resolution No. 047-15; codified as <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02">GOV.02</cite>. The Ordinance states "the [Community] is immune from suit except to the extent that the Tribal Council expressly waives sovereign immunity by resolution or by enactment of an ordinance." <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.03|(a)">GOV.02.03(a)</cite>. The Community's sovereign immunity extends to "any official or employee of the [Community} acting within the scope of their duties..." <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.03|(b)">GOV.02.03(b)</cite>. The Court's precedent further recognizes that "absent a clear waiver by the Tribe or Congressional abrogation, suits against Indian Tribes are barred by the doctrine of sovereign immunity." <cite doc="2006-AA-0001"><em>Murphy Family v. Stockbridge-Munsee Tribal Council</em>, Appeal No. 2006-AA-0001, at page 11 (S-M App., Jul. 21, 2008)</cite> (citing <cite doc="498 U.S. 505" path="509"><em>Okla...Tax Comm'n v. Citizens Band of Potawatomi Indian Tribe</em>, 498 U.S. 505, 509 (1991))</cite>. In reliance on these and other precedent, Appellants argue that the Tribal Membership Ordinance preserves the sovereign immunity of the Community and extends the Community's immunity to its governmental officers, agents, employees and committees. <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.08">MEM.01.08</cite>. Appellants further submit that the Ordinance also designates the Tribal Council as the final forum to determine tribal membership decisions. <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.06|(e)">MEM.01.06(e)</cite>. Furthermore, because the Tribal Membership Ordinance explicitly reserves the Community's sovereign immunity for itself and "its governmental officers, agents, employees [and] committees" <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.08">MEM.01.08</cite>, the Tribal Council faces accountability for its membership decisions through the political process. <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.03|(b)|(1)">MEM.01.03(b)(1)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.03|(c)|(1)">MEM.01.03(c)(1)</cite>. Ultimately, Appellants argue, the correct forum for the Appellees to seek redress is the political one, and mobilizing votes for Tribal Council candidates they believe will provide some relief or waivers of immunity to allow for judicial review. <cite doc="2019 SMTCA 2">Adam Hoffman, et al. vs. Stockbridge-Munsee Human Resources Department, et al., 2019 SMTCA 2, April 03th, 2019.</cite></text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>Appellants continue their argument by stating that judicial review of Tribal Council's actions also requires adherence to judicial restraint. They argue that when constitutionally enumerated Tribal Council authority "is set aside, disregarded, or changed by Tribal Court, it raises question concerning jurisdiction of Tribal Court and the powers of government set forth by the Tribe's Constitution." <cite doc="AP-2012-CV-002" path="4"><em>Vele v. Stockbridge-Munsee Community</em>, Appeal No. AP-2012-CV-002, at page 4 (S-M App., 1/28/2013)</cite>.</text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>Based on the foregoing arguments, Appellants argue that the Community is entitled to dismissal because the Tribal Council has not waived, and the Congress has not abrogated, the Community's sovereign immunity. The Community is a sovereign Indian tribe with presumptive immunity from suit. <cite doc="2006-AA-0001" path="11"><em>Murphy Family v. Stockbridge-Munsee Tribal Council</em>, Appeal No. 2006-AA-0001, at page 11</cite>; <cite doc="2019 SMTCA 2" path="3">Adam Hoffman, et al. vs. Stockbridge-Munsee Human Resources Department, et al., 2019 SMTCA 2, April 03th, 2019.</cite> And the Court must also dismiss the named Community officials and employees whom all acted within the scope of their constitutionally delegated authority. The Council Members are constitutionally and statutorily mandated to make membership decisions. <cite doc="Stockbridge-Munsee Constitution and By-laws" path="III|4">CONST. SMC Art. III, § 4</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.06|(a)">MEM.01.06(a)</cite>-<cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.06|(d)">(d)</cite>. The Membership Ordinance grants Tribal Council the authority to assess blood quantum decisions in its approval of enrollment applications <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.06|(a)">MEM.01.06(a)</cite>. The Council Members and Committee Members adhered to their duties laid out in the Ordinance. Appellees simply disagree with the constitutionally authorized and statutorily mandated enrollment decisions made by Council Members and Committee Members. As the final forum for enrollment decisions, Tribal Council's decisions must be upheld. <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.06|(e)">MEM.01.06 (e)</cite>. If this Court nullifies the Committee Members' and Council Members' constitutionally and statutorily authorized actions, the Court would make itself the final arbiter of membership decisions in direct contradiction to the law directly on point, according to the Appellants.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>Appellants argue that Appellees cited this Court's precedent for the claim that this Court may invalidate the enrollment decisions made in this action. But here Appellees are challenging the actions and decisions of Council Members and Committee Members themselves and not adherence to Membership Ordinance procedure and due process protections. The Court may only review the constitutionality of the membership ordinance itself and if the ordinance's procedures are followed. Rather, Appellants charge, Appellees improperly seek to invalidate enrollment decisions made in compliance with constitutional and statutory requirements.</text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>Appellants further contend that the Tribal Court erred by denying Appellants' Motion to Dismiss. The Tribal Court disregarded the Community's inherent tribal sovereign immunity and infringed on Tribal Council's and Membership Committee's vested authority over Tribal membership decisions, according to the Appellants. The Tribal Court Code defines harmless error as an "[e]rror [] that [is] not likely to have had a substantial impact on the decision or on substantial rights." <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.09|(g)|(4)">TCT.01.09(g)(4)</cite>. Here, Appellants argue, the Tribal Court erred by holding that Appellees' pleadings alone waived the Community's sovereign immunity. <cite doc="2021-CV-0009" path="5"><em>Miller v. Stockbridge-Munsee Community, Civil No. 2021-CV-0009 </em>at page 5</cite> ('[<em>T]he Court finds it has jurisdiction to hear this cause due to sufficiently pled issues of Defendants' misconduct establishing a Waiver of Sovereign Immunity."</em> Emphasis added.). Appellants further submit that the Tribal Court's holding ignores the Community's statutory requirements for waivers of sovereign immunity and neglects the high stakes attached to questions impacting the Community's sovereign immunity. <em><cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.03">GOV.02.03</cite></em>. Further, Appellants submit, the Tribal Court's ruling impacts the substantial rights of the Tribal Council and the Membership Committee to perform their constitutionally and statutorily granted powers. <em><cite doc="Stockbridge-Munsee Constitution and By-laws" path="III|4">CONST. SMC Art. III § 4</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01">MEM.01</cite>.</em> By so ruling, Appellants argue, the Tribal Court interfered with enrollment decisions and opened the door for future baseless challenges to enrollment decisions. Therefore, Appellants conclude, the Tribal Court's denial of Appellants' Motion to Dismiss resulted in harmful error to Appellants. <em><cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.09|(g)|(4)">TCT. 01.09(g) (4)</cite>.</em></text>
+    </para>
+  </container>
+  <container name="APPELLEES' ARGUMENT">
+    <num>IV.</num>
+    <heading>APPELLEES' ARGUMENT</heading>
+    <para>
+      <num>¶10</num>
+      <text>Appellees assert that they are not asking the Court of Appeals to decide who becomes a member of the Tribe; they are asking the Court of Appeals to rule that Appellees are within their rights to proceed to discovery and testimony of witnesses based on the Tribe's alleged violation of its own Constitution and Tribal laws, which, if supported, would abrogate sovereign immunity.</text>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>Although Appellants asserted an affirmative defense of sovereign immunity, Appellees already established that their claims fell within the Tribe's waiver of immunity due to actions by officials outside their scope of duty. <em><cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.03|(b)">Section GOV.02.03(b)</cite> &amp; 2001 CROW 10, 2001.NACT.0000001. </em>Due to this question of sovereign immunity and constitutionality, the standard of review for this case should be <em>de novo. <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.09|(g)|(4)">Section TCT.01.09(g)(4)</cite> &amp; <cite doc="2013 SMTCA 2" path="4">Kimberly Vele vs. Stockbridge-Munsee Community et. al., Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. AP-2012-CV-0002, January 28th, 2013.</cite></em>.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>Appellants argue that Judge Redwine failed to identify an abrogation of sovereign immunity in his October 6, 2021, Order. However, Appellees argue that Judge Redwine did find an abrogation of sovereign immunity based on the question of misconduct of the Tribal Council Members. On page two (2) of his October 6, 2021, Order, Judge Redwine states that "Plaintiffs' [Appellees'] position is that there is no sovereign immunity defense for any Defendant due to Defendants [Appellants] acting illegally and outside the scope of their duty." More importantly, Appellees argue, on page 5 of Judge Redwine's Order, he specifically states that "[p]laintiff's have met their burden under <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.02.01">the Tribe's Rules of Civil Procedure TCT.02.01 </cite><em>et. seq.</em> and the Court finds it has jurisdiction to hear this cause due to sufficiently pled issues of <strong>Defendants' misconduct establishing a Waiver of Sovereign Immunity</strong> (emphasis added in Appellees brief)."</text>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>Appellees further argue that the Court of Appeals undoubtedly has jurisdiction to hear this case under its power of judicial review, the Stockbridge-Munsee Constitution, and Tribal law (Stockbridge-Munsee Tribal Code and past Court of Appeals precedent). Although the Stockbridge-Munsee Community is generally immune from suit, Tribal officials must be acting within the scope of their duties to claim this immunity. When Tribal officials act beyond the scope of their duties and authority, they are subject to suit for declaratory judgment or prospective injunctive relief (<cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.03|(b)">GOV.02.03(b)</cite>).</text>
+    </para>
+    <para>
+      <num>¶14</num>
+      <text>Appellees further argue that pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.02|(a)|(3)">TCT.01.02(a)(3)</cite>, the Tribe established a court system for the interpretation of Stockbridge-Munsee tribal law and such other law as may properly come before the Court. Although "[i]t is settled that a waiver of sovereign immunity cannot be implied but must be unequivocally expressed [,]" <cite doc="436 U.S. 49" path="58"><em>Santa Clara Pueblo v. Martinez</em>, 436 U.S. 49, 58-59 (1978)</cite>, the Court finds a clear waiver in tribal law. In principle, tribal sovereign immunity protects tribal officials because they need to be free from intimidation, harassment and the threat of lawsuits when conducting tribal business. <cite doc="UNKNOWN"><em>Youvella, et al. v. Dallas, et al.,</em> No. 96-AP-00002 (Hopi Tribe Ct. App., Nov. 20, 1998) 27 ILR 6020, 6022</cite>. However, Appellees continue, pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.03|(b)">GOV.02.03(b)</cite>, tribal officials and employees who act beyond the scope of their duties and authority shall be subject to suit only for declaratory judgment or prospective injunctive relief in the Tribal Court System by persons subject to the jurisdiction of the Tribal Court System for purposes of enforcing rights and duties established by the Constitution or other applicable laws. Appellees' challenge of the actions of the Tribal Council members and the Membership Committee falls within the above cited exception to sovereign immunity for equitable relief against the tribal officials for injunctive and prospective relief for acts beyond their constitutional authority, it is argued.</text>
+    </para>
+    <para>
+      <num>¶15</num>
+      <text>Appellants contend that Appellees are asking the Court of Appeals to make membership decisions and that the Court of Appeals has no right to assert itself in place of the legislative body of the Tribe. Appellees response is that although the <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.01">Tribal Membership Ordinance §§ MEM.01.01 </cite>- <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.09">MEM.01.09 </cite>states that Tribal Council is the final forum to determine tribal membership eligibility, it does not state that Tribal Council can violate the Constitution in effectuating it. Appellees further contend that Appellants violated the Stockbridge-Munsee Constitution and acted outside of the scope of the authority granted to them by the Tribe when they modified information on the Base Roll. Allowing Tribal Council to act in this manner, argue Appellees, allows for an absurd result that defies the logic of establishing a Base Roll for enrollment in the first place. Appellees contend that Appellants have essentially switched to lineal descendancy as the basis for membership in the Tribe, in direct opposition to the requirements of the Tribal Constitution and that Appellants' current approach includes classifying non-Indians as Indians on the Base Roll.</text>
+    </para>
+    <para>
+      <num>¶16</num>
+      <text>Appellants further contend that the Tribal Member Appellees did not agree with the decisions of Tribal Council and filed this action because Appellees are upset with those decisions. Appellants further argue that the Tribal Council faces accountability for its membership decisions through the political process. Appellees reject this argument, stating that Appellants ignore the fact that the political process has been completely altered and is now stacked against Tribal Member Appellees because the majority of currently enrolled tribal members were illegally enrolled by Appellants in the last several years. The new enrollees, Appellees argue, are beholden to Tribal Council Appellants who approved their enrollment. Furthermore, the Tribal Council is still enrolling individuals for membership based on an illegal or unconstitutional increase in blood quantum.</text>
+    </para>
+    <para>
+      <num>¶17</num>
+      <text>Tribal Member Appellees assert that their allegations in the complaint are legally sufficient to state a cause of action for which relief can be granted. The standard Appellees must meet is whether the complaint bears "sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face." <cite doc="556 U.S. 662" path="678"><em>Ashcroft v. Iqbal</em>, 556 U.S. 662, 678 (2009)</cite> &amp; <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.02.01">Section TCT.02.01 </cite><em>et seq.</em> At this beginning stage of litigation, argue Appellees, it is not necessary for Appellees to conclusively prove all allegations in the complaint as the Parties have yet to conduct discovery. Appellees should be allowed to proceed with litigation on their claims for equal protection under the Stockbridge-Munsee Bill of Rights to show that Appellants created an inequitable system.</text>
+    </para>
+    <para>
+      <num>¶18</num>
+      <text>Appellees request that the Tribal Court use its power of judicial review, as recognized by the Stockbridge-Munsee Court of Appeals, to declare that acts of Appellants are null and void because they contradict the Stockbridge-Munsee Tribal Constitutional provisions. In <em>Murphy</em>, the Court explains that "[j]udicial review ensures due process and equal protection in the application of the laws. An independent court is established to provide checks and balances on the powers of the government should there be an unconstitutional application of its powers" p.11. This Court affirmed the benefit of the balance of powers within the Tribal government so that it is apparent to the outside world that the Tribe can manage its own affairs and does not need the federal government or outside parties to resolve membership issues for them.</text>
+    </para>
+  </container>
+  <container name="SOVEREIGN IMMUNITY">
+    <num>V.</num>
+    <heading>SOVEREIGN IMMUNITY</heading>
+    <para>
+      <num>¶19</num>
+      <text>At its very basic, sovereign immunity means that a government (sovereign)  cannot be sued without its consent. Tribal governments, state governments and the federal government all possess certain levels of sovereign immunity. Additionally, tribal council members, judges and all other tribal officials and staff all possess sovereign immunity when acting in their official capacity. Sovereign immunity is used as a means of protecting the government from having to alter its policies, under a threat of being sued, any time a person takes issue with them. It's important to note, however, that state governments are not immune from lawsuits brought by other states or the federal government. Sovereign Immunity can be divided into two types: qualified and absolute. Qualified immunity shields a government official from liability if their activities are within the scope of their office, in good faith and don't violate a clearly established statutory or constitutional right of which a reasonable person would be aware. Absolute immunity confers sovereign immunity on government officials making them completely immune from criminal prosecution and civil suits for damages, so long as officials are acting within the scope of their duties. Essentially this immunity is a complete bar to a lawsuit with no exceptions; and absolute immunity generally applies to judges, prosecutors, jurors, legislators and the highest executive officials of all governments.</text>
+    </para>
+    <para>
+      <num>¶20</num>
+      <text>A tribe is subject to suit only if it has clearly waived its immunity or Congress has expressly authorized the suit. Tribal immunity was given to the tribes on the principle that tribes are sovereign, enjoying immunity from judicial attack absent their consent. The purpose of tribal sovereignty, according to the United States Supreme Court, is to promote tribal economic development and self-sufficiency. Though the United States Supreme Court has expressed its dissatisfaction with the doctrine in light of increased tribal economic self- sufficiency through successful business ventures, the Court has upheld this doctrine and has deferred to Congress any question of abrogating tribal sovereign immunity. Typically the conclusion that there has been consent or a waiver is not lightly construed. Courts will typically only recognize a waiver of immunity where it has been stated by the most express language or by such overwhelming implication from the text that no other conclusion is reasonable. There are examples, though not many, where courts have found a waiver by implication, but the strength of these cases as precedents is questionable.</text>
+    </para>
+    <para>
+      <num>¶21</num>
+      <text>Sovereign immunity is perhaps the single most important right conferred on Native American tribes. It provides enormous protection from non-tribal actors who would otherwise take full advantage of tribes in frivolous lawsuits. Tribal citizens must be aware of the absolute importance of tribal sovereignty to tribal nations, and not try to manipulate this important doctrine to satisfy their own personal and political ends.</text>
+    </para>
+  </container>
+  <container name="CONCLUSION">
+    <num>VI.</num>
+    <heading>CONCLUSION</heading>
+    <para>
+      <num>¶22</num>
+      <text>Here, this Court finds that issues presented by Appellees are sufficient to support further process of the claims presented in their arguments here and in their original complaint. There is a legitimate basis for the allegation that a <em>de facto</em> waiver of immunity by the Tribe took place when constitutional provisions and tribal law procedures regarding membership qualifications were alleged to be violated and the admission of new Tribal members occurred under these allegedly illegal procedures. This Court therefore ORDERS that the Tribal Court's Decision and Opinion on Defendants' <em>Motion to Dismiss </em>shall stand, Appellants' Appeal be DENIED, and this case be REMANDED to the Tribal Court whereby Judge Redwine shall preside over the matter.<fn path="|footnotes|1">1</fn></text>
+    </para>
+    <para>
+      <num>¶23</num>
+      <text>If the Tribal Court finds that the Tribal Council did act outside its official capacity and did fraudulently admit new members in violation of procedures in place in the Stockbridge-Munsee Constitution, then it shall be found that, in keeping with <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.02|(b)" proof="needed">Section GOV.02.02(b)</cite>, those individuals will only be subject to declaratory judgment and prospective injunctive relief. No monetary damages will be assessed.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>IT IS SO ORDERED.</text>
+    <text>
+      <strong>Entered this 27</strong>
+      <sup>
+        <strong>th</strong>
+      </sup>
+      <strong> day of May, 2022.</strong>
+    </text>
+    <text>
+      <strong>Eric M. Lochen</strong>
+    </text>
+    <text>
+      <strong>Justice</strong>
+    </text>
+    <text>
+      <strong>
+        <em>Smith, C.J., and Stranier, S.J., concur</em>
+      </strong>
+    </text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>"It is time to get to the merits of the case. Another Court may well find, after full discovery and perhaps witness testimony, the facts are not proven or that as a matter of law the Court lacks jurisdiction. But it is time for the Defendants to Answer the Complaint and discovery to proceed." <cite doc="UNKNOWN" path="5"><em>Redwine Decision and Opinion, October 6, 2021, p. 5.</em></cite></text>
+    </footnote>
+  </footnotes>
+</document>

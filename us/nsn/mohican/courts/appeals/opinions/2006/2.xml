@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2006 SMTCA 2">
+  <num>2006 SMTCA 2</num>
+  <heading>Darrin Church vs. Stockbridge-Munsee Division of Community Housing, et al.</heading>
+  <meta>
+    <effective>2006-11-13</effective>
+    <citations>
+      <citation type="reporter" url="./2006 SMTCA 2.pdf">2006 SMTCA 2</citation>
+      <citation type="opinion" url="./05-CV-0024.pdf">Case No. 05-CV-0024</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Darrin Church</name>
+        <designation>Appellant</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Division of Community Housing, a Division of the Stockbridge-Munsee Community</name>
+        <designation>Respondent</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="PROCEDURAL BACKGROUND">
+    <heading>PROCEDURAL BACKGROUND</heading>
+    <para>
+      <num>¶1</num>
+      <text>This is an appeal from an order of the Stockbridge-Munsee Trial Court dated October 14, 2005. Advocate Wesley Martin submitted a brief on behalf of the Appellant (defendant-tenant), and Attorney Sharon Greene-Gretzinger submitted a brief on behalf of the Respondent (plaintiff-landlord). There were no oral arguments in this appeal.</text>
+    </para>
+    <para>
+      <num>¶2</num>
+      <text>Appellant appeals from an order of the Stockbridge-Munsee Trial Court, Honorable Robert Miller, Jr., Judge. The trial court issued a judgment evicting the appellant from tribal housing on October 14, 2005. Pursuant to <cite doc="Old Stockbridge-Munsee Tribal Code" path="§46.6">Section 46.6-12 of the Stockbridge-Munsee Housing Ordinance</cite>, the appellant appeals the trial court's judgment claiming that the trial court committed an error of law when it refused to grant the appellant a continuance to seek legal counsel.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>Because we hold that the trial court properly exercised its discretion in denying the appellant's request for a continuance, <em>we affirm.</em></text>
+    </para>
+  </container>
+  <container name="FACTS">
+    <heading>FACTS</heading>
+    <para>
+      <num>¶4</num>
+      <text>The facts in this case are not disputed. The appellant, Mr. Church, entered into a housing lease agreement with Stockbridge-Munsee Division of Community Housing, the authorized housing agent for the Stockbridge-Munsee Community, a federally recognized tribe. Mr. Church was late paying his rent numerous times before the Division of Community Housing sought a termination of Mr. Church's lease agreement and the eviction of Mr. Church from the leased premises.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>Before the trial court held the eviction hearing, the parties entered into a Stipulation and Order to Stay the proceedings dated and filed with the Court on May 27, 2005. Pursuant to the terms of the Stipulation and Order, the tenant, Mr. Church, waived his right to contest the plaintiff's complaint for eviction in exchange for the stay in the eviction proceedings and a revised monthly payment schedule. The parties further agreed that Mr. Church's compliance with the Stipulation would be reviewed every two months by the trial court, and in the event of any default under the terms of the Stipulation, including late payments, the eviction proceedings would be re-scheduled for a hearing on the merits. Despite this last chance agreement, Mr. Church did default under the payment terms of the Stipulation, and the Division of Community Housing promptly requested the Court to proceed with a hearing on the merits.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>The trial court held the eviction hearing on October 11, 2005. During the hearing, Mr. Church indicated that he had a witness who would essentially testify that he was supposed to pay Mr. Church's rent for him, but failed to do so. Because of the unavailability of Mr. Church's witness to be at the hearing, Mr. Church requested the court to postpone the hearing. The court denied Mr. Church's request and proceeded to question him as to why he was late paying his September 2005 rent. Despite Mr. Church's explanation for his late payment, on October 14, 2005, the court rendered a judgment of eviction. In that judgment, the court found that because Mr. Church was continuously and repeatedly late with his monthly payments, he materially breached the terms of his Lease-Purchase Agreement, the housing ordinance, the Admission and Occupancy Policies or the Low Income Homebuyer Program, and the Stipulation and Order of May 27, 2005. Accordingly, Mr. Church was ordered to move from the premises and pay all arrears and payments due and owing the housing authority, including court costs and fees.</text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>Following the eviction hearing, Mr. Church filed a handwritten Motion to Appeal the trial court's decision along with a request for an injunction to prohibit the trial court from issuing a Writ of Restitution. Mr. Church based his request on the grounds that he was not represented by counsel and unfamiliar with court procedures. On October 19, 2005 and October 21, 2005 Mr. Church filed written notices with the Court requesting reconsideration of the eviction judgment on the grounds that he was current with his payments, with the exception of the September 2005 payment due to alleged honest mistake. Mr. Church's injunction was denied and that decision was not appealed. The only remaining question on appeal is whether the trial court erred in rendering its judgment of eviction.</text>
+    </para>
+  </container>
+  <container name="ARGUMENT AND DECISION">
+    <heading>ARGUMENT AND DECISION</heading>
+    <para>
+      <num>¶8</num>
+      <text>The Tribe argues that the Court of Appeals is without jurisdiction to hear this matter, because the appellant failed to articulate how the trial court erred and failed to file a brief substantiating his arguments. While it is true that the appellant's request for a review of the eviction judgment only marginally stated grounds for a review, because the appellant appeared pro se, we are reluctant to dismiss the request on technical grounds, particularly when the written request was timely filed.</text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>The Tribe's general appellate process governs appeals from eviction orders.</text>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§46.6">Section 46.6-12 of the Tribe's housing ordinance</cite> states as follows:</text>
+      <include>
+        <text>Appeals under this Ordinance shall be handled according to the general tribal appellate provision, with the exception that the party filling the appeal shall have only five (5) days from the entry of the order of judgement to file a notice of appeal. Ch. 46, S-M Housing Ord.</text>
+      </include>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>This shortened statute of limitations contrasts with the Tribe's general appellate process that requires that the notice of appeal be filed within twenty (20) days after the decision or order appealed from. Section 1, S-M Adm. Proc. Act. The trial court entered its written judgment of eviction on October 14, 2005. On October 19, 2005, the appellant filed a written motion to appeal on the grounds that he was not represented by counsel and had little knowledge of court procedures. On October 21, 2005 the second notice of appeal, he alleged that he is disabled and although admittedly late with his payments, they were paid. Because the appellant's first written notice of appeal was filed within five (5) days of the trial court's written judgment of eviction, the appellant's notice of appeal was timely filed.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>Once a notice of appeal is timely filed, the appellant has an additional twenty (20) days to file a written statement with the Court of the grounds for the appeal. See §23(J, S-M Tribal Court Rules of Civil Proc. In this case, pursuant to the Court's Scheduling Order, the appellant, through appellant's counsel, filed a brief in support of his appeal. Essentially, the appellant makes the same argument as stated in his Notice of Appeal of October 19, 2005, that is, the trial court erred when refusing to grant the appellant's motion to continue the eviction hearing on the grounds that the appellant was without legal representation, without knowledge of the Court's procedures, and without the ability to subpoena witnesses.</text>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>Appellate Court review is limited to appeals concerning matters of law. §23(1), S-M Tribal Court Rules of Civil Proc. Accordingly, the Court of Appeals is without authority to review matters <em>de novo</em>, but instead, must reply on the record made at the trial court to determine whether the trial erred in interpreting or applying the law.</text>
+    </para>
+    <para>
+      <num>¶14</num>
+      <text>In this case, the trial court held a contested hearing on the Tribe's claim for eviction; however, the contested hearing was held <em>after</em> the appellant had already waived his right to dispute his eviction. The May 27, 2005 Stipulation clearly required the appellant to not only waive his right to contest the eviction in the event of a breach of the agreement, but plainly and firmly established that the appellant's failure to make <em>timely</em> monthly payments constituted a breach of the agreement. Because the appellant failed to <em>timely</em> pay his monthly payment even after entering into the stipulation, he breached the agreement. Although this violation prompted the final hearing, the appellant no longer had the right to dispute the initial grounds for the eviction at that hearing. Because legal assistance at that hearing would have had minimal, if any, impact on the final outcome, the trial cot's discretionary decision to deny a continuance was reasonable and the trial court's mandatory decision to issue the eviction was correct.</text>
+    </para>
+    <para>
+      <num>¶15</num>
+      <text>Because the appellant does not raise or argue that the trial court erred in interpreting or applying any other law in this case, there is nothing further for this appeals court to consider.</text>
+    </para>
+    <para>
+      <num>¶16</num>
+      <text>The Judgment of the trial court is hereby <em>Affirmed</em>.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>IT IS SO ORDERED THIS 13th day of November 2006</text>
+    <text>Honorable Kimberly M. Vele</text>
+    <text>Honorable Stephan M. Grochowski</text>
+    <text>Justice Pro Tempore</text>
+    <text>Honorable Robert Kittecon</text>
+    <text>Justice Pro Tempore</text>
+  </procedural-data>
+</document>

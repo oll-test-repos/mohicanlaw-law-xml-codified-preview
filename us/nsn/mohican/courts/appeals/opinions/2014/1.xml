@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2014 SMTCA 1">
+  <num>2014 SMTCA 1</num>
+  <heading>Jason J Hietpas vs. Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>2014-03-07</effective>
+    <citations>
+      <citation type="reporter" url="./2014 SMTCA 1.pdf">2014 SMTCA 1</citation>
+      <citation type="opinion" url="./AP1-14-2013-AA-0006.pdf">Case No. AP1-14-2013-AA-0006</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Jason J Hietpas</name>
+        <designation>Petitioner</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Respondent</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This case arises out of Appellant's application for employment as the Executive Director of IT offered by the Stockbridge-Munsee Community. Appellant Jason Hietpas alleges the interview panel for the IT Executive Director position failed to apply <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.02">Chapter 54 of the Stockbridge-Munsee Communities Ordinances</cite>.</text>
+  </para>
+  <para>
+    <num>¶2</num>
+    <text>On February 28, 2014 Appellant submitted a Notice of Voluntary Nonsuit to the Stockbridge-Munsee Tribal Court. Appellant provided an Affidavit of Service showing Respondent received such notice.</text>
+  </para>
+  <para>
+    <num>¶3</num>
+    <text>The Court finds there are no laws within the Stockbridge-Munsee Community prohibiting the Appellant to withdraw his petition. The Court grants Appellant's Motion of Voluntary Nonsuit.</text>
+  </para>
+  <para>
+    <num>¶4</num>
+    <text>
+      <strong>THE COURT HEREBY DISMISSES THE ABOVE ACTION.</strong>
+    </text>
+  </para>
+  <procedural-data>
+    <text>Dated: Friday, March 07, 2014</text>
+    <text>
+      <strong>BY THE COURT:</strong>
+    </text>
+    <text>Honorable Judge Mary Adams</text>
+    <text>
+      <strong>Stockbridge-Munsee Tribal Court Judge</strong>
+    </text>
+    <text>Honorable Judge Richard L. Ackley</text>
+    <text>
+      <strong>Stockbridge-Munsee Tribal Court Judge</strong>
+    </text>
+    <text>Honorable Judge Leland Ninham</text>
+    <text>
+      <strong>Stockbridge-Munsee Tribal Court Judge</strong>
+    </text>
+  </procedural-data>
+</document>

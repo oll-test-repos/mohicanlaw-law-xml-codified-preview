@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2015 SMTCA 1">
+  <num>2015 SMTCA 1</num>
+  <heading>Rose Nunez vs. Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center</heading>
+  <meta>
+    <effective>2015-06-29</effective>
+    <citations>
+      <citation type="reporter" url="./2015 SMTCA 1.pdf">2015 SMTCA 1</citation>
+      <citation type="opinion" url="./IAP15-2014-AA-0004.pdf">Case No. IAP15-2014-AA-0004</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Rose Nunez</name>
+        <designation>Petitioner</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center</name>
+        <designation>Respondents</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>Interlocutory Appeal from an order of the Stockbridge-Munsee Tribal Court (SMTC); Honorable Candace Des Armo Coury. <em>Reversed.</em></text>
+  </para>
+  <container name="INTRODUCTION">
+    <heading>INTRODUCTION</heading>
+    <para>
+      <num>¶2</num>
+      <text>Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center (hereinafter "Respondents") petitioned this court for interlocutory appeal following the Trial Court's denial of Respondents' motion to dismiss. The Respondents moved to dismiss Petitioner Nunez's (Nunez) claims asserting her complaint failed to state a claim upon which relief could be granted.<fn path="|footnotes|1">1</fn> We agree and find that Nunez did not meet the statutory requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)|(3)">§53.5(A)(3)</cite> because she failed to give a brief description of the facts and events that gave rise to the alleged violations of the Respondents. We therefore reverse the Trial Court's decision to dismiss the Respondents' motion to dismiss.</text>
+    </para>
+  </container>
+  <container name="JURISDICTION">
+    <heading>JURISDICTION</heading>
+    <para>
+      <num>¶3</num>
+      <text>The Court has jurisdiction over this matter per <cite doc="SMRP" path="§24" proof="needed">§24 of the Stockbridge-Munsee (hereinafter "SM") Tribal Court's Rules of Procedure</cite>, which gives the Court of Appeals exclusive jurisdiction to review all decisions of the Tribal Court.</text>
+    </para>
+  </container>
+  <container name="HISTORICAL BACKGROUND">
+    <heading>HISTORICAL BACKGROUND</heading>
+    <para>
+      <num>¶4</num>
+      <text>Nunez was hired as an Assistant Director of the Stockbridge-Munsee Health and Wellness Center (hereinafter "SMHWC") on June 5, 2013 and remained in that position until she was terminated on July 28, 2014. On August 15, 2014. Nunez filed a wrongful termination claim under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M) of the SM Employee Rights Ordinance</cite> after she was terminated from her position as an Assistant Director. In her complaint, Nunez alleges that she was terminated from employment without <em>just cause</em> in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite>. Nunez requested: (1) the termination of her employment be reversed, (2) she receive back pay from the time of termination to reinstatement. and (3) she receive any other relief the court deems just and appropriate.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>Respondents filed a motion to dismiss arguing Nunez failed to state a claim on which relief could be granted. The Trial Court denied the Respondents' motion to dismiss on December 5. 2015. Subsequently, Respondents filed this interlocutory appeal. The Trial Court granted a stay of the proceedings pending the Appellate Court's decision of Respondents' interlocutory appeal.</text>
+    </para>
+  </container>
+  <container name="STANDARD OF REVIEW">
+    <heading>STANDARD OF REVIEW</heading>
+    <para>
+      <num>¶6</num>
+      <text>Determining whether a complaint states a claim upon which relict can be granted is a question of law, which we review independently. However, we also benefit from persuasive discussions by the U.S. Supreme Court in <cite doc="550 U.S. 544"><em>Bell Atlantic Corp. v. Twombly,</em> 550 U.S. 544. 127 S.Ct. 1955 (2007)</cite> and the Wisconsin Supreme Court in <cite doc="356 Wis. 2d 665"><em>Data Key Partners v. Permira Advisers LLC,</em> 356 Wis.2d 665. 849 N.W.2d 693 (2014)</cite>.</text>
+    </para>
+  </container>
+  <container name="ANALYSIS">
+    <heading>ANALYSIS</heading>
+    <para>
+      <num>¶7</num>
+      <text>We are presented with the question of what Nunez must plead in order to state a claim for relief under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">$53.3(M) of the SM Tribal Law.</cite> Nunez asserts in her complaint that she was terminated from employment without just cause in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite>.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text><cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)|(3)">Section 53.5(A)(3) of the SM Tribal Law (Employee Rights Ordinance)</cite> requires that a complaint filed in tribal court include:</text>
+      <include>
+        <text>
+          <em>A brief description of the facts and events that gave rise to the alleged violation, including the names of potential witnesses and the name of the petitioner's supervisor. If applicable.</em>
+        </text>
+      </include>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>The federal counterpart to <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)|(3)">§53.5(A)(3)</cite> is Rule 8(a)(2) of the Federal Rules of Civil Procedure (FRCP), which requires:</text>
+      <include>
+        <text>
+          <em>A short and plain statement of the claim showing that the pleader is entitled to relief.</em>
+        </text>
+      </include>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text>The state counterpart to <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)|(3)">§53.5(A)(3)</cite> and to <cite doc="F.R.C.P." path="8|(a)|(2)">FRCP 8(a)(2)</cite> is <cite doc="Wis. Stat." path="§802.02|(1)|(a)">Wisconsin Statute 802.02(1)(a)</cite>. which requires a complaint to include:</text>
+      <include>
+        <text>
+          <em>A short and plain statement of the claim, identifying the transaction or occurrence or series of transactions or occurrences out of which the claim arises and showing that the pleader is entitled to relief.</em>
+        </text>
+      </include>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>In its seminal <em>Twombly</em> decision, the United States Supreme Court clarified that a pleading must contain a "short and plain statement of the claim showing the pleader is entitled to relief, in order to give the defendant fair notice of what the… claim is and the grounds upon which it rests." <cite doc="550 U.S. 544" path="555"><em>Twombly</em>. 550 U.S. at 555</cite>. The Court further explained that" ... to survive a motion to dismiss, a complaint must contain only enough facts to state a claim to relief that is plausible on its face." <cite doc="550 U.S. 544" path="570"><em>Id. </em> at 570</cite>. A claim has facial plausibility when the pleaded factual content allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged. <cite doc="550 U.S. 544" path="556"><em>Id.</em> at 556</cite>. Courts will not accept legal conclusions couched as factual allegations. <cite doc="550 U.S. 544" path="555"><em>Id.</em> at 555</cite>.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>In Data Key, the Wisconsin Supreme Court adopted the plausibility standard of <em>Twombly</em>. See <cite doc="356 Wis. 2d 665" path="681"><em>Id.,</em> 356 Wis.2d at 681</cite>. The Court went on to explain that "sufficiency of a complaint depends on substantive law that underlies the claim made because it is the substantive law that drives what facts must be pled." <cite doc="356 Wis. 2d 665" path="681"><em>Id.</em></cite> Furthermore, "plaintiffs must allege facts that plausibly suggest they are entitled to relief." <cite doc="356 Wis. 2d 665" path="681"><em>See id.</em></cite></text>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>The substantive law that drives what facts must be pled in a <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">SM §53.3(M)</cite> claim (termination from employment without just cause) was created by the Court in <em><cite doc="98-AA-013">Sheldon R. Davids v. Mohican North Star Casino et al. 98-AA-013 (May 1999)</cite></em>. <em>Davids</em> provides the framework for analyzing whether an employee was terminated without just cause in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite>. The <em>Davids </em>test depends on whether "the decision to terminate [was] fair. impartial and consistent with procedural rules set forth by the employer." <cite doc="98-AA-013"><em>Id.</em></cite> Therefore, to survive a motion to dismiss, plaintiffs must plead facts sufficient to plausibly show that an employer's actions were unfair, Partial, and inconsistent with its own procedural rules.</text>
+    </para>
+    <para>
+      <num>¶14</num>
+      <text>In the case before us. Nunez asserted she was terminated without just cause in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite>. To support this contention she simply repeated the legal conclusion set out in <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite>. Nunez failed; however, to plead facts supporting this legal conclusion showing she is entitled to relief. Simply restating the cause of action is not enough to make a claim that a right to relief is plausible.</text>
+    </para>
+    <para>
+      <num>¶15</num>
+      <text>Nunez's complaint is not completely devoid of facts. It contains facts showing that Mr. Mian (Mian) served Nunez with a letter notifying her of his decision to terminate her. It also alleges that Mian failed to communicate with Nunez on a few occasions after Nunez received a written warning from Mian and after she was suspended by Mian pending her termination. However, these allegations fall far short of plausibly showing that Nunez is entitled to relief for being terminated without just cause.</text>
+    </para>
+    <para>
+      <num>¶16</num>
+      <text>Not only did Nunez's pleadings fail to follow the framework provided for by the Davids case, she failed to plead any facts alleging her termination was unjust. As stated above, §<cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)|(3)">53.5(A)(3)</cite> requires "[a] brief description of the facts and events that gave rise to the alleged violation, including the names of potential witnesses and the name of the petitioner's supervisor, if applicable." None of the facts or events that Nunez provided alleged how her termination was in violation of SM Tribal Law. We do not require that a complaint include detailed factual allegations, but it must contain more than a bare, the defendant unlawfully harmed me accusation. Simply stated, Nunez failed to show how the Respondents have acted improperly.</text>
+    </para>
+    <para>
+      <num>¶17</num>
+      <text>The Trial Court erred when it found that Nunez complied with the requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)|(3)">§53.5(A)(3)</cite>. While it acknowledged that <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)|(3)">§53.5(A)(3)</cite> requires a brief description of the facts, the Trial Court failed to show how Nunez complied with these requirements. Simply asserting any set of facts is not enough to survive a motion to dismiss. The plaintiff's complaint must describe the facts and events that led to her termination without <em>just cause</em>. Nunez's complaint completely fails in this respect.</text>
+    </para>
+    <para>
+      <num>¶18</num>
+      <text>Furthermore, the Trial Court erred when it found Nunez was not required to plead the elements of <em>just cause</em> provided for by the <em>Davids</em> case. The Trial Court's suggestion that it will determine whether the elements of the Davids case are met in trial places an undue burden on the Respondents. This precedent could lead to a never ending black hole of discovery that would cause an unjustifiable harm to the Respondents. The complaint must provide enough information to create an inference the suit has sufficient merit that allows the defendant to respond to a limited discovery demand. Therefore, since the Trial Court did not require Nunez to plead to the elements of <em>Davids</em> or require her to give a brief description of the facts or events that led to her termination. we reverse.</text>
+    </para>
+  </container>
+  <container name="CONCLUSION">
+    <heading>CONCLUSION</heading>
+    <para>
+      <num>¶19</num>
+      <text>Nunez's complain cannot support the argument that the Respondents terminated Nunez without <em>just cause</em> in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">Ordinance 53.3(M)</cite>. Accordingly, we reverse the Trial Court's denial of the Respondents' motion to dismiss, and render judgment dismissing all claims against the Respondents.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Dated this 29th day of June, 2015</text>
+    <text>
+      <strong>BY ORDER OF THE COURT:</strong>
+    </text>
+    <text>Lead Judge Chad Hendricks - Pro Tempore</text>
+    <text>Judge Richard Ackley - Pro Tempore</text>
+    <text>Chief Judge Marianne Higgins</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>The Respondents also argue they are immune from suit based on the Doctrine of Sovereign Immunity. Because the Respondents are successful in their <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.5|(A)|(3)">§53.5(A)(3)</cite> claim, the issue of sovereign immunity is not addressed in this opinion.</text>
+    </footnote>
+  </footnotes>
+</document>

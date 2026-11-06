@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2021 SMTCA 1">
+  <num>2021 SMTCA 1</num>
+  <heading>Aaron Miller vs. Thomas Gardner</heading>
+  <meta>
+    <effective>2021-07-21</effective>
+    <citations>
+      <citation type="reporter" url="./2021 SMTCA 1.pdf">2021 SMTCA 1</citation>
+      <citation type="opinion" url="./2020-CV-0014.pdf">Case No. 2020-CV-0014</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Aaron Miller</name>
+        <designation>Petitioner/Appellee</designation>
+      </party>
+      <party>
+        <name>Thomas Gardner</name>
+        <designation>Defendant-Appellant</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This matter came before the Court upon a pro se notice from Defendant/Appellant, Thomas Gardner, to the Associate Clerk of this Court, seeing to withdraw his appeal. The document included multiple profanities, but clearly indicated an intent by Appellant to abandon this appeal. The Court acknowledges that litigation is emotion-filled, but sending a cursing rant to the Court Clerk is not the most effective way to endear oneself to the Court. <cite doc="694 Fed. Appx. 368" path="370"><u>See, U.S. v. Dial</u>, 694 Fed. Appx. 368, 370 (6<sup>th</sup> Cir. 2017)</cite>. Future acts, such as the April 9, 2021 at 10:23 a.m. email to the Clerk of this Court, may result in contempt.<strong>WHEREFORE, PREMISES CONSIDERED;</strong></text>
+  </para>
+  <para>
+    <num>¶2</num>
+    <text><strong><em>IT IS ORDERED that</em></strong> this appeal is dismissed with prejudice and court cost associated with this appeal, if any, are assessed against Defendant/Appellant, Thomas Gardner, for which execution may immediately issue.</text>
+  </para>
+  <procedural-data>
+    <text>Entered this 21st day of July, 2021.</text>
+    <text>
+      <strong>Gregory D. Smith</strong>
+    </text>
+    <text>
+      <strong>Chief Justice</strong>
+    </text>
+  </procedural-data>
+</document>

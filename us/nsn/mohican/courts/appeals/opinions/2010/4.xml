@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2010 SMTCA 4">
+  <num>2010 SMTCA 4</num>
+  <heading>Stockbridge-Munsee Community vs. Bert W. Davids</heading>
+  <meta>
+    <effective>2010-12-10</effective>
+    <citations>
+      <citation type="reporter" url="./2010 SMTCA 4.pdf">2010 SMTCA 4</citation>
+      <citation type="opinion" url="./2009-FA-0021.pdf">Case No. 2009-FA-0021</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Petitioner</designation>
+      </party>
+      <party>
+        <name>Bert W. Davids</name>
+        <designation>Defendant</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>The defendant, Bert W. Davids (Davids) was issued an ordinance violation citation pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.19">Section 21.19 of the Stockbridge-Munsee Code</cite> which in part prohibits use of motor vehicles ...on logging roads during spring break up. After trial the court issued the following order.</text>
+  </para>
+  <container name="Order">
+    <heading>Order</heading>
+    <para>
+      <num>¶2</num>
+      <text>IT IS THEREFORE THE ORDER OF THE STOCKBRIDGE-MUNSEE COURT: That Bert W. Davids is found guilty of violating <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.19">Section 21.19 of the Stockbridge-Munsee Tribal Ordinances</cite>; and a fine of Two Hundred Dollars ($200.00) is imposed.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>IT IS FURTHER ORDERED: That the guilty conviction and the fine are unconditionally stayed.</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>The Stockbridge-Munsee Community (Community) brings this appeal arguing the trial court does not have the authority to unconditionally stay the finding of guilt. Because we find the Trial Court exceeded its authority to unconditionally stay the finding of guilt we reverse that part of the decision and enter a finding of guilt. Because the Trial Court was within its authority to unconditionally stay the $200.00 forfeiture that part of the order is affirmed.</text>
+    </para>
+  </container>
+  <container name="Discussion">
+    <heading>Discussion</heading>
+    <para>
+      <num>¶5</num>
+      <text>Although the facts are interesting and certainly filled with mitigation they are not an issue for this court and are not stated here. We are simply faced with the legal issue of the courts ability to unconditionally stay a guilty finding once it is made by the court. We issue no opinion on whether for instance custom and tradition is a defense to the charge at issue. We need not do so since the court did not find Davids not guilty based on that defense. We only address the courts authority to stay a finding of guilt. We agree with the Community a defendant is either guilty or not guilty. No stay can impact that status.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>We do feel it important to discuss the legal authority the Court used to stay the guilty finding. The Court first found that <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.18|(A)">Section 1.18(A)</cite> grants the authority to stay a guilty finding.</text>
+      <include>
+        <text>
+          <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.18">Section 1.18 ALTERNATE SENTENCING</cite>
+        </text>
+        <para>
+          <num>(A)</num>
+          <text>When sentencing the defendant, the court shall have discretion to tailor a disposition that will be the most effective in addressing the defendant's violation, the needs of the community and any harm to the victim, if the violation involved a victim.</text>
+        </para>
+      </include>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>Clearly, as the section notes this option for an alternate sentence applies as it states only to sentencing. There is nothing in this language to suggest it was to apply to the determination of guilt. It was clear error to suggest a stay of guilt is an alternate sentence. When one receives a citation a court generally has two responsibilities. First it must determine whether the person is guilty or not guilty. That happens when a person either's enters a guilty or not guilty plea to the charge. If the person enters a guilty plea the court then finds the defendant guilty and imposes the appropriate sentence. If the person enters a not guilty plea a trial is held and if found not guilty the citation is dismissed and if found guilty the court again moves to sentencing and imposes the appropriate sentence. This section gives a court no authority to stay the first guilt phase of the proceeding.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>The Trial court next suggests authority under <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.02" proof="needed">Section 1.2 </cite>Jurisdiction which proscribes the courts authority to exercise jurisdiction over "such other matters arising under enactments of the Tribal Council or the customs and traditions of the Stockbridge-Munsee Community." Again as the section notes this language only speaks to the jurisdiction of the tribal court to hear different kinds of cases. Again whether this section provides a defense to the charge is not before us as the court found Davids guilty. It does not give authority to stay a finding of guilt.</text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>The Trial Court finally relates a whole series of mitigating factors that led to the stay decision. Again, these mitigating factors are appropriate in determining the appropriate sentence to be imposed but play no part in the determination of guilt or whether the finding can be stayed.</text>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text>Therefore, we find the trial court had no authority granted to it to stay the finding of guilt and reverse that part of the order. The Community does not object to and this court finds adequate mitigation to unconditionally stay the imposition of the $200.00 forfeiture.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>SO ORDERED.</text>
+    <text>
+      <strong>DATED: Friday, December 10, 2010</strong>
+    </text>
+    <text>
+      <strong>BY THE COURT</strong>
+    </text>
+    <text>Honorable, Robert Miller Jr.</text>
+    <text>Honorable, Leland Ninham</text>
+    <text>Honorable, James B. Mohr</text>
+  </procedural-data>
+</document>

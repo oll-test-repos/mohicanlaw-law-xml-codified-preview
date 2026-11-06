@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2010 SMTCA 2">
+  <num>2010 SMTCA 2</num>
+  <heading>Loren Miller vs. Human Resources Department and John Miller</heading>
+  <meta>
+    <effective>2010-03-15</effective>
+    <citations>
+      <citation type="reporter" url="./2010 SMTCA 2.pdf">2010 SMTCA 2</citation>
+      <citation type="opinion" url="./2010-AP-0001.pdf">Case No. 2010-AP-0001</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Loren Miller</name>
+        <designation>Petitioner-Appellant</designation>
+      </party>
+      <party>
+        <name>Human Resources Department and John Miller</name>
+        <designation>Respondent-Appellee</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="Jurisdictional Statement">
+    <heading>Jurisdictional Statement</heading>
+    <para>
+      <num>¶1</num>
+      <text>Petitioner appeals from a Stockbridge-Munsee Tribal Court decision dismissing Petitioner's civil complaint 2009-CV-0006 filed with the Court on October 26, 2009. The Stockbridge-Munsee Tribal Court of Appeals has jurisdiction over this review pursuant to <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6(L)</cite> Stockbridge-Munsee Tribal Law, Tribal Court Code which states that "The Stockbridge-Munsee Tribal Court of Appeals shall have jurisdiction over appeals from the Trial Tribal Court." Further, <cite doc="SMRP" path="§24|(A)" proof="needed">§24 (A) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> states that "The Court of Appeals shall have exclusive jurisdiction to review all decisions of the Tribal Court as provided herein. The decision of the Court of Appeals shall be final as to all such review."</text>
+    </para>
+  </container>
+  <container name="Scope of Review">
+    <heading>Scope of Review</heading>
+    <para>
+      <num>¶2</num>
+      <text><cite doc="" path="23|(1)" proof="needed">Section 23(1) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> states that "The Court may only hear appeals concerning matters of law." Further, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6(L)</cite> (5) states that "Errors of law will be reviewed de novo with no deference to the Trial Court's holding. Errors of fact will be reviewed based on whether there is substantial evidence to support the finding. Judicial rulings in discretionary matters are reviewed based on whether there was an abuse of discretion. Errors that are not likely to have had a substantial impact on the decision or on substantial rights are considered 'harmless errors' and are not a basis for reversal." The Appellate Judges reviewed this case on the record and deliberations were held on February 11, 2010. This Court now issues its decision within the established scope of review.</text>
+    </para>
+  </container>
+  <container name="Facts">
+    <heading>Facts</heading>
+    <para>
+      <num>¶3</num>
+      <text>Sometime prior to June 11, 2009, the Petitioner applied for a position as the LP Lead Driver for the Stockbridge-Munsee Community. A letter, dated June 11, 2009, from the Stockbridge-Munsee Community's Human Resources Department (HR) thanked the Petitioner for applying and scheduled an interview for 1:30 p.m. on June 23, 2009. The letter also states; <em>If you can not (sic) accept this position at $18.64 per hour please let us know ahead of time</em>. The Petitioner appeared for the interview with the HR Department at the scheduled time.</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>A letter from HR, dated June 26, 2009, was mailed to the Petitioner stating; <em>I am sorry to inform you that we are not able to offer you the LP Lead Driver position for which you recently interviewed.</em><fn path="|footnotes|1">1</fn> In an undated letter from the Petitioner to the HR Department the Petitioner acknowledges that he received the letter on June 27, 2009. In his letter he states; <em>With this letter I am appealing the hiring of the LP Lead Driver position, I am aware that past hiring practice has been that an enrolled Tribal member that can show qualification for hire is shown preference of hire over a non-enrolled candidate for hire. </em>Although the Petitioner's letter bears no date of its writing, the HR Department acknowledges it was received by their office on July 9, 2009.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>There is also reference in the Petitioner's letter that he made; <em>several attempts by phone to reach the number provided in the letter of 6/26/09 with no answer or call back.</em> The HR Department, in a letter to the Petitioner dated July 10, 2009, states; <em>I would first like to note that we did make several attempts to return your phone calls on June 26</em><sup><em>th</em></sup><em> and July 7</em><sup><em>th</em></sup><em>.</em><fn path="|footnotes|2">2</fn><em/></text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>In a letter dated July 20, 2009 from the Petitioner to Tribal Chairman Robert Chicks, the Petitioner states; <em>The response I received from Human Resource on 7/10/09 to the questioned hiring of a Non-Tribal person over a qualified enrolled member would seem in disregard to the established Tribal policy specific to Tribal Preference in employment. The statement by HR that the hiring process complied with Tribal Law and policy is an unreasonable and inadequate explanation, showing improper handling of acceptable hiring practice, that enhance enrolled members chances of being hired to Tribal employment if job qualifications are met. <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.02">Tribal Ordinance-Chapter 54 Titled, Employee preference policy ordinance</cite> - states the purpose of this ordinance is to provide maximum employment opportunity and preference in hiring and lay-off to the people of the Stockbridge-Munsee Community. See: sub. <cite doc="Old Stockbridge-Munsee Tribal Code" path="§54.2">Sec. 54.2</cite>, Establishing Preference <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.02.03">Sec. 54.2, Establishing Preference</cite> (enclosed). It appears that the HR dept. has willfully violated a good faith effort to reach agreement on an applicant whose selection complies with this ordinance</em><fn path="|footnotes|3">3</fn><em>.</em></text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>On October 26, 2009 the Petitioner filed a civil complaint with the Stockbridge-Munsee Tribal Court asking the Court to hear his complaint against HR and Director John Miller regarding his not being hired for the LP Lead Driver position.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>The trial court held a hearing on December 30, 2009 and found the following:</text>
+      <para>
+        <num>1.</num>
+        <text>The case was filed on October 26, 2009 by the Plaintiff, pro se, against the Defendants.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The case was filed as employee preference case under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.02">Chapter 54 of the Tribal Ordinances</cite>.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Plaintiff was not offered employment by the Stockbridge-Munsee Community in a letter dated June 26, 2009.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The case was not filed within the 5-day Statute of Limitations established in <cite doc="Old Stockbridge-Munsee Tribal Code" path="§54.8|(C)">Section 54.8(C)</cite> and therefore can not (sic) be heard.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The named Defendants share the Stockbridge-Munsee Community's sovereign immunity as a department and employee of the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>The trial court then dismissed this case with prejudice in an order dated December 30, 2009 and filed with the Court on January 5, 2010. January 20, 2010, the Petitioner-Appellant files an appeal of the trial court's decision. We now review the trial court's decision.</text>
+    </para>
+  </container>
+  <container name="Issue">
+    <heading>Issue</heading>
+    <para>
+      <num>¶10</num>
+      <text>The issue is whether the trial court erred, as a matter of law, when it dismissed the Petitioner's petition on the grounds that the Petitioner failed to timely file his request for review of the HR Department's decision not to hire Petitioner for the LP Lead Driver position.</text>
+    </para>
+  </container>
+  <container name="Applicable Law">
+    <heading>Applicable Law</heading>
+    <para>
+      <num>¶11</num>
+      <text><cite doc="Stockbridge-Munsee Tribal Code" path="EMP.02">Chapter 54-Employee Preference Policy Ordinance of the Stockbridge-Munsee Tribal Code</cite> was established for the purpose of providing optimum employment in the Stockbridge-Munsee Community for Tribal members, as well as those who live in the Community as spouses or direct descendants. It is a critical element to building self-sufficiency, sovereignty and an economy that combats poverty and social ills, and assures that the Stockbridge-Munsee Community receives the maximum benefits generated by its entities and enterprises.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>If there are violations or non-compliance with this ordinance, the Tribe has provided remedies and a limited waiver of sovereign immunity for purposes of enforcement. <cite doc="Old Stockbridge-Munsee Tribal Code" path="§54.8">Section 54.8 </cite>provides the following:</text>
+      <include>
+        <para>
+          <num>(A)</num>
+          <text>In order to enforce the provisions of this ordinance, the Stockbridge-Munsee Community shall be subject to suit in the Stockbridge-Munsee Tribal Courts by employees or applicants in accordance with the limitations of this section.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Money damages shall not be available in any suit brought under this ordinance. The sole remedy available to the aggrieved party shall be the appointment to the job, promotion, transfer, or interim appointment that was denied as a result of a violation of this ordinance. The complainant may also be awarded a similar unfilled position if one is available.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Any complaint brought under this Ordinance must be filed in Tribal Court within 5 business days of receipt of notice that the complaining applicant did not receive the position. Complaints brought more than 5 days after notification shall not be heard.</text>
+        </para>
+      </include>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>In order to decide the issue of whether the Petitioner timely filed his request for review, this Court looks at <cite doc="Old Stockbridge-Munsee Tribal Code" path="§54.8|(C)">Section 54.8(C)</cite> in its analysis.</text>
+    </para>
+  </container>
+  <container name="Analysis">
+    <heading>Analysis</heading>
+    <para>
+      <num>¶14</num>
+      <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§54.8|(C)">Section 54.8(C)</cite> is very specific. It states that any complaint brought under this Ordinance must be filed in Tribal Court within 5 business days of receipt of notice that the complaining applicant did not receive the position.<fn path="|footnotes|4">4</fn> This brings into question as to whether or not the undated letter from the Petitioner to the Stockbridge-Munsee Human Resource Department stating; <em>With this letter I am appealing the hiring of the LP Lead Driver position.........</em> constitutes a filing under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§54.8|(C)">54.8(C)</cite>.<fn path="|footnotes|5">5</fn> In this letter the Petitioner states; <em>I have made several attempts by phone to reach the number provided in the letter of 6/26/09 with no answer or call back. </em>The Petitioner, at the December 30, 2009 hearing, again refers to his attempts to call HR.<fn path="|footnotes|6">6</fn> Do attempted phone calls to HR constitute notice of appeal? This Court finds that they do not as the applicable law is very specific stating that it must be filed in Tribal Court.</text>
+    </para>
+    <para>
+      <num>¶15</num>
+      <text><strong>In Stockbridge-Munsee Community -v- Joseph Miller</strong>, the Stockbridge-Munsee Tribal Court of Appeals set a <em>bare requirements</em> standard for Notice of Appeal.<fn path="|footnotes|7">7</fn> In that case the Director of Tribal Services issued an Inter-Office Memorandum to the Interim Manager of Human Resources requesting an appeal of the Employee Mediation Panel's (EMP's) decision. Specifically, the memo referred to the subject as an "<em>Appeal to Tribal Court for Joe Miller Grievance" and further stated "I do not agree with the panels (sic) response. Please foreward (sic) this to the Tribal Court......</em> The Interim Manager filed the memo with the Tribal Court within the statute of limitations. However the formal Petition for Review was not filed with the Tribal Court until sometime after the statute of limitations had run. The trial court dismissed the case because it was untimely filed. The Stockbridge-Munsee Tribal Court of Appeals disagreed and overturned the trial court stating:</text>
+      <include>
+        <text>
+          <em>We.... conclude that the memo does constitute a Notice of Appeal. We recognize, however, that the February 18, 1997 memo meets the bare requirements for Notice of Appeal. ........ We do so with the express finding that the request was timely filed in this case.</em>
+        </text>
+      </include>
+    </para>
+    <para>
+      <num>¶16</num>
+      <text>This Court finds that neither the attempted phone calls to HR or the undated letter to HR with cc: to Tribal Council, Attn: Pres. Bob Chicks meets this bare requirement standard. There is no indication of the Court being notified of any appeal in this letter. Even if a copy of the undated letter was filed with the Court it would have been filed beyond the five day statute of limitations based on the Petitioner's acknowledgement that he drafted the letter on July 8, 2009 (footnote 4).</text>
+    </para>
+    <para>
+      <num>¶17</num>
+      <text>In his appeal, the Petitioner states; <em>The petitioner who has no legal training attempted to exercise his rights as a Tribal member by filing his grievance/appeal with the HR department. </em>He also states; <em>The response from HR indicated willful disregard of established Tribal policy. The next step follow-up was established by written notification of improper hiring to president Chicks, as council representative and direct admin. Supervisor of HR.</em> This Court finds that neither of these actions constitutes an exercise of Petitioner's rights as provided under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§54.8|(C)">54.8(C)</cite> in which the Stockbridge-Munsee Tribal Council provided clear and specific provisions for remedies if there were violations of Tribal policy.</text>
+    </para>
+    <para>
+      <num>¶18</num>
+      <text>The Petitioner references, what he considers, a disturbing comment made by defense council during the December 30, 2009 hearing that ignorance of the law is no excuse. Although the Petitioner finds this comment disturbing, ignorance of the law is a legal principle holding that a person who is unaware of a law may not escape liability for violating that law merely because he or she was unaware of its content. The rationale of the doctrine is that if ignorance were an excuse, a person charged with criminal offenses or a subject of a civil lawsuit, as in this present case, could merely claim that he or she is unaware of the law in question to avoid liability, even though the person really knows what the law in question is. The doctrine assumes that the law in question has been properly posted and distributed. It may be printed in a government newspaper, available over the internet or printed and available for sale at affordable prices. In the case at hand, this Court acknowledges that all Stockbridge-Munsee ordinances are available over the internet at Mohican.com.</text>
+    </para>
+    <para>
+      <num>¶19</num>
+      <text>At the December 30, 2009 trial court hearing, Doug Miller, advocating for the Petitioner, states <em>"I am aware that there have been other parties that have used have used (sic) the preference and have filed within the five days limitation and I think you know that the fact that the case that I'm aware of is where the plaintiff was an attorney with an aunt that was a judge."</em><fn path="|footnotes|8">8</fn></text>
+    </para>
+    <para>
+      <num>¶20</num>
+      <text>Although the Petitioner may have become aware of this information during preparation for the December 30, 2009 hearing, this Court finds that the Petitioner did have knowledge of and access to the information regarding the Stockbridge-Munsee ordinances that protected his rights to appeal.</text>
+    </para>
+    <para>
+      <num>¶21</num>
+      <text>The Petitioner states, <em>"You wrote the law, the attorney wrote the law and now they hide behind the law."</em><fn path="|footnotes|9">9</fn> Although it may be true that the attorney wrote the law, it is the Tribal Council who passes and enacts the law. Generally, statutes of limitations are enacted by the legislature as in this case by the Tribal Council. The Tribal Council may either extend or reduce the time limits, subject to certain restrictions, but the court cannot extend the time period unless the statute provides such authority. If the Petitioner feels that the law should be changed to extend the time period, he should approach the Tribal Council on this matter. This Court finds no statutory authority exists for it to extend the statute of limitations.</text>
+    </para>
+    <para>
+      <num>¶22</num>
+      <text>In the Petitioner's Appellate Brief in Support of Appeal Court Action, he states; <em>It appears that the legal dept. has willfully created laws and conditions that restrict and prohibit the protection of Tribal preference laws enacted and mandated in <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.02">Chapter 54</cite>.</em> As stated above, it is the Tribal Council that enacts laws, not the legal department.</text>
+    </para>
+    <para>
+      <num>¶23</num>
+      <text>In stating his grounds for appeal, the Petitioner states; <em>The Tribal court failed to consider, in its order to dismiss, the fundamental issue that guarantees the legal fairness of protected rights.</em> In viewing this statement, this Court finds that the guarantees of the legal fairness of protected rights is a duty of the Court, but also finds that these guarantees apply to all parties of the case, not merely the Petitioner. The Petitioner, on numerous occasions in his motion to appeal and during the December 30, 2009 court hearing, references that HR failed to inform him of a five day period in which he could appeal the denial of his hiring. He states; <em>This is a case where HR is not following it's (sic) policies and they're hurting their people.</em><fn path="|footnotes|10">10</fn> Although such a policy may have merit, this Court can find no current tribal policy requiring HR to provide appellate information when it does not hire a person for employment with the tribe. In his motion to appeal, the Petitioner states; <em>The court in its decision did not address a critical issue of Tribal law that mandates Tribal preference in hiring.</em><fn path="|footnotes|11">11</fn> This Court agrees. The trial court did not address a critical issue of Tribal law that mandates Tribal preference hiring. However, it is the Petitioner's own lack of action that barred the trial court from addressing that issue as the ordinance states;</text>
+      <include>
+        <text>
+          <em>Any complaint brought under this Ordinance must be filed in Tribal Court within 5 business days of receipt of notice that the complaining applicant did not receive the position. Complaints brought more than 5 days after notification shall not he heard.</em>
+        </text>
+      </include>
+    </para>
+  </container>
+  <container name="Conclusion">
+    <heading>Conclusion</heading>
+    <para>
+      <num>¶24</num>
+      <text>In reviewing this case <em>de novo</em>, it is the conclusion of this Court that the trial court did not abuse its discretion nor did it not err in dismissing this case because it was not filed within the 5-day statute of limitations.</text>
+    </para>
+  </container>
+  <container name="Decision">
+    <heading>Decision</heading>
+    <para>
+      <num>¶25</num>
+      <text>The decision of Stockbridge-Munsee trial court is hereby affirmed. This decision is final.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Dated this 15th day of March, 2010</text>
+    <text>By the Court</text>
+    <text>David D. Raasch, Appellate Judge</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Letter was signed by Melissa Welch, HR Specialist</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>This letter was signed by Beverly Miller, Human Resources Manager</text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text>The letter is signed by the Petitioner and notes an enclosure CC; Tribal Council</text>
+    </footnote>
+    <footnote>
+      <num>4</num>
+      <text>Must: be required by law, custom, or moral conscience to obey the rules – Merriam-Webster</text>
+    </footnote>
+    <footnote>
+      <num>5</num>
+      <text>The Petitioner, in the filing of his civil complaint on October 26, 2009, indicates in the list of relevant documents enclosed that his appeal letter to HR was written on July 8, 2009.</text>
+    </footnote>
+    <footnote>
+      <num>6</num>
+      <text>Trial Court transcript at 119-122.</text>
+    </footnote>
+    <footnote>
+      <num>7</num>
+      <text>
+        <cite doc="97-AA-004">Case No. 97-AA-004</cite>
+      </text>
+    </footnote>
+    <footnote>
+      <num>8</num>
+      <text>Trial Court transcript 148-151</text>
+    </footnote>
+    <footnote>
+      <num>9</num>
+      <text>Trial Court transcript 208-209</text>
+    </footnote>
+    <footnote>
+      <num>10</num>
+      <text>Trial Court transcript at 215-216</text>
+    </footnote>
+    <footnote>
+      <num>11</num>
+      <text>Referring to the trial court's decision</text>
+    </footnote>
+  </footnotes>
+</document>

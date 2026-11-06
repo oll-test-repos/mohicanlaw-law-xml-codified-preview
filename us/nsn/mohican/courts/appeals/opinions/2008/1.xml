@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2008 SMTCA 1">
+  <num>2008 SMTCA 1</num>
+  <heading>Robert Little vs. Darrin Church</heading>
+  <meta>
+    <effective>2008-06-09</effective>
+    <citations>
+      <citation type="reporter" url="./2008 SMTCA 1.pdf">2008 SMTCA 1</citation>
+      <citation type="opinion" url="./2007-CV-0028.pdf">Case No. 2007-CV-0028</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Robert Little</name>
+        <designation>Plaintiffs-Appellants</designation>
+      </party>
+      <party>
+        <name>Darrin Church</name>
+        <designation>Defendant-Appellee</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This matter is before the Stockbridge-Munsee Tribal Court, Court of Appeals, on appeal from a ruling of dismissal issued by the Honorable Robert Miller based on a finding that the court lacked subject matter jurisdiction to hear this matter.</text>
+  </para>
+  <container name="Procedural History">
+    <heading>Procedural History</heading>
+    <para>
+      <num>¶2</num>
+      <text>In October of 2005, the Appellant, Robert Little, made a personal loan to Appellee, Darrin Church, in the amount of $375.00. In exchange for this loan, Church pledged an eagle feather head stick and an eagle feather visor which Little could hold until the loan was paid in full. Little still holds the eagle visor but returned the eagle stick to Church which Church stated he was going to sell and pay Little the remainder of the debt. Church paid $50.00 to Little on August 3, 2007 and $325.00 of the loan is still outstanding. It is unknown if Church has sold the eagle stick.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>This matter first came before the trial court on January 25, 2008 upon a filing of an action by Little seeking a judgment for the loan. Church was served with notice of this action but failed to appear to contest it. Because of the non-appearance by Church, the court initially entered a default judgment against him. Pursuant to Tribal Procedure, when a default is entered, a letter is sent to the defaulting party informing them that they have 10 days to dispute the default judgment. This letter was never sent as the judge was informed by unknown sources that the use of eagle feathers as collateral for loans is illegal. Instead of sending the standard letter, the judge ordered another hearing to determine the legality of the transaction. This hearing was held on February 8, 2008, in which the court ruled that this case involves Federal Law and possible Federal offenses requiring the court to dismiss the case for lack of subject matter jurisdiction.</text>
+    </para>
+  </container>
+  <container name="Analysis">
+    <heading>Analysis</heading>
+    <para>
+      <num>¶4</num>
+      <text>It is well known that American Indians can possess eagle feathers for ceremonial purposes. This is codified in Title 50 of the Code of Federal Regulations and is included in the Lacey Act. Title 50 CFR 22 at section 12, makes it "illegal to sell, purchase, barter, trade, import or export at anytime or in any manner any bald eagle or golden eagle......parts….." (Full text omitted). The question in this situation is whether it is illegal to use eagle feathers as collateral for a loan and whether this transaction is actionable when there is a default on the loan.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>As stated above, Judge Miller dismissed this case based on lack of jurisdiction. In doing so, he stated that "there is (sic)rules about what you can do with the eagle feather, you just can't hock it, you can't sell it, you can't do any of that." He also stated: "there was an exchange of dollars." What Judge Miller was referring to were the Federal Laws governing such transactions.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>Appellant Little argues that this transaction doesn't fit into the Federal prohibitions found in Title 50 CFR 22. 12 because Church simply put the eagle feathers into his possession to hold, not to hock. We agree with Judge Miller that this reasoning "is a stretch" because when Church defaulted on the transaction, Little could have simply kept the feathers. This becomes a selling and a purchase which is explicitly prohibited by Federal Law. In fact, Appellant Little still holds the eagle visor.</text>
+    </para>
+  </container>
+  <container name="Conclusion">
+    <heading>Conclusion</heading>
+    <para>
+      <num>¶7</num>
+      <text>Although this court does not agree with Judge Miller for dismissing this case for lack of jurisdiction, we find he was correct in dismissing the case because the transaction involved was an illegal act which is not actionable in any court.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>
+        <strong>JUDGMENT AFFIRMED, CASE DISMISSED.</strong>
+      </text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>
+      <strong>FOR THE COURT UNANIMOUSLY,</strong>
+    </text>
+    <text>Dated this 9th day of June, 2008</text>
+    <text>Marianne Higgins, Judge</text>
+    <text>Robert Kittecon, Judge Pro Tem</text>
+    <text>Leland Ninham, Judge Pro Tem</text>
+  </procedural-data>
+</document>

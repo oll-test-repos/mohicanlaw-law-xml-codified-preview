@@ -1,0 +1,1295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 028-25" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>028-25</num>
+  <heading/>
+  <meta>
+    <ordinance/>
+    <effective>2025-04-01</effective>
+    <history>
+      <adopted>2025-04-01</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/028-25.pdf" proof="needed">Stockbridge-Munsee Tribal Council Res. No. 028-25</citation>
+      <citation type="BIA" url="./BIA/028-25.pdf" proof="needed">BIA Approval for Res. No. 028-25</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted a Forestry Ordinance, ENV.02, which was designated as Chapter 22 prior to the Tribe's re-organization and renumbering of its Code in 2021;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Amendments to the Forestry Ordinance have been proposed that include: changing references to the Tribal Forester to Forest Manager; the removal of the Forestry Committee By-Laws from the text of the Ordinance to instead be a stand-alone document as well as clarifications of the advisory role of the Committee in relation the Council; language updates to clarify intent including for the term stumpage and for non-timber forest products; establishment of a 35-foot buffer around streams that are not trout streams; re-organization of standards regarding ginseng harvesting; clarification of the process used for domestic clearing permits; clarification on standards for denial or revocation of permits, contracts, or contract changes; and clarification of processing for approved loggers list, the timber sale bid policy, and tribal logger preference.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts substantive revisions to the Forestry Ordinance that include the following:</text>
+      <text>
+        <ul proof="needed">
+          <li>The creation of new subsections in ENV.02: 02(v) and (w); .05(a) and (b); .10(c); .11(c); .15(d)(1-5) and (e)(1); .17(a)(1), (b) and (c); .18(b)(3); .23(c)(2), (d), (e), (f)(2), (f)(2)(A) and (B).</li>
+          <li>The modification of sections in ENV.02: .02(h), (l), and (aa); .03; .04; .06(d); .07; .09; .10; .11; .12; .14; .15; .17; .19; .20; .21; .22; .23; and .26(f)(5).</li>
+          <li>The deletion of subsections in ENV.02: .05 (Articles I-V); .23(c)(2); .23(d)(2), (5) and (6).</li>
+          <li>Moving the content in <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.09|(b)|(1-4)" proof="needed">ENV.02.09(b)(1-4)</cite> to <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.14|(b)|(1-4)" proof="needed">ENV.02.14(b)(1-4)</cite>.
+          </li>
+        </ul>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the authorizes the submittal of the amended ordinance to the Bureau of Indian Affairs for approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 4, constituting a quorum, were present at a meeting duly called, noticed, and held on the 1st day of April, 2025, that the foregoing resolution was duly adopted at such meeting by a vote of 3 for, 0 against, and 0 abstaining.</text>
+    <table class="layout-table">
+      <tr>
+        <td>__________________________</td>
+        <td class="text-indent-3">__________________________</td>
+      </tr>
+      <tr>
+        <td>Shannon Holsey, President</td>
+        <td class="text-indent-3">Jody Hartwig, Secretary</td>
+      </tr>
+    </table>
+  </procedural-data>
+  <codify:replace path="ENV.02.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.02">
+    <section>
+      <num>ENV.02.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Approved Logger" means an individual and/or business that is on the Tribe's current Approved Loggers list.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Authorized Law Enforcement" refers to both the Tribe's police officers and the Tribe's conservation wardens.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"BIA" refers to the U.S. Department of Interior, Bureau of Indian Affairs.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"BIA Forester" means a Forestry Staff member employed by the BIA on behalf of the Tribe and has authority over lands held in trust.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Committee" refers to the Stockbridge-Munsee Forestry Committee.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Cord" means 128 cubic feet of stacked wood.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"DBH" means Diameter at Breast Height which is accepted as four and one half (4.5) feet above the ground.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Descendant" refers to a person who is identified as a descendant by the Tribe.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Elder" refers to a person who is age 55 or older.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Emergency" means a situation usually caused by catastrophic events such as tornadoes, floods, storms, and other similar events that requires tree removal immediately.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Enrolled member" means a person who is enrolled for membership in the Tribe.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Forest-Officer-in-Charge" or "FOC" means a member of the Forestry Staff with responsibility over land that is part of the Reservation.  The BIA Forester has responsibility over trust lands.  The Forest Manager has responsibility over lands held by the Tribe in fee simple.  The Forest Manager also is the FOC over any Enterprise Sale of Forest Products.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Forest Products" refers to timber harvested with the intent of sale, wood chips and other similar timber-based materials.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Forestry Staff" means all employees employed by the Tribe in the Forestry Department, as well as the BIA Forester.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Greenery" means any material from an herbaceous plant or shrub, or a tree branch no larger than two inches (2") in diameter at the base.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Motor Vehicle" means any vehicle powered by mechanical means. This includes, but is not limited to, cars, trucks, vans, all-terrain vehicles (ATVs), utility task vehicles (UTVs), snowmobiles, motorcycles and tractors.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Personal use" means use by the Tribal member holding the permit and his or her immediate household.  Products intended for personal use may not be sold, given away or exchanged for cash, goods or other services unless specifically authorized under a permit.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Reservation," for purposes of this ordinance, refers to those lands that are proclaimed as the reservation of the Stockbridge-Munsee Community, lands held in trust for the Stockbridge-Munsee Community, individual trust lands under the jurisdiction of the Stockbridge-Munsee Community, and lands owned by the Tribe in fee simple.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Sapling" means any tree with a DBH greater than two (2) inches, but less than five (5) inches.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Seedling" means any tree with a DBH less than two (2) inches.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"Shrub" means a woody perennial plant usually branched several times at or near the base, giving it a bushy appearance, usually less than seventeen (17) feet in height at maturity.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>"Stumpage Rate" means the stumpage value per unit of measure for a forest product.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>"Stumpage Value" means the value of a forest product that is designated for harvest within a specified area. Stumpage value refers to the monetary value available to the Tribe, as owner of forest products, for the right to harvest and remove timber or forest products from tribal land. Stumpage value is often based on the value of the forest product received upon delivery to a processing facility (delivered log price) minus the costs of delivering the forest products to a processing facility, harvesting costs, and forestry project costs.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>"Timber" means any tree, or portion of a tree, that could be harvested as a forest product: pulp, bolt, saw log or veneer.  Merchantable timber has a DBH of 5 inches or larger.  Standing timber is merchantable timber that has not yet been harvested.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>"Tree" means a woody perennial plant with a single trunk (typically unbranched near the base), usually exceeding seventeen (17) feet in height at maturity.</text>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text>"Tribal Council" refers to the governing body for the Stockbridge-Munsee Community as established under its Constitution.</text>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <text>"Forest Manager" means the Forestry Staff member hired by the Tribe to head the Forestry Department and have responsibility over lands owned in fee simple by the Tribe, as well as Tribal Forest Enterprise activities.</text>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>"Tribal Forest Enterprise" means an enterprise that is initiated and organized by the Tribe and, for purposes of this ordinance, typically occurs when the Tribe retains ownership of some or all forest products after harvest to sell to one or more third parties.</text>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <text>"Tribal Logger" means any enterprise that is at least 51% owned by one or more enrolled member(s) of the Stockbridge-Munsee Community. In order to be awarded sale contracts, a Tribal Logger must also be on the Approved Loggers list.</text>
+      </para>
+      <para>
+        <num>(dd)</num>
+        <text>"Tribe" refers to the Stockbridge-Munsee Community.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.03">
+    <section>
+      <num>ENV.02.03</num>
+      <heading>Committee Mission Statement</heading>
+      <text>The Committee was established by the Tribal Council to aid in the protection and conservation of the forest resources of the Tribe.  The purpose of the Committee is to act as an advocate for and make recommendations to the Tribal Council on all forestry-related matters.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.04">
+    <section>
+      <num>ENV.02.04</num>
+      <heading>Committee Objectives</heading>
+      <para>
+        <num>(a)</num>
+        <text>In fulfilling its obligations under tribal law, the Forestry Committee's objectives are:</text>
+        <para>
+          <num>(1)</num>
+          <text>Protection of any and all forest assets of the Tribe;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Preservation and maintenance of our forests for future generations while allowing for controlled harvest of forest resources in a safe and sustainable manner;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Maintenance of logging roads;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Assurance of proper logging practices; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Consideration of all natural resources including, but not limited to, flora, fauna, water and wetlands.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.05">
+    <section>
+      <num>ENV.02.05</num>
+      <heading>Committee By-Laws</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council will adopt bylaws, consistent with the Tribe's Constitution and its normal practices, governing the organization and operation of the Committee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Committee may recommend amendments to the bylaws where it believes them to be necessary to fulfill its obligations under tribal law. Such amendments are subject to approval by the Tribal Council in accordance with the terms of the bylaws.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.06">
+    <section>
+      <num>ENV.02.06</num>
+      <heading>Tribal Council</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council has overall authority to approve recommendations from the Committee and Tribal employees in relation to issues, policies and procedures related to the use of forest resources.  However, the Tribal Council acknowledges that the use of trust forest resources must be consistent with applicable requirements under federal law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Council establishes a system for permitting the use of forest resources as outlined under this ordinance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Council reserves the right to issue special permits upon such terms and conditions as the Tribal Council deems appropriate and to waive provisions of this ordinance for special cultural or ceremonial events.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Council authorizes the set aside of 100% of Proceeds of Labor funds from sales of forest resources on trust lands (such funds are held by the federal government per 25 U.S.C. 155) as well as proceeds from sales of forest resources on fee simple lands for future land acquisition.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.07">
+    <section>
+      <num>ENV.02.07</num>
+      <heading>Forestry Staff</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Forestry Department is a department of the Tribal Government and is responsible for carrying out the functions and policies of the Tribe relating to the forest resources that are consistent with this ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Forestry Staff shall have authority to enforce the provisions of this ordinance utilizing Authorized Law Enforcement personnel.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Forestry Staff shall also provide assistance as necessary and needed in order that the BIA can enforce provisions of this ordinance and/or federal law on trust land.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Forestry Staff shall work with the Fish and Wildlife Board, Conservation Department, Ecology Department and Environmental Department to ensure that all natural resources including, but not limited to, flora, fauna, water and wetlands are not harmed by activities controlled, regulated, or authorized by the Forestry Department.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Forestry Staff shall work with the Cultural Affairs Department and/or the Tribal Historic Preservation Officer to ensure historical and/or cultural resources are not harmed by the activities controlled, regulated or authorized by the Forestry Department.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.09" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.09">
+    <section>
+      <num>ENV.02.09</num>
+      <heading>Harvesting Of Non-Timber Forest Products</heading>
+      <para>
+        <num>(a)</num>
+        <text>All enrolled members may harvest non-timber forest products.</text>
+        <para>
+          <num>(1)</num>
+          <text>Non-timber forest products include, but are not limited to: sap, berries, mushrooms, greenery (herbs, shrubs and branches), roots, wildflowers, moss and wild vegetables.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Non-timber forest products may be harvested for personal use and this does not require a permit. Harvested non-timber forest products may not be sold or exchanged for cash, goods or other services.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Non-enrolled spouses and descendants may harvest non-timber forest products so long as an enrolled member of the Tribe is present.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Wild ginseng (<em>Panax quinquefolius</em>) may only be harvested by an enrolled member for personal use, provided that person has obtained and has complied with a valid Free-Use Ginseng Permit issued pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.14|(b)">ENV.02.14 (b)</cite>.
+        </text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.10">
+    <section>
+      <num>ENV.02.10</num>
+      <heading>Forestry Activities By Waters</heading>
+      <para>
+        <num>(a)</num>
+        <text>There will be no commercial harvest of standing timber within 300 feet of a river without prior approval of the Tribal Council.  For the purposes of granting forestry permits, rivers are defined as the Red River, the West Branch of the Red River, and Silver Creek.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All other streams will have a 100-foot no-cut buffer, unless the requirement for a buffer is recommended to be waived by both the Committee and the Tribe's Fish and Wildlife Board and authorized by Tribal Council.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.11" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.11">
+    <section>
+      <num>ENV.02.11</num>
+      <heading>Disease Or Infested Trees</heading>
+      <para>
+        <num>(a)</num>
+        <text>Insects, disease, or infestation may require or limit harvesting conditions or requirements.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Oak Wilt.</heading>
+        <text>Felling, pruning, or trimming an oak tree shall not be done between April 1 and September 1 of each year.  On a case-by-case basis, some oak trees may be cut or manipulated under the Domestic Clearing Permit, but are subject to the restrictions listed under that permit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Insect or disease seasons or restrictions may be waived or adjusted by recommendation of the Forest Manager and Committee and authorized by Tribal Council. Any adjustments to the seasons and restrictions will be documented under the terms of any applicable permits and/or contracts for timber sales.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.12" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.12">
+    <section>
+      <num>ENV.02.12</num>
+      <heading>Forest Roads</heading>
+      <para>
+        <num>(a)</num>
+        <text>The forest road network is vital to the Tribe's logging operations and provides access to the Reservation for enrolled members.  Keeping this network in good work condition is mandatory.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Forest roads are not public rights-of-way, but rather are a private road network for the use of the Tribe.  The following persons have permission to use the forest roads and/or access forested portions of the Reservation to the following persons:  enrolled members, Tribal employees who need access for their work and such other persons who have authorization from the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Use of Open Roads by Authorized Persons.</text>
+        <para>
+          <num>(1)</num>
+          <text>Open forest roads may be used by any motor vehicle, which is not prohibited for any other reason, so long as no excessive damage is done to the road.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Motor vehicle traffic may not make new forest roads without the consent of the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Motor vehicle traffic may not cause excessive damage which could inhibit the use of the forest road by any other Tribal member or Tribal department.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Forest roads may not be blocked for any reason by any person other than Forestry Staff or Authorized Law Enforcement, without the consent of the Tribal Council. The intentional blockage of a forest road is also a violation of <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.26|(c)|(5)">ENV.01.26 (c)(5)</cite>.
+          </text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Spring Breakup Road Closure.</text>
+        <para>
+          <num>(1)</num>
+          <text>To reduce degradation, the Forest Manager will monitor conditions during spring breakup and will make the decision of when motor vehicle traffic will be prohibited from any or all forest roads and landings.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>ATVs, UTVs and snowmobiles are exempt from the spring breakup road closure.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A notice will be posted in all Tribal Offices and Tribal posting locations at or before the time of closure. If only a portion of the forest road system is to be restricted, a map should be included in the posting.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A notice of road closure will be submitted for publication in the Mohican News. However, due to the potential emergency timeframe needed on some closures, the effective dates may occur prior to publication in the newspaper.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Special Concern Road Closure.</text>
+        <para>
+          <num>(1)</num>
+          <text>Forest roads may need to be closed to any or all motor vehicles at any time of the year for various reasons such as, but not limited to, safety hazards, invasive species infestations, erosion or other special concerns.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any Special Concern Road Closure must be brought before the Committee and approved by Tribal Council.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If any Special Concern Road Closure is deemed necessary:</text>
+          <para>
+            <num>(A)</num>
+            <text>A notice will be posted in all Tribal Offices and Tribal posting locations at or before the time of closure. A map should be included in the posting.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A notice will be submitted for publication in the Mohican News.  However, due to the potential emergency timeframe needed on some closures, effective dates may occur prior to publication in the newspaper.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>A physical obstruction will be placed at the beginning and end of the forest road subject to the Special Condition Road Closures and remain in place until the closure is lifted.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.14" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.14">
+    <section>
+      <num>ENV.02.14</num>
+      <heading>Forestry Staff Approved Permits</heading>
+      <para>
+        <num>(a)</num>
+        <text>The following activities require permits and can be authorized and issued by the Tribal Forestry Staff.  Permit requests must be submitted in writing and department forms should be used if available.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>FREE-USE GINSENG PERMIT:</heading>
+        <text>Adult enrolled members may obtain a permit to harvest wild ginseng (<em>Panax quinquefolius</em>) for personal use.  There is no charge for this permit.</text>
+        <para>
+          <num>(1)</num>
+          <text>Only plants with 3 prongs or more may be harvested.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Wild ginseng may only be harvested during ginseng season, which is September 1 to October 15.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All wild ginseng harvested must be reported to Forestry Staff in person by the end of the season.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Harvesters may retain roots, stalk and leaves, but all berries from the harvested plant must be planted within five (5) feet of the parent plant at the time of harvest.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>FREE-USE FIREWOOD PERMIT:</heading>
+        <text>Adult enrolled members may obtain an annual permit from Forestry Staff to harvest firewood for personal use.  There is no charge for this permit.  No stumpage rate is charged for the firewood harvested.</text>
+        <para>
+          <num>(1)</num>
+          <text>Forestry Staff is authorized to issue Free-use Firewood Permits, so long as there are no special conditions in relation to that permit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Free-use Firewood Permits with special conditions, such as those regarding who is authorized to harvest the wood, are subject to approval by the Committee and Tribal Council.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No products harvested for personal use may be sold, given away, or exchanged for cash, goods, or other services.  The prohibition on giving away wood does not apply to wood donations to an enrolled Stockbridge-Munsee Tribal Elder or for Stockbridge-Munsee cultural practices.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A Firewood Permit is valid from March 15<sup>th</sup> until March 14<sup>th</sup> of the following year and is valid on all Reservation lands.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Ten (10) full cords of firewood shall be the maximum allowable harvest per permit.  Additional cordage may be requested after the allowable limit is used and may be granted at the discretion of the Committee.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>When applying for a Free-use Firewood Permit, the enrolled member must provide their enrollment number and indicate if the firewood is leaving the Reservation.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Only enrolled members, non-enrolled spouses and descendants may assist the permit holder with harvesting firewood except as follows.</text>
+          <para>
+            <num>(A)</num>
+            <text>The following persons are eligible to apply for a permit with special conditions to allow persons other than those identified in the above subsection to assist with harvesting firewood:</text>
+            <para>
+              <num>(i)</num>
+              <text>Non-enrolled parents or legal guardians of enrolled member children who are living on the Reservation; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Elder or disabled enrolled members.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Any person providing harvest assistance without the presence of the permit holder must be identified on the permit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Firewood can only be cut from dead or down trees. Oak trees that are standing dead are subject to the seasonal bar on harvest under <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.11|(b)">Section ENV.02.11(b)</cite>.
+          </text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Requests to use tractors, skidders or other type of commercial machinery to remove firewood must be submitted in writing to Forestry Staff.  The request will be forwarded to the Committee for recommendation and must be approved by the Tribal Council prior to equipment use.  If approved, precaution must be exercised to prevent damage to the forest and equipment may need to be washed and inspected upon request by Forestry Staff.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Scaling is not required.  However, the Forestry Staff and Authorized Law Enforcement have the right to verify the volume of firewood is within the permit limits.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>DOMESTIC MAINTENANCE PERMIT:</heading>
+        <text>Adult enrolled members may obtain a permit from the Forestry Staff to remove merchantable timber for safety or aesthetic reasons on their land assignment.  There is no charge for this permit.</text>
+        <para>
+          <num>(1)</num>
+          <text>Forestry Staff will approve and mark all trees prior to harvest.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Oak trees may only be felled or manipulated during the times when there is no seasonal bar on harvest under <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.11|(b)">Section ENV.02.11(b)</cite>, except as provided under <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.14|(d)|(5)">Section ENV.02.14(d)(5)</cite>.
+          </text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A Domestic Maintenance permit is valid from January 1<sup>st</sup> through December 31<sup>st </sup>and is valid on all Reservation land.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The enrolled member may cut the forest products or may choose anyone to cut the forest products at their own expense.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Downed trees from storms may be cut on an enrolled member's land assignment without obtaining a permit.</text>
+          <para>
+            <num>(A)</num>
+            <text>The enrolled member must notify Forestry Staff of the cut as soon as reasonably possible, if they do not possess a firewood permit.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Downed oaks may be cut or manipulated so long as Forestry Staff is notified.  The resulting oak stump must be burned, buried, or treated with a pruning spray within 24-hours of the tree being cut.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Personal Use.</text>
+          <para>
+            <num>(A)</num>
+            <text>No stumpage rate will be charged so long as the forest products are retained for personal use by the enrolled member holding the permit and their immediate household.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>No products cut for personal use may be sold, given away, or exchanged for cash, goods or other services.  The prohibition on giving away wood does not apply to wood donations to another enrolled member.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Scaling is not required.  However, Forestry Staff and Authorized Law Enforcement have the right to verify that the volume of wood.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Sale of Wood.</text>
+          <para>
+            <num>(A)</num>
+            <text>If the permit holder intends to sell the wood or exchange it for cash or goods, then the stumpage at the then current rate will be charged on timber harvested under this permit.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A receipt for the stumpage payment must be received by the Forestry Department prior to the sale of the timber.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Scaling is required.  Forestry Staff and Authorized Law Enforcement have the right to verify that the volume of wood.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>MAPLE SAP COLLECTION PERMIT:</heading>
+        <text>Adult enrolled members may obtain an annual permit from the Forestry Department to drive a motor vehicle on logging roads for sap collection during such times as when forest roads are closed for spring breakup under <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.12|(d)">ENV.02.12 (d)</cite>.  There is no charge for this permit.</text>
+        <para>
+          <num>(1)</num>
+          <text>Permit holders must designate which roads they wish to use when requesting the permit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Permit holders are allowed to use motorized vehicles on forest roads for the purpose of hauling sap from collection points to their processing area.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Forestry Staff will inspect the forest road to verify whether the road was restored as required.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The permit holder must restore the forest road to its original condition before June 1<sup>st</sup> of the permit year.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If the permit holder fails to restore the forest road as required, then:</text>
+          <para>
+            <num>(A)</num>
+            <text>the Forestry Department will have the road restored at the permit holder's expense; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>the permit holder will be barred from obtaining another permit for the use of any forest roads for sap collection.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.15" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.15">
+    <section>
+      <num>ENV.02.15</num>
+      <heading>Tribal Council Approved Permits</heading>
+      <para>
+        <num>(a)</num>
+        <text>The following activities must be brought to the Committee and approved by the Tribal Council before the permit can be issued by Forestry Staff.  Permit requests must be submitted in writing and department forms should be used if available.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>DOMESTIC USE PERMIT:</heading>
+        <text>Adult enrolled members may obtain a permit to harvest forest products such as: cedar, white birch bark, balsam boughs, white pine, etc., for their own personal use such as; for fences, decorations or other projects.  Applicants shall state what materials and amounts are needed.  The prohibition on giving away products does not apply to donations to an enrolled elder or for Stockbridge-Munsee cultural practices.  There is no charge for this permit.  No stumpage rate is charged for the forest products harvested.</text>
+        <para>
+          <num>(1)</num>
+          <text>The enrolled member must submit a written request to the Committee notifying them of the quantity, type of product to be harvested and how the product will be used. Depending on the size of the project the Committee may ask for submission of detailed plans.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Forestry Staff will determine the availability of the forest product and may designate where the product will be harvested, should the permit be issued.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Committee will make a recommendation to the Tribal Council.  A maximum allowable cut will also be recommended to the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If Tribal Council approves the request, the Forestry Staff will issue the permit.  The permit will be valid for a specified time, not to exceed one year.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The enrolled member, with assistance from other enrolled members, a non-enrolled spouse or descendants, may harvest the forest products.  The permit holder must be on-site during the harvest unless the holder is an elder or disabled.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Forestry Staff will track and prepare an annual estimate of the total amount of product and value of such product harvested from trust lands under this type of permit.  If the product is harvested from trust land, then this information will be provided to the BIA at the end of each fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>DOMESTIC PERMIT FOR USE IN CONSTRUCTION.</heading>
+        <text>This permit allows the permit holder to harvest timber that will be used for the construction of the building identified in the permit. There is no charge for this permit.</text>
+        <para>
+          <num>(1)</num>
+          <text>The enrolled member must submit a written request to the Committee that includes detailed plans of the building including a realistic timeline for construction completion. The member must obtain all other required permits, such as in relation to land use, before this permit can be approved.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The project can only be for the enrolled member's personal use and be located on the Reservation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the Committee approves the request, the recommendation to Tribal Council will include a time limit on the project and the amount of timber to be harvested.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The enrolled member must provide a bond for the stumpage value of all timber to be harvested before the permit may be issued or construction may begin.</text>
+          <para>
+            <num>(A)</num>
+            <text>The amount of the bond will be determined by Forestry Staff based on an estimated value of the timber to be harvested.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Upon completion of the project within the identified timeframe, then the stumpage bond will be refunded in full.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>If the project is not completed within the identified timeframe or consistent with permit requirements, then the bond may be forfeited to the Tribe in part or in full.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If the permit is approved by Tribal Council, Forestry Staff will designate the area to be cut and mark the trees.  Forestry Staff will also scale the harvested timber and record/file the stumpage amount and value.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>DOMESTIC CLEARING PERMIT:</heading>
+        <text>Adult enrolled members may obtain a permit to harvest timber and/or forest products for the purpose of clearing a specific limited area on a land assignment or leased tribal land that is within the maximum setback for development established in <cite doc="Stockbridge-Munsee Tribal Code" path="|PRP.02.08">PRP.02.08 </cite>of the Land Use Code Ordinance.  Such domestic clearing shall be for purposes of: a dwelling, garage or other outbuilding, business, or an existing yard expansion.  There is no charge for this permit.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Domestic Clearing Permit is processed as a final step prior to development on a land assignment or leased land.  This means the applicant is responsible for obtaining all other required approvals, permits, or tests (such as perc tests) prior to requesting the permit.  Such permits can include a tribal land use permit for construction of a dwelling or a BIA forest products harvesting permit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>After all other applicable approvals are obtained, the enrolled member must submit a permit application, using the department form if available, that includes the following information:</text>
+          <para>
+            <num>(A)</num>
+            <text>Confirmation that all other applicable approvals, permits, or testing has been completed.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A site map for the area to be cleared that also has the location of any development marked.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>A realistic timeline for construction completion.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Once a complete application is received, Forestry Staff will estimate the species and the expected volume of timber to be removed in order to calculate a bond amount based on the stumpage value of the merchantable timber.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Committee will review the completed application and stumpage value information.  If the Committee recommends approval, then the recommendation will include a time limit on the project and a suggested amount on the bond for stumpage value.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If the Tribal Council approves the permit request, Forestry Staff will issue the permit, including the timeframe and bond amount, and mark the trees to be harvested. The permit will be valid for the specified time, not to exceed one year from date of issuance.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The enrolled member must provide a bond for the stumpage value of all timber to be harvested before the permit may be issued or construction may begin.</text>
+          <para>
+            <num>(A)</num>
+            <text>Upon successful completion of the project within the identified timeframe, then the stumpage bond will be refunded in full.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If the project is not completed within the identified timeframe or consistent with permit requirements, then the bond may be forfeited to the Tribe in part or in full.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The enrolled member is responsible for the cost of service to harvest the forest products.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Forestry Staff will provide the Approved Loggers list to the enrolled member on request.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Forestry Staff will scale the timber or forest products.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>On a case-by-case basis, some oak trees may be cut under this permit during the timeframe when normally barred under <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.11|(b)">Section ENV.02.11(b)</cite>.  If a live oak tree is cut during the normal oak wilt bar timeframe, then the resulting oak stump must be burned, buried, or treated with a pruning spray within 24-hours of the tree being cut.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>FIREWOOD-FOR-SALE PERMIT.</heading>
+        <text>Adult enrolled members may obtain a permit to harvest and sell or trade firewood.</text>
+        <para>
+          <num>(1)</num>
+          <text>Permit Cost.  The base cost of this permit is $200, which must be paid to the Tribe prior to permit issuance.  This cost is subject to increase based on the fair market stumpage value of hardwood pulp and, if changed, the new permit cost will be set prior to March 15<sup>th</sup> each year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The enrolled member must present a written request to the Committee identifying the desire to sell firewood.  The Committee will make a recommendation to the Tribal Council on whether to approve the permit.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If permit is approved by the Tribal Council, then the Firewood-for-Sale Permit will be issued and managed by the Forest Manager.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A Firewood-for-Sale Permit is valid from March 15<sup>th</sup> until March 14<sup>th</sup> of the following year and is valid on Reservation lands.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The amount of timber harvested is not to exceed 10 full cords. It is the responsibility of the permit holder to notify the Forestry Staff of wood to be scaled and verified. The volumes of timber from trust lands will be reported to the BIA by the end of the fiscal year.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>This is an individual permit and the permit holder <u>must</u> be on site when harvesting or selling.  Descendants and the permit holder's non-enrolled spouse may assist the permit holder.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>TEMPORARY USE PERMIT:</heading>
+        <para>
+          <num>(1)</num>
+          <text>Persons who are not enrolled members may apply for a permit to temporarily enter the Reservation for a specific purpose, such as removing wood from their property, or gaining temporary access to a land-locked property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The applicant must submit detailed written plans of the proposed purpose including area where access is needed, reason needed, and the expected length of time the permit is needed.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Committee will make a recommendation to the Tribal Council regarding the temporary permit request, and all recommended requirements therein.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribal Council may instruct Forestry Staff to issue a temporary use permit subject to the conditions the Tribal Council desires.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.17" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.17">
+    <section>
+      <num>ENV.02.17</num>
+      <heading>Denial Or Revocation Of Permit(s), Contracts, Amendments, or Contract Extensions</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe will deny requests for permits, contracts, amendments, or contract extensions for any of the following reasons:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any delinquent debt owed to the Tribe based on noncompliance with timber contracts or requirements under the Environment (ENV) Title of the Stockbridge-Munsee Tribal Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe may deny requests for permits, contracts, amendments or contract extensions for any of the following reasons:</text>
+        <para>
+          <num>(1)</num>
+          <text>poor past logging practices</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>timber trespass(es)</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>past violations, misuse of process, procedures, or permits</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>proposal denied under the Tribe's land impact review process</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>requests inconsistent with the Tribe's forest management plan</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribe reserves the option to revoke a permit for the reasons identified in <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.17">this Section</cite> if the permit holder does not correct the identified issue after being provided a reasonable opportunity to cure it.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.18" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.18">
+    <section>
+      <num>ENV.02.18</num>
+      <heading>Forest Product Sales – Generally</heading>
+      <para>
+        <num>(a)</num>
+        <text>In order to generate revenues and best manage its forest resources, the Tribe may sell forest products subject to terms of this ordinance, its forest management plan, and other applicable laws.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe shall sell forest products by written contract.</text>
+        <para>
+          <num>(1)</num>
+          <text>Such sales will be by:  an open market sale of standing timber; a tribal forest enterprise sale of standing timber; a tribal forest enterprise sale of forest products; or an emergency/small lot forest enterprise sale.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe may sell some forest products by open market and other forest products by tribal forest enterprise as part of the same sale.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tribal timber sale contracts, including but not limited to requests for extensions, may only be modified by written amendment. Contractors must submit a written request for an amendment to Forestry Staff.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Sales of timber from lands held by the United States in trust for the Tribe shall be conducted through the BIA consistent with federal law.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Persons authorized to access the Reservation as part of timber sales are required to comply with Tribal law, as well as the terms of the applicable contract(s).</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.19" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.19">
+    <section>
+      <num>ENV.02.19</num>
+      <heading>Open Market Sale Of Standing Timber</heading>
+      <para>
+        <num>(a)</num>
+        <text>The open market sale of standing timber is the default process that the Tribe uses to sell standing timber. It has the most checks and balances, is the most transparent and is the most straightforward to administer.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An open market sale of standing timber occurs when the Tribe sells standing timber to a selected bidder and that bidder is responsible to harvest and remove that timber from the Reservation.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Timber Sale Bid Policy shall apply in relation to such sales.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Successful bidders will be required to pay a performance bond prior to the harvest of the standing timber.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Scaling by Forestry Staff is required prior to the harvested timber being removed from the Reservation, unless scaling by another person at another location is authorized by contract.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Council, based on recommendation of the Committee, must approve an open market sale of standing timber prior to the sale being conducted.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.20" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.20">
+    <section>
+      <num>ENV.02.20</num>
+      <heading>Tribal Forest Enterprise Sale Of Standing Timber</heading>
+      <para>
+        <num>(a)</num>
+        <text>A tribal forest enterprise sale of standing timber occurs when the Tribe contracts or subcontracts an Approved Logger to harvest, sort, and deck timber on the Tribe's behalf.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe will retain ownership of part or all of the timber, which the Tribe then sells directly to one or more mills or other third-parties by a tribal forest enterprise sale of forest products.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Timber Sale Bid Policy shall apply in relation to the tribal forest enterprise sale of standing timber.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Successful bidders will be required to pay a performance bond prior to the harvest of the standing timber.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Scaling by Forestry Staff is required prior to the harvested timber being removed from the Reservation, unless scaling by another person at another location is authorized by contract.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Council, based on recommendation of the Committee, must approve a tribal forest enterprise sale of standing timber prior to the sale being conducted.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribe must enter into an agreement with the BIA in order to purchase standing timber located on Tribal trust land for purposes of tribal forest enterprise sale of standing timber.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.21" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.21">
+    <section>
+      <num>ENV.02.21</num>
+      <heading>Tribal Forest Enterprise Sale Of Forest Products</heading>
+      <para>
+        <num>(a)</num>
+        <text>A tribal forest enterprise sale of forest products is used to sell harvested forest products in which the Tribe had retained ownership to one or more buyers.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A tribal forest enterprise sale of forest products may be used in the following types of situations:  when a harvest contains high volumes of veneer or specialty products; or when the enterprising of forest products is believed to provide a greater benefit to the Tribe then an open market sale.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Council, based on recommendation of the Committee, must authorize the use of the tribal forest enterprise sale of forest products process prior to the sale being conducted.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Council, based on recommendation of the Committee, will approve the sales to individual buyers as part of these sales, except, when there are time constraints that prevent prior approval in order to maximize the benefit to the Tribe.  In the event of such time constraints, the Forest Manager shall inform the Committee and Tribal Council as soon as reasonably possible about the terms of the sale and the sale will be handled based on the following process:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Forest Manager is the Forest-Officer-in-Charge of tribal forest enterprise sales of forest products.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The FOC must make a reasonable effort to obtain quotes and/or price lists from interested local mills or potential purchasers with a minimum of at least three (3) requested.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All Tribal Loggers on the Approved Logger list must be contacted.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Tribal preference does not apply in relation to these sales of forest products.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The FOC will use their best professional judgment to choose the buyer that will provide the highest benefit to the Tribe and document all decisions.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>At the conclusion of the sale, the FOC will inform the Committee about the sale, including who purchased the forest products and an accounting of costs and revenues from the sale.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.22" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.22">
+    <section>
+      <num>ENV.02.22</num>
+      <heading>Emergency/Small Lot Tribal Forest Enterprise Sale</heading>
+      <para>
+        <num>(a)</num>
+        <text>The process for an emergency/small lot tribal forest enterprise sale will be used when there is a harvest or sale of harvested timber that need to be handled quickly in order to retain the highest benefit to the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The emergency/small lot tribal forest enterprise sale will be used when the normal processes cannot be done in a timely manner and/or when the harvest is for a small amount of forest product making it impractical to conduct an open market sale, such as disease treatments, localized blowdowns, clearings for development and seized thefts.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The need, prescription, and Scope of Work for the harvest/salvage must be recommended by the Committee and approved by the Tribal Council.  Such approvals will be obtained prior to the harvest unless the nature of the emergency requires immediate action.  In the event immediate action is required, the approvals will be obtained as soon as possible after the fact.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Timber will be harvested by either Tribal staff or a hired contractor.  The contractor may be from the Approved Logger list, but this is not required depending on the scope of the project.  This determination will be made on a case-by-case basis by the Forest Manager.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Emergency harvests, salvages, or mitigation may be in excess of the Tribe's annual allowable cut per its Forest Management Plan.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.23" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.23">
+    <section>
+      <num>ENV.02.23</num>
+      <heading>Tribal Timber Sale Bid Policy</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of this policy is to refine the bidding process for sales of forest products by the Tribe and the BIA. The intent of this Policy is to facilitate the Tribe in obtaining the best possible timber sales, consistent with federal law, while encouraging Tribal loggers to participate in the bidding process in a meaningful manner.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Coverage and Scope.</text>
+        <para>
+          <num>(1)</num>
+          <text>This Policy applies to the open market sale of standing timber and the tribal forest enterprise sale of standing timber (except for emergency and small lot tribal forest enterprise sales).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Certain federal laws, including 25 C.F.R. part 163, or other contracts and grants may supersede or contain provisions that are inconsistent with this Policy.  If the federal law/contract/grant provisions are mandatory, those provisions of the contract/grant contract shall control, and the remaining portions of this Policy shall be adhered to.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the Tribal Council has approved a tribal forest enterprise sale of standing timber, then the Tribe reserves the right to have the BIA negotiate the tribal timber sale directly with the Tribe at stumpage rates as per 25 C.F.R. 163.13(c).</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>This Policy does not apply to change orders or change directives, which are added work or services within the general scope of an on-going project.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>This Policy does not prohibit the Tribe retracting any invitation for bids.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Approved Loggers List.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe will establish a list of Approved Loggers that is reviewed and updated on a regular basis.</text>
+          <para>
+            <num>(A)</num>
+            <text>The Committee shall assess whether loggers should be included on the list and forward their recommendations to the Tribal Council for approval.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The criteria for determining Approved Loggers include the ability to obtain and maintain comprehensive and worker's compensation insurance, ability to obtain and maintain bonding, experience, reliability, previous references, background/portfolio of the enterprise, technical ability, financial ability, applicable certification and/or licenses, proof of ownership of equipment, tax numbers or other factors the Committee deems important.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>If the Committee determines that a Tribal Logger is ineligible to be an Approved Logger, the Tribal Loggers must be notified in writing regarding what the specific deficiencies are and/or what must be corrected to gain or maintain status.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe reserves the right to remove an enterprise from the Approved Logger's list for non-compliance with Tribal law and/or their contract.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Identification of Timber Sale.</text>
+        <para>
+          <num>(1)</num>
+          <text>Forestry Staff will identify a suggested management area and prescription for a proposed timber sale based on the Forest Management Plan, best management practices, and operational needs.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Committee will review the management area and prescription and decide whether to approve the proposed timber sale.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If approved, an invitation to bid on the proposed timber sale will be released.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Selection of Successful Bidder.</text>
+        <para>
+          <num>(1)</num>
+          <text>Only bidders who are on the Approved Logger List are eligible to be selected as the successful bidder for the timber sale.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Bidders who qualify as a Tribal Logger are provided preference as part of the selection process as described in sub<cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.23|(f)">section ENV.02.23 (f)</cite>.
+          </text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Committee will review the bids and recommend the successful bidder for approval by the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The successful bidder will be required enter into a written contract documenting the terms of the timber sale.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Tribal Logger Preference.</text>
+        <para>
+          <num>(1)</num>
+          <text>Approved Tribal Loggers.  Bidders are considered an Approved Tribal Logger if they can provide evidence that a Stockbridge-Munsee tribal member has at least 51% ownership of the entity placing the bid at the time of bid submission. Proof of tribal membership and business organizing documents showing ownership must be provided in order to establish eligibility for preference.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Approved Tribal Loggers that qualify for preference receive it in the form of a rebate at the successful completion of the timber sale.</text>
+          <para>
+            <num>(A)</num>
+            <text>Qualifying Bids.  The Approved Tribal Logger's submitted bid qualifies for preference when:</text>
+            <para>
+              <num>(i)</num>
+              <text>The submitted bid at least meets the BIA's or Tribe's minimum bid rates, and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The submitted bid is within 10% of the highest submitted bid.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Rebate.</text>
+            <para>
+              <num>(i)</num>
+              <text>The Approved Tribal Logger shall be required to match the highest submitted bid for the timber sale.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>At the successful completion of the sale, the Tribe will rebate the matched amount (with no interest) to the Approved Tribal Logger.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The BIA may require that the Approved Tribal Logger, in writing or fax, affirmatively agree to match the highest submitted bid by 3pm, the next business day.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Preference shall not be adhered to if there are no Approved Tribal Loggers' bids within 10% of the highest bid.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Although this Policy is intended to aid Tribal Loggers in obtaining timber sales contracts, no legal rights or remedies are created by this Policy.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Compliance.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Forestry Department and Committee are bound by this Tribal Timber Bid Sale Policy and shall fully comply with all terms of this Policy.  The Forestry Department and Committee shall not divide projects, or take other actions to avoid being subject to this Policy.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe's Legal Department shall review all contracts before the Tribe signs the contract.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.02.26" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.26">
+    <section>
+      <num>ENV.02.26</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>Authorized Law Enforcement has authority to investigate and enforce the provisions of this ordinance.  Forestry Staff have authority to report violations of this ordinance to Authorized Law Enforcement and other implicated law enforcement agencies.  Authorized Law Enforcement may consult with other law enforcement agencies on a case-by-case basis as needed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Authorized Law Enforcement is authorized to investigate and enforce violations of this ordinance.  This may include observing persons engaged in activities under this ordinance to ensure that activities are lawful.  Authorized Law Enforcement shall conduct such activities in good faith and in accordance with good law enforcement practices and may take such actions as appropriate to the circumstances and under applicable laws.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Authorized Law Enforcement may issue warnings and/or citations to individuals or entities who violate this Ordinance.  Such warnings and/or citations are considered to be civil in nature, rather than criminal.  Such authorization does not affect the federal enforcement that may be available for enforcement purposes.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Authorized Law Enforcement has authority to confiscate and seize equipment, timber or other forest products, vehicles or any other equipment used in violating this ordinance.</text>
+        <para>
+          <num>(1)</num>
+          <text>If equipment, vehicles or weapons are confiscated and seized, such equipment, vehicles or weapons shall be considered evidence and properly recorded and secured with the Tribe's Public Safety Department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Unless ordered by the Court or subject to confiscation under other applicable law, if the alleged violator pays the amount of the citation before the court hearing date, the confiscated and other evidence shall be returned to the violator.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The citation must be served on the person responsible for the violation in a timely manner with copies delivered to the Tribal Court and Tribal Prosecutor within three (3) business days of service.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Prosecutor shall use his or her discretion to prosecute violations of this ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Persons convicted of violations to this ordinance shall be subject to the penalties herein described.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In addition to forfeiture actions the Tribal Prosecutor may seek enforcement of any and all parts of this ordinance by Tribal Court actions seeking injunctions or restraining orders.  The Tribal Prosecutor may seek an emergency order from the Tribal Court to restrain or enjoin any violation that is jeopardizing the health or safety of any person. Such an order may be sought and issued ex parte if the Tribe shows a good faith effort to serve notice on the necessary parties.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the Tribal Court finds the person not guilty of the alleged violation, any property or equipment seized by the Authorized Law Enforcement shall be returned to the person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Penalties.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person found guilty of this ordinance shall be assessed of a fine ranging from $200.00 to $5,000.  In assessing the fine, the Court shall consider the severity of the offense, the acceptance of responsibility by the charged person, the number of previous convictions, and deterrence to others.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Normal civil remedial money penalties are as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>Class A Infractions, not less than $500 or more than $5,000.00.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Class B Infractions, not less than $300 or more than $5,000.00.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Class C Infractions, not less than $200 or more than $5,000.00.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When any person is found guilty of a violation, and such person has been convicted of a previous violation of this ordinance within a period of one year, there shall be a mandatory revocation of all privileges regulated under this ordinance for a minimum of two years, and the infraction penalties may be enhanced as follows and other remedies as the Tribal Court deems appropriate:</text>
+          <para>
+            <num>(A)</num>
+            <text>For a Class A Infraction, $5,000.00.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>For a Class B Infraction, not less than $1,000.00 nor more than $5,000.00.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>For a Class C Infraction, not less than $500.00 nor more than $5,000.00.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>For a third violation of this ordinance within a period of one (1) year the penalty shall be $5,000.00 and a mandatory lifetime revocation of all privileges regulated under this ordinance and other remedies as the court deems appropriate.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>In lieu of or in addition to any other penalty, the Tribal Court may also order that equipment or property seized by Authorized Law Enforcement not be returned to the violator and the equipment or property to become permanent property of the Tribe to be used of or disposed of at the Tribal Council's discretion.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>In lieu of or in addition to any other penalty, any person found guilty of    <br/>
+  violating this ordinance may be required by the Tribal Court to provide community service.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The Tribal Court may also order suspension of privileges to harvest forest products for a period not to exceed five years.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The Tribal Court may, in addition to the money penalty described herein grant such other relief as is necessary and proper for the enforcement of this ordinance.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:annotation path="ENV.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.01|annos">17. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 028-25">Resolution No. 028-25</cite>, adopted April 1, 2025, approved by BIA April 9, 2025.</codify:annotation>
+</document>

@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 055-25" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>055-25</num>
+  <heading/>
+  <meta>
+    <ordinance/>
+    <effective>2025-09-02</effective>
+    <history>
+      <adopted>2025-09-02</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/055-25.pdf">Stockbridge-Munsee Tribal Council Res. No. 055-25</citation>
+      <citation type="BIA" url="./BIA/055-25.pdf">BIA Approval for Res. No. 055-25</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted an ordinance establishing its Revenue Allocation Plan, GMG.02;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe is required to have an approved Revenue Allocation Plan by federal law if it wants the ability to issue individual per capita payments to tribal members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to amend its Revenue Allocation Plan in order to distinguish payments issued as general welfare payments from per capita payments; establish a sliding scale for allocation of net gaming revenues; remove the limitation that the amount allocated for per capita payments could not exceed the amount budgeted for investments; permitting the Tribal Council to authorize the allocation of a per capita payment to either all qualified tribal members or to an identified group of qualified tribal members, such as elders; and to permit tribal members to opt-out of receiving a per capita payment in favor of receiving a tax-exempt general welfare payment.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts amendments to the Revenue Allocation Plan, GMG.02, that include revisions to update language and re-organize materials to improve clarity as well as the following.</text>
+      <text>
+        <ul>
+          <li>Amending <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.01">Section GMG.02.01 </cite>to add new purpose language and a definition section.</li>
+          <li>Adding a new <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.02|(e)">Section GMG.02.02(e)</cite> and amending .03(a), .04(a), and .05(a) to establish a sliding scale for allocations of net gaming revenues.</li>
+          <li>Amending Sections <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03|(b)">GMG.02.03(b)</cite> and .05(a)(1) to clarify funding allocations.</li>
+          <li>Amending <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(a)|(2)">Section GMG.02.07(a)(2)</cite> to delete the limitation that the amount allocated for per capita payments could not exceed the amount budgeted for investments;</li>
+          <li>Adding new language on general welfare assistance, including an opt-out of a per capita payment for a general welfare payment, to Sections <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.01|(f)">GMG.02.01(f)</cite>, .05(2)(B), .07(c), and .07(g).</li>
+          <li>Adding a new <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(b)">Section GMG.02.07(b)</cite> to permit per capita payments to be issued to either all qualified tribal members or an identified group of qualified tribal members.</li>
+        </ul>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the Tribal Council directs that the amended ordinance be submitted to the Bureau of Indian Affairs for approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 2nd day of September, 2025, that the foregoing resolution was duly adopted at such meeting by a vote of 7 for, 0 against, and 0 abstaining.</text>
+    <text>_______________________	________________________</text>
+    <text>Shannon Holsey, President	Virginia Terrio, Acting Secretary</text>
+  </procedural-data>
+  <codify:replace path="GMG.02.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|GMG.02.01">
+    <section>
+      <num>GMG.02.01</num>
+      <heading>Purpose And Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>The purpose of this Revenue Allocation Plan ("Plan") is to comply with §2710 (b)(3) of the Indian Gaming Regulatory Act ("IGRA"), which requires that a tribe have a revenue allocation plan approved by the Secretary of Interior if the tribe wishes to make Per Capita Payments from gaming revenues.  (Public Law 100-497) 102 Stat. 2467 dated October 17, 1988, (Codified at 25 U.S.C §§2701-2721 (1988)).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Stockbridge-Munsee Community ("Tribe") wishes to have the authority to, at its sole discretion, issue Per Capita Payments to qualified members of the Tribe and this Plan shall govern the allocation of available net revenues from the tribally owned Mohican North Star Gaming and Resort ("Casino") including any such Per Capita Payments.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>For the purposes of this Plan, the term "Per Capita Payment" means the distribution of money or other thing of value to all Qualified Tribal Members of the Tribe, or to identified groups of Qualified Tribal Members, which is paid directly from the Net Gaming Revenues and is subject to federal income tax.  This definition does not apply to payments which have been set aside by the Tribe for special purposes or programs, such as payments made for social welfare, medical assistance, education, housing or other similar, specifically identified needs. These payments or benefits are referred to as General Welfare Assistance, defined below.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>For the purposes of this Plan, the term "Qualified Tribal Member" shall mean those individuals who are alive and duly enrolled in the Stockbridge-Munsee Community pursuant to the Tribe's Constitution and Membership Ordinance as of <strong>June 1</strong> of the calendar year when the Per Capita Payment is paid.</text>
+        <para>
+          <num>(1)</num>
+          <text>Newborns.  All babies born after March 1, but prior to June 1, and whose applications for enrollment have been properly submitted to the Land and Enrollment Office by July 31 shall be considered a Qualified Tribal Member eligible for the payment from the fiscal year, provided that Tribal Council enrolls the newborn. Payment shall be paid to the Minors' Trust Fund consistent with <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(e)">Section GMG.02.07(e)</cite> upon completion of the enrollment process.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Deceased Persons.  In the event a Qualified Tribal Member dies prior to the issuance of an authorized Per Capita Payment for that calendar year and a person responsible for their estate submits a request for payment, then payment will be issued to the estate of the deceased Qualified Tribal Member.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>For purposes of this Plan, the term "Net Gaming Revenues" means gross gaming revenues from all of the Tribe's Class II and Class III gaming activity less, without duplication, amounts paid out as, or paid for, prizes including actual cost to the Tribe of any noncash prize which is distributed to a patron as the result of a specific, legitimate wager; the costs and expenses of the Tribe's gaming operations including management fees, if any; amounts necessary to meet cash-on-hand requirements of the gaming operations; amounts paid for capital expenditures of the gaming operations; amounts paid to any state or local government or agency pursuant to a compact or agreement with such government or agency; and amounts not permitted under the terms of any properly-approved contract or financing to be distributed from the gaming operations.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>For the purposes of this Plan, the terms "General Welfare Assistance" or "General Welfare Assistance Payments" means any benefits or payments from a tribally approved general welfare program that qualify for tax free treatment under the Tribal General Welfare Exclusion Action of 2014, Public Law 113-168, 128 Stat 1883 (2014), codified at 26 U.S.C. §139E.  Tribal General Welfare Assistance is governed by the Tribe's General Welfare Ordinance at <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.04">Chapter ADM.04</cite>.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:insert path="GMG.02.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|GMG.02.02|(e)">
+    <para>
+      <num>(e)</num>
+      <text>The Tribe uses an annual budgeting process. It recognizes that operational and funding needs can vary year to year based on the needs of governmental operations and the tribal community as well as external factors. This Plan therefore identifies a sliding scale for allocating Net Gaming Revenues and the specific allocations for any fiscal year must equal 100% when totaled.</text>
+    </para>
+  </codify:insert>
+  <codify:replace path="GMG.02.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|GMG.02.03">
+    <section>
+      <num>GMG.02.03</num>
+      <heading>Use Of Net Gaming Revenues: Tribal Government Operations And Programs</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council hereby allocates a percentage that will be between 60% and 80% of Net Gaming Revenues in order to provide supplemental funding for tribal governmental operations and programs.</text>
+        <para>
+          <num>(1)</num>
+          <text>If it deems it necessary, the Tribal Council shall have the authority to revise and increase the percentage of Net Gaming Revenues allocated to funding the tribal government operations and programs. The percentage increase shall be drawn from the percentage set by <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.04">Section GMG.02.04</cite>. The Tribal Council shall not decrease the allocated percentage set by <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">this Section</cite> to provide for Per Capita Payments authorized under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07">Section GMG.02.07</cite>. Any revision of the allocated percentage herein shall be documented by a Tribal Council resolution, a copy of which shall be provided to the Secretary of the Interior.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any Net Gaming Revenues allocated to funding for tribal governmental operations and programs that have not been expended as of the last date of this fiscal year may, at the Tribal Council's discretion after review of allocation performance, be allocated to the purposes set forth in Sections <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.04">GMG.02.04 </cite>through <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07">GMG.02.07 </cite>or be allocated to funding for tribal governmental operations and programs for the subsequent fiscal year, or be allocated into 50% long-term investment and 50% into tribal government operations for the subsequent fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Tribal governmental operations and programs to be supplementarily funded by Net Gaming Revenues under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">this Section</cite> shall include, but shall not be limited to, the following: Tribal Council, tribal administration, capital expenditures including capital improvements to tribal government buildings, tribal public works program, tribal utilities and roads, tribal planning program, tribal enrollment program, tribal assisted living program, tribal government legal and financial services, tribal human resources, Tribal Court, tribal law enforcement services, tribal environmental program, tribal ecology program, tribal forestry program, tribal land program, tribal agriculture program, Tribal Museum and Library, tribal recreation program, and tribal cultural programs. Additionally, supplemental funding for future tribal government operations and programs being developed and hereafter developed and added to this provision automatically. This list does not include tribal programs that provide benefits for the general welfare of the Tribe and tribal members, which are funded under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.05">Section GMG.02.05</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>At least one hundred and twenty days prior to the commencement of each new fiscal year, the Tribe's Finance Department shall receive budget reports and requests from each tribal governmental operation and program. The budget reports shall detail at a minimum: past fiscal year revenues, projected revenues, revenue sources, including the amount of net revenues derived from gaming enterprises, past fiscal year expenditures and projected expenditures, together with a detailed accounting for expenditures. The budget reports shall also include budget requests including requests for supplemental funding from Net Gaming Revenues allocated to funding for tribal governmental operations and programs.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>At least sixty days prior to the commencement of each new fiscal year, the Tribal Council shall, after receiving all budget reports and requests under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">this Section</cite>, allocate those funds designated for tribal governmental operations and programs.  The Tribal Council shall be the sole decision-making body as to any actions taken upon budget reports and requests and as to the allocation of funds designated for tribal government operations and programs.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Tribal Council, through the Tribe's Finance Department shall disburse those monies allocated to tribal governmental operations and programs in accordance with the fiscal year budget referenced in <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03|(d)">subsection (d) </cite>above. Any disbursements made hereunder shall be received by the receiving tribal governmental operation or program and handled in a manner consistent with the Tribe's policies and procedures and Generally Accepted Accounting Principles ("GAAPs").</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Prior to the adoption of the new fiscal year budget, the Tribal Council shall review the budget reports and requests required in <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03|(c)">subsection (c) </cite>above for the prior fiscal year, and any other reports prepared in accordance with GAAPs, to determine the actual amount of monies expended on tribal governmental operations and programs in the prior fiscal year together with the percentage of total Net Gaming Revenues allocated to tribal governmental operations and programs in the prior fiscal year.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="GMG.02.04|(a)" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|GMG.02.04|(a)">
+    <para>
+      <num>(a)</num>
+      <text>The Tribal Council hereby allocates a percentage that will be between 5% and 20% of Net Gaming Revenues in order to provide funding for tribal economic development.</text>
+      <para>
+        <num>(1)</num>
+        <text>If it deems it necessary, the Tribal Council shall have the authority to increase or decrease the percentage of Net Gaming Revenues allocated to funding tribal economic development. The percentage increase may be drawn from the percentage set by <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">Section GMG.02.03</cite>. The Tribal Council shall not decrease the allocated percentage set by <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.04">this Section</cite> to provide for Per Capita Payments authorized under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07">Section GMG.02.07</cite>. Any revision of the allocated percentage herein shall be documented by a Tribal Council resolution, a copy of which shall be provided to the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any Net Gaming Revenues allocated for the funding of economic development that have not been expended as of the last date of this fiscal year may, at the Tribal Council's discretion after review of allocation performance, be allocated to the purposes set forth in <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">Section GMG.02.03 </cite>through <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07">GMG.02.07 </cite>or be allocated to funding for tribal economic development for the subsequent fiscal year or be allocated into 50% long-term investments and 50% into tribal economic development for the subsequent fiscal year.</text>
+      </para>
+    </para>
+  </codify:replace>
+  <codify:replace path="GMG.02.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|GMG.02.05">
+    <section>
+      <num>GMG.02.05</num>
+      <heading>Use Of Net Gaming Revenues: General Welfare Of The Stockbridge-Munsee Community And Its Tribal Members</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council hereby allocates a percentage that will be between 15% and 35% of Net Gaming Revenues in order to provide supplemental funding for tribal governmental general welfare programs and the general welfare of the Stockbridge-Munsee Community and its tribal members, including donations to charitable organizations. Such funding is to include new initiatives and to replace and/or supplement existing programs.</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal governmental general welfare programs that are supplementarily funded by Net Gaming Revenues under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.05">this Section</cite> shall include, but shall not be limited to, the following tribal programs:  housing, social services, health services and Stockbridge-Munsee Health and Wellness Center, Indian Child Welfare services, education, summer youth worker, food, and aging and disabled persons programs.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If it deems it necessary, the Tribal Council shall have the authority to increase or decrease the percentage of Net Gaming Revenues allocated to funding the general welfare of the Stockbridge-Munsee Community and its tribal members. The percentage increase may be drawn from the percentage set by <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">Section GMG.02.03 </cite>and <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.04">Section GMG.02.04</cite>.</text>
+          <para>
+            <num>(A)</num>
+            <text>If it deems necessary, the Tribal Council may allocate a percentage of the general welfare allocation to fund Per Capita Payments authorized under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07">Section GMG.02.07 </cite>of this Plan.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If it deems necessary, the Tribal Council may allocate a percentage of the general welfare allocation to fund assistance distributed in accordance with the with the Stockbridge-Munsee General Welfare Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.04">Chapter ADM.04</cite>, including, but not limited to, tax exempt assistance provided to Qualified Tribal Members who opt out of a Per Capita Payment per <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(c)">Section GMG.02.07(c)</cite>.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Any revision of the allocated percentage herein shall be documented by a Tribal Council resolution, a copy of which shall be provided to the Secretary of the Interior.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any Net Gaming Revenues allocated to funding for general welfare that have not been expended as of the last date of this fiscal year may, at the Tribal Council's discretion after review of allocation performance, be allocated to the purposes set forth in either <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">Section GMG.02.03</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.04">Section GMG.02.04</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.05">Section GMG.02.05</cite>, or <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07">Section GMG.02.07</cite>, or be allocated to funding for the general welfare for the subsequent fiscal year, or be allocated 50% into long-term investments and 50% into general welfare for the subsequent fiscal year.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="GMG.02.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|GMG.02.07">
+    <section>
+      <num>GMG.02.07</num>
+      <heading>Use Of Net Gaming Revenues: Individual Per Capita Payments</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Authorization for Individual Per Capita Payments.</heading>
+        <para>
+          <num>(1)</num>
+          <text>In order to advance the personal health, safety and welfare of Qualified Tribal Members, the Tribal Council shall review at least sixty (60) days prior to the commencement of the upcoming fiscal year the income, expenses and management of tribal gaming operations, and after due consideration of the need to fund tribal government operations and programs, and the other areas outlined above, shall decide whether to make any changes to the Revenue Allocation Plan providing for appropriate percentage allocation of tribal gaming revenues within the annual budget of the Tribe for the upcoming fiscal year. The Council shall also determine what amount, if any, of the revenues allocated to general welfare purposes, <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.05">Section GMG.02.05</cite>, and unused funds from <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">Section GMG.02.03</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.04">Section GMG.02.04 </cite>and <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.05">Section GMG.02.05 </cite>of the current fiscal year shall be appropriated for distribution as Per Capita Payments for the upcoming fiscal year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a majority of the Tribal Council votes to permit a Per Capita Payment, such vote shall specify the percentage allocation to be used for such payment.  The percentage allocation shall be divided into equal shares and paid to all Qualified Tribal Members or an identified group of Qualified Tribal Members, as applicable, who are eligible under sub<cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(b)">section GMG.02.07 (b)</cite> herein.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tribal members, their guardian if applicable, or their parent(s) in the case of a minor tribal member, are responsible for submitting the required documentation to the Tribal Treasurer in order to receive a Per Capita Payment.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribal Council shall be the exclusive forum for disputes concerning the allocation of Net Gaming Revenues and the distribution of Per Capita Payments.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If Tribal Council approves a Per Capita Payment, Per Capita Payments to Qualified Tribal Members shall not be made prior to October 30, or the first business day thereafter, of the upcoming fiscal year.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>All Net Gaming Revenues designated for distribution as Per Capita Payments shall be deposited, when received by the Tribe from the Casino, into a low-risk interest bearing account with a federally insured financial institution prior to distribution.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Any Net Gaming Revenues allocated to Per Capita Payments that have not been expended as of the last date of the fiscal year may, at the discretion of the Tribal Council, be allocated into 50% long-term investments and 50% into the purposes set out in <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.03">Section GMG.02.03</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.04">Section GMG.02.04</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.05">Section GMG.02.05</cite> (in equal percentages) for the upcoming fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Eligibility.</heading>
+        <text>The Tribal Council may authorize the distribution of individual Per Capita Payments from gaming revenues to <strong><em>either</em></strong> all Qualified Tribal Members or to an identified group(s) of Qualified Tribal Members.</text>
+        <para>
+          <num>(1)</num>
+          <text>Distributions to Qualified Tribal Members who are a declared incompetent or are a minor will be made consistent with subsections <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(d)">GMG.02.07 (d)</cite> or <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(e)">(e)</cite>, as applicable.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Identified Group of Qualified Tribal Members.  If the Tribal Council intends to make a per capita distribution to an identified group of Qualified Tribal Members, then the Tribal Council must adopt a resolution to authorize the distribution and justify why payment is limited to the identified group. This resolution, which shall be adopted prior to payment of the distribution, shall:</text>
+          <para>
+            <num>(A)</num>
+            <text>Identify the group of Qualified Tribal Members who are eligible to receive the distribution;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Identify why the distinction between eligible persons and ineligible persons is reasonable and not arbitrary;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Identify the amount of the distribution per individual;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Confirm that the distinction does not discriminate or otherwise violate the Indian Civil Rights Act; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Confirm that the justification complies with applicable tribal law.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Per Capita Payment Opt Out Option in Favor of Tax Exempt General Welfare Payment</heading>
+        <para>
+          <num>(1)</num>
+          <text>Qualified Tribal Members may elect to receive an individual General Welfare Assistance Payment through a program authorized under <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.04">Chapter ADM.04</cite>, instead of a Per Capita Payment so long as:</text>
+          <para>
+            <num>(A)</num>
+            <text>The Qualified Tribal Member is a competent adult;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Qualified Tribal Member does not have an outstanding judgment for an obligation owed the Tribe nor has provided voluntary consent to use the individual Per Capita Payment to pay an obligation to the Tribe;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Qualified Tribal Member does not have an outstanding child support judgment; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>If the Per Capita Payment is only issued to an Identified Group of Qualified Tribal Members, then the Qualified Tribal Member must be part of such group.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the Qualified Tribal Member opts to take a General Welfare Assistance Payment instead of a Per Capita Payment, the decision must be in writing. This option regarding whether to take a Per Capita Payment or a General Welfare Assistance Payment must be made each year by completing a form provided by the Tribe.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Qualified Tribal Members will be required to complete any applicable documents and comply with any applicable standards under <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.04">Chapter ADM.04</cite>, in addition to completing the opt in/opt out form for the Per Capita Payment, before receiving a General Welfare Assistance Payment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Distributions for Persons Declared Incompetent.</heading>
+        <text>In the event a tribal member is declared incompetent of his or her financial affairs by a court of competent jurisdiction before a Per Capita Payment is paid, and the Tribal Treasurer has been duly notified, the following shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Council shall place the Per Capita Payment into a trust account in accordance with any trust agreement the Tribe may have with a trustee.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The trust account shall be under the control and direction of the Tribal Council.  The trust account shall be considered a grantor trust and the Tribal Council shall be considered the grantor and owner of the trust account.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Each incompetent shall have individually named accounts within the trust account.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The trust account shall have the ability to produce the status of the individual incompetent's account for the Tribal Council at any time.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Tribal Council shall be the owner of the incompetent's individual trust account.  The Tribal Council or its appointed agent shall make disbursements to the court appointed guardian for the purposes of providing for the incompetent's health, safety, education or other general welfare needs on a case by case basis upon a demonstration to the satisfaction of the Tribal Council based upon the following criteria:</text>
+          <para>
+            <num>(A)</num>
+            <text>that the person requesting the withdrawal of monies on behalf of the legal incompetent is the court appointed guardian of the legal incompetent in question, and,</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>that the money will be used for the personal health, safety, education, or other general welfare needs of the incompetent.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Tribal Council shall deny requested distributions of trust assets in the event of failure of the legal guardian to demonstrate to the satisfaction of the Tribal Council that criteria in <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(d)|(5)">Section GMG.02.07(d)(5)</cite> have been met.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The Tribal Council or its appointed agent may also require that the petitioning guardian submit receipts of expenditures made from funds disbursed hereunder before any future disbursements are made. The establishment of a regular monthly allowance for any individual declared legally incompetent from the proceeds of any Per Capita Payment placed into trust under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07">this section</cite> shall remain at the discretion of the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>In the event a court of competent jurisdiction determines that the Tribal member is no longer incompetent, the Tribal member must notify the Tribal Council by providing a certified copy of the court order.  If the Tribal Council is satisfied with the authenticity of the court order, the Tribal Council, by motion, must direct the Tribal Treasurer to proceed with dispersing funds that may remain in the Tribal member's trust account to the Tribal member, provided that the Tribal member is otherwise eligible for full payment.  If the Tribal member is under the age of twenty-one (21), then the funds shall be paid pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(e)">Section GMG.02.07(e)</cite>.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Except as specifically identified in this ordinance, in no event will the individual trust accounts be subject to any preferred claim by the beneficiary or guardian; nor are any rights created between the beneficiary and the Tribe; nor shall the principal and interest in the trust accounts be shielded from claims of general creditors of the Tribe, under applicable federal or Tribal law.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>In the event the Tribe seeks bankruptcy protection or insolvency, or the Trustee believes or has reason to believe that the Tribe is unable to pay its debts as they become due, the Trustee shall cease payments to beneficiaries and shall hold the assets of the trust accounts for the benefit of the Tribe's general creditors.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Beneficiary trust accounts may not be anticipated, assigned (either in law or equity), alienated, pledged, encumbered or subjected to attachment, garnishment, levy, execution or other legal or equitable process.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>There are no intestacy rights with regards to a beneficiary's trust account.  In the event the beneficiary dies prior to attaining legal competency, the monies shall go to the Tribe's education fund, the Tribe's burial trust fund, and the Tribe's health fund equally.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Distributions for Minors.</heading>
+        <text>In order to provide for the future safety and well being of the children of the Stockbridge-Munsee Community, the Tribal Council hereby authorizes that Per Capita Payments designated for minor Qualified Tribal Members shall be deposited into a "Minors' Trust Fund" established in a trust agreement with a financial institution, and in accordance with any trust agreement the Tribe may have with a trustee.  If the minor Qualified Tribal Member will be eligible to receive the Per Capita Payment directly by the end of the upcoming fiscal year, the Tribal Treasurer may instead deposit the Per Capita Payment into a federally insured certificate of deposit, if it is to the financial benefit of the minor Qualified Tribal Member.</text>
+        <para>
+          <num>(1)</num>
+          <text>A "beneficiary" means an individual who is a Qualified Tribal Member as defined in <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(b)">Section GMG.02.07(b)</cite> except that he or she has not reached the age of EIGHTEEN (18) as of the last date of this fiscal year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Payments into the Minors' Trust Fund shall be deposited into the respective accounts of the minor Qualified Tribal Member. Account balance statements shall be available to the participant, parent, parents or legal guardian of the minor Qualified Tribal Member.</text>
+          <para>
+            <num>(A)</num>
+            <text>The trust account shall be under the control and direction of the Tribal Council.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The trust account shall be considered a grantor trust and the Tribal Council shall be considered the grantor and owner of the trust account.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Each minor Qualified Tribal Member shall have individually named accounts within the trust account.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The trust account shall have the ability to produce the status of the individual minor Qualified Tribal Member's account for the Tribal Council at any time.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The Tribal Council shall be the owner of the minor Qualified Tribal Member's individual trust account.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Beneficiaries shall be eligible for receiving payment of the monies accumulated in the Minors' Trust Fund, including interest, less expenses, for the particular beneficiary, provided that the minor Qualified Tribal Member has participated in at the financial planning/investment consultation with the Trustee's financial advisors and:</text>
+          <para>
+            <num>(A)</num>
+            <text>Upon reaching the age of EIGHTEEN (18), provided that the tribal member has graduated high school or obtained a G.E.D., the beneficiary shall be paid 25% of the balance of their portion of the Minor's Trust Fund.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Upon reaching the age of NINETEEN (19), provided that the tribal member has graduated high school or obtained a G.E.D., the beneficiary shall be paid 25% of the balance of their portion of the Minor's Trust Fund.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Upon reaching the age of TWENTY (20), provided that the tribal member has graduated high school or obtained a G.E.D., the beneficiary shall be paid 25% of the balance of their portion of the Minor's Trust Fund.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Upon reaching the age of TWENTY-ONE (21), the beneficiary shall be paid the remaining balance of their portion of the Minor's Trust Fund.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Application for payment shall be approved by the Tribal Council or its appointed agent, upon sufficient evidence demonstrating the requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(e)|(3)">Section GMG.02.07(e)(3)</cite> have been satisfied.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Payments made to beneficiaries under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(e)|(3)">Section GMG.02.07(e)(3)</cite> shall not affect payments due to them as a qualified member under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(b)">Section GMG.02.07(b)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribal Council or its appointed agent shall have the authority to disburse proceeds of any funds placed into the Minors' Trust Fund on behalf of a minor Qualified Tribal Member in extenuating circumstances, on a case by case basis, and upon demonstration to the satisfaction of the Tribal Council based upon the following criteria:</text>
+          <para>
+            <num>(A)</num>
+            <text>Any requests for such disbursements shall be made in writing to the Tribal Council;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>that the personal health, safety, education, or other general welfare needs of the minor could be drastically impaired or affected in the absence of such payments;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>that any and all alternative funding resources have been exhausted; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>provision of documentation from qualified medical personnel or education institutions establishing that a dire health, safety, education, or other general welfare need exists.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Denial of Per Capita Payments by the Tribal Council shall be made in the event of failure of the parents or legal guardians to demonstrate to the satisfaction of the Tribal Council that criteria in <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(e)|(4)">Section GMG.02.07(e)(4)</cite> have been met.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Tribal Council or its appointed agent may also require that petitioners submit written receipts of expenditures made from funds disbursed hereunder before any future disbursements are made.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>There are no intestacy rights with regards to the trust account of a Qualified Tribal Member who is a minor. In the event the minor Qualified Tribal Member dies before receiving any trust account maturity payment, all funds remaining in that minor's trust account shall go to the Tribe's education fund, the Tribe's burial trust fund, and the Tribe's health fund equally.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Except as specifically identified in this ordinance, in no event will the individual trust accounts be subject to any preferred claim by the beneficiary or guardian; nor are any rights created between the beneficiary and the Tribe; nor shall the principal and interest in the trust accounts be shielded from claims of general creditors under applicable federal or Tribal law.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>In the event the Tribe seeks bankruptcy protection or insolvency, or the Trustee believes or has reason to believe that the Tribe is unable to pay its debts as they become due, the Trustee shall cease payments to beneficiaries and shall hold the assets of the trust accounts for the benefit of the Tribe's general creditors.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Beneficiary's trust accounts may not be anticipated, assigned (either in law or equity), alienated, pledged, encumbered or subjected to attachment, garnishment, levy, execution or other legal or equitable process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>No Retroactive Payment.</heading>
+        <text>Any person enrolling in the Stockbridge-Munsee Community after June 1, 1995, except as otherwise specified herein (see <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(b)">Section GMG.02.07(b)</cite>), shall not be entitled to any back payments of per capita proceeds. The first Per Capita Payment to a new tribal member shall be on the first date of a regularly scheduled payment after his or her qualified status is confirmed in accordance with <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(b)">Section GMG.02.07(b)</cite>.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Federal Tax.</heading>
+        <text>The Tribal Council or its appointed agent shall ensure that notification of the application of federal tax laws to Per Capita Payments authorized by this Plan be made when such payments are made. The Tribal Council or its appointed agent shall also implement a procedure by which Qualified Tribal Members who receive Per Capita Payments shall have applicable taxes automatically deducted from Per Capita Payments, in accordance with 25 C.F.R. §290.12(5), 26 C.F.R. part 31, and 26 U.S.C. §3402(r). This requirement shall not apply to payments issued as general welfare assistance per 26 U.S.C. §139D, 26 U.S.C. §139E, or other similar provisions.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Obligations Owed the Tribe.</heading>
+        <text>The Stockbridge-Munsee Tribe may, in its discretion, determine that the per capita distribution may be withheld for payment to the Tribe for amounts due the Tribe and established by a court of competent jurisdiction by judgment with any remaining funds being distributed to the individual. In the event that the obligations of the tribal member are non-monetary, then the tribal member's per-capita payment will be withheld until the individual satisfies the obligation. If the individual has failed to comply within thirty (30) days, then the tribal member's per-capita payment for that particular year will be returned to the Net Gaming Revenue's General Welfare Fund. Examples include but are not limited to a tribal member refusing to vacate a tribal housing unit, failing to complete community service, etc. in addition to any other tribal remedies, the tribal member's per-capita payment would be withheld. If the individual continued to fail to vacate or perform community service as required, then the tribal member's per-capita payment would be returned to the Net Gaming Revenue's General Welfare Fund.  Said withholding may be done by voluntary consent of the debtor or by order of a court of competent jurisdiction, even if the debtor chooses not to accept the Per Capita Payment. In any event, all funds withheld shall be reported to the appropriate taxing authority as income for purposes of federal taxation.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Judgments for Amounts for Child Support.</heading>
+        <text>The Stockbridge-Munsee Tribe must withhold Tribal Court ordered child support, as provided for in <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.09">Chapter YAE.09</cite>, from a tribal member's per capita distribution in accordance with this ordinance.  Said withholding may be done by voluntary consent of the debtor or by order of a court of competent jurisdiction, even if the debtor chooses not to accept the Per Capita Payment. In any event, all funds withheld shall be reported to the appropriate taxing authority as income for purposes of federal taxation.</text>
+        <para>
+          <num>(1)</num>
+          <text>If there are no judgments owed to the Tribe under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(h)">Section GMG.02.07(h)</cite>, then up to 100% of the tribal member's per capita distribution may be withheld for child support.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the Tribal member has obligations both to the Tribe under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(h)">Section GMG.02.07(h)</cite> and for child support pursuant to this <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(i)">Section GMG.02.07(i)</cite>, then the following table shall be utilized.</text>
+          <para>
+            <num>(A)</num>
+            <text>50% of the per capita distribution will be allocated to the Tribe for satisfaction of judgments owed to the Tribe under <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(h)">Section GMG.02.07(h)</cite>.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>50% of the per capita distribution can be applied to amounts owed for child support regardless of the number child support orders.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>If there is more than one child support order, than the allocation for child support should be apportioned equally among the child support orders.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>In the event that the amount owed under either <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(h)">Section GMG.02.07(h)</cite> or <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(i)">(i)</cite> is less than 50% of the per capita distribution, then the remaining amount shall be allocated for the payment of the other debt.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>In the event the amount owed under both Sections <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(h)">GMG.02.07(h)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(i)">(i)</cite> total less than 100% of the per capita distribution, the remainder shall be payable to the tribal member.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Except as provided for in Sections <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(h)">GMG.02.07(h)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="GMG.02.07|(i)">(i)</cite> herein, and as a pledge to secure funds borrowed from the Tribe's loan fund against a discharge in bankruptcy, future Per Capita Payments may not be anticipated, assigned (either in law or equity), alienated, pledged, encumbered or subjected to attachment, garnishment, levy, execution or other legal or equitable process.  Any attempt to assign, alienate, pledge, encumber, attach, garnish, levy, or execute an agreement regarding a future Per Capita Payment will not be valid or legal, and will not be enforceable.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:annotation path="GMG.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|GMG.02.01|annos">12. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 055-25">Resolution No. 055-25</cite>, adopted September 2, 2025, approved by BIA November 19, 2025.</codify:annotation>
+</document>

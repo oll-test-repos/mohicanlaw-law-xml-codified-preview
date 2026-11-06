@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 037-24" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>037-24</num>
+  <heading/>
+  <meta>
+    <ordinance>Fish and Wildlife Ordinance</ordinance>
+    <effective>2024-08-06</effective>
+    <history>
+      <adopted>2024-08-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/037-24.pdf">Stockbridge-Munsee Tribal Council Res. No. 037-24</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted a Fish and Wildlife Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV.01">Chapter ENV.01</cite>, which was formerly known as Chapter 21; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Amendments to the Fish and Wildlife Ordinance have been proposed that include clarifying standards when minors are hunting with an adult; clarifying references to the Wisconsin gun deer season; adding standards for the use of dogs and drones for the recovery of deer and bear; modifying requirements for use of air powered weapons for hunting big game; modifying hunting seasons for bear, spring and fall turkey, migratory birds, and trout season; clarifying role of Conservation/Ecology Department; and clarifying reporting and tagging requirements for trapping.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the following revisions to the Fish and Wildlife Ordinance:</text>
+      <text>
+        <ul>
+          <li>The creation of new subsections:  <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.10|(e)">ENV.01.10 (e)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.10|(f)">(f)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.13|(d)">ENV.01.13 (d)</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.14|(b)|(4)">ENV.01.14(b)(4)</cite>.</li>
+          <li>The modification of subsections: <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.08|(a)|(4)">ENV.01.08(a)(4)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.08|(b)|(2)">(b)(2)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.10|(d)">ENV.01.10(d)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.12|(c)|(4)">ENV.01.12(c)(4)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.13|(b)">ENV.01.13(b)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.13|(b)|(4)|(A)">(b)(4)(A)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.13|(c)|(2)">(c)(2)</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.13|(c)|(4)">(c)(4)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.14|(b)|(2)">ENV.01.14(b)(2)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.14|(c)|(2)">(c)(2)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.15|(c)|(2)">ENV.01.15(c)(2)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.18|(a)|(3)">ENV.01.18(a)(3)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.18|(b)">(b)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.19|(e)">ENV.01.19(e)</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.22|(h)|(1)">ENV.01.22(h)(1)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.22|(h)|(5)">(5)</cite>.</li>
+          <li>The deletion of sub<cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.18|(a)|(4)">section ENV.01.18(a)(4)</cite>.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 6, constituting a quorum, were present at a meeting duly called, noticed, and held on the 6th day of August, 2024, that the foregoing resolution was duly adopted at such meeting by a vote of 5 for, 0 against, and 0 abstaining.</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-3">__________________________</td>
+        </tr>
+        <tr>
+          <td>Shannon Holsey, President</td>
+          <td class="text-indent-3">Virginia Terrio, Acting Secretary</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+  <codify:replace path="ENV.01.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.08">
+    <section>
+      <num>ENV.01.08</num>
+      <heading>License, Permits, And Harvest Tags (Enrolled Member And Minor-Aged Direct Descendent)</heading>
+      <para>
+        <num>(a)</num>
+        <text>Enrolled members of the Stockbridge-Munsee Community shall not be required to purchase or possess hunting permits when hunting, possessing, or transporting any game lawfully taken within the boundaries of the Stockbridge-Munsee Indian Reservation, provided:</text>
+        <para>
+          <num>(1)</num>
+          <text>the enrolled tribal member has his or her valid tribal identification card in his or her possession; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>when hunting, the enrolled tribal member is at least 12 years of age and has successfully completed an approved hunter safety course and possesses a certificate for such course EXCEPT that enrolled tribal members who are at least 10 years of age and less than 12 years of age may also hunt subject to the criteria outlined in <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.08|(c)">Section ENV.01.08(c)</cite> herein;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>all hunters must have harvest tags in their possession while hunting big game and turkey; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>if under 14 years of age, the enrolled tribal member must be within sight and sound communication of an adult tribal member while hunting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Permittees who are minor-aged direct descendants may receive a permit to hunt deer and turkey on the Reservation during the tribal season; provided:</text>
+        <para>
+          <num>(1)</num>
+          <text>the permittee is at least 12 years of age and has successfully completed an approved hunter safety course and possesses a certificate for such course, EXCEPT that permittees who are at least 10 years of age and less than 12 years of age may also hunt subject to the criteria outlined in <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.08|(c)">Section ENV.01.08(c)</cite> herein; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>if under 14 years of age, the minor must be within sight and sound communication of an adult tribal member while hunting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Enrolled tribal members and permittees who are at least 10 years of age and less than 12 years of age may hunt on the tribal land so long as:</text>
+        <para>
+          <num>(1)</num>
+          <text>they have successfully completed an approved hunter safety course and possess a certificate for such course; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>there is only one (1) weapon that is jointly possessed between the minor and the adult; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>they are within an arm's length of an adult who is legally authorized to hunt with that weapon during that season at all times while the minor is in possession of the weapon; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the minor and adult comply with all other hunting laws, seasons, and bag limits.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>As long as an eligible person is enrolled in high school when he/she turns 18-years of age, then that person may obtain hunting permits as a minor-aged permittee.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>As long as an eligible person is not yet 18-years of age at the time when a specific hunting season begins, then that person may obtain and use a hunting permit as if a minor-aged permittee for that season.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Permittees who are minor-aged direct descendants are required to have their permit on their person or in their possession.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Any person who hunts within the jurisdiction of this Ordinance shall have in their possessions either an enrollment card or a valid permit. The enrollment card or permit must be in possession when:</text>
+        <para>
+          <num>(1)</num>
+          <text>Carrying a firearm or bow,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Shooting, trapping, taking or possessing small game or fur bearing animals.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Transporting game.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Any person born after August 15, 1992 must have successfully completed an approved hunter safety course and possess a certificate in order to hunt on the Reservation.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Big game and turkey hunting requires all hunters to possess valid harvest tags as provided in <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.18">Section ENV.01.18</cite>.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.10">
+    <section>
+      <num>ENV.01.10</num>
+      <heading>Deer Hunting Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The deer hunting season is from August 15 to January 31 for tribal members and minor direct descendants.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The taking of deer shall be limited to four (4) per person per season for tribal members (at least 2 must be antlerless), except as permitted in <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.10|(b)|(1)">Section ENV.01.10(b)(1)</cite>.  Minor direct descendants shall be limited to one (1) deer per season.</text>
+        <para>
+          <num>(1)</num>
+          <text>A tribal member may request that up to two (2) antlerless deer be donated to them from another Tribal member.</text>
+          <para>
+            <num>(A)</num>
+            <text>The donee can request up to two (2) deer donation tags from the Conservation Department.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The donee must inform the Conservation Department who the donee will give the donation tags to.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Only another enrolled tribal member may fill or use a donation tag.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Deer hunting for adult direct descendants and other Permittees is limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Bow season:  September 15 through December 31.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Firearm season:  from the Saturday of the week before Thanksgiving to the Sunday following Thanksgiving.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Permittees under <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.10">this section</cite> are limited to one deer per year; EXCEPT, permittees who are direct descendants may take two (2) deer per season so long as one is antlerless.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All hunters are required to wear blaze orange or hot pink clothing during the firearm season from the Saturday prior to Thanksgiving through the Sunday following Thanksgiving. At least 50% of the outer clothing worn above the waist must be blaze orange or hot pink. A hat or head covering, if worn, must also be at least 50% blaze orange or hot pink.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Dogs and non-tribal handlers may be used to recover deer, provided:</text>
+        <para>
+          <num>(1)</num>
+          <text>The game wardens are notified prior to the use of the dogs;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The dogs are solely used for recovery action; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The dogs are kept on a leash.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Drones may be used to recover deer, provided:</text>
+        <para>
+          <num>(1)</num>
+          <text>The game wardens are notified prior to the use of the drones and are present; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The drones are solely used for recovery action.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.12" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.12">
+    <section>
+      <num>ENV.01.12</num>
+      <heading>Hunting Regulations – In General</heading>
+      <para>
+        <num>(a)</num>
+        <text>Equipment.</text>
+        <para>
+          <num>(1)</num>
+          <text>No permanently anchored hunting equipment, including tree stands, cameras and targets, may be used on tribal property.  Equipment is considered to be permanently anchored when nails, screws or other similar items that can damage trees are used to anchor the equipment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Tribal members and permittees may leave hunting equipment in place overnight, so long as the equipment has an identification tag.  Tags can be acquired from the Tribe's Conservation Department.  Untagged equipment will be subject to confiscation and removal.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Baiting and Feeding.</text>
+        <para>
+          <num>(1)</num>
+          <text>No person may place or use bait or feed material for the purpose of hunting any wild animal, other than bear as permitted under <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.13|(b)|(4)">Section ENV.01.13(b)(4)</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No person may place or allow the placement of any material to feed wild animals for non-hunting purposes, except as allowed for birds and small mammals under <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.12|(b)|(3)">Section ENV.01.12(b)(3)</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Material may be placed solely for the purpose of attracting and feeding wild birds and small mammals for non-hunting purposes, if:</text>
+          <para>
+            <num>(A)</num>
+            <text>Placed in bird feeding devices and structures at a sufficient height or design to prevent access by deer;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The structures and devices are within 50 yards of a dwelling for human occupancy; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>When deer are found to be utilizing bird feeding devices or structures, the devices or structures shall be enclosed or elevated higher to prevent access by deer.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Big Game Cartridge, Caliber, and Bullet Restrictions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Deer may not be taken with any rim fire cartridge or with any centerfire cartridge of less than .22-caliber.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Turkey may not be taken with any centerfire cartridge during the spring season.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Bear may not be taken with any rim fire cartridge or with any centerfire cartridge of less than .25-caliber.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Deer and bear may be taken with an air rifle that has at least 750 foot-pounds of energy at muzzle and is 30- caliber or larger. Air-powered weapons that fire arrows or bolts with broadheads are also allowed.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Beginning January 1, 2023, deer and bear may not be taken with lead bullets.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Arrowheads for deer hunting must be made of all steel barbless design, not less than one (1) inch wide for single two (2) blades and not less than three (3) inches in circumference for three (3) or more blades.  Arrowheads with blades of mill-tempered spring steel which contain a plastic core or ferrule conforming with the above dimensions, with a minimum weight of seventy-five (75) grain may be used.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.13" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.13">
+    <section>
+      <num>ENV.01.13</num>
+      <heading>Bear Hunting Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only tribal members may take bear.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Only adult bear may be taken during bear seasons.  The season for taking bear shall be August 1 to October 31, except that the season for taking bear with aid of dogs shall be as described in <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.13|(c)">subsection (c)</cite>.  Individuals shall be limited to taking one (1) bear per person per season. The hunter is responsible for registration of the bear in accordance with <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.13|(c)">ENV.01.18.</cite></text>
+        <para>
+          <num>(1)</num>
+          <text>It shall be unlawful to molest any bear in its den.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It shall be unlawful to shoot or molest a cub or any adult bear accompanied by cub(s).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Nothing in this Ordinance shall prohibit the taking of any bear, which poses an threat to human safety.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Bait may be placed and used for the purpose of hunting bear, except that no person may place, use or hunt over bait that:</text>
+          <para>
+            <num>(A)</num>
+            <text>Is placed outside of the baiting season, which is June 15 to October 31;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Has a volume of more than 25 gallons;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Is not totally enclosed in a hollow log, a buried container, a hole in the ground or a stump and that is capped with logs, rocks, or other naturally occurring and unprocessed substances to prevent deer from accessing the bait;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Contains meat or fish byproducts; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Contains liquid grease or cooking oil.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Substances that can cause permanent damage to trees and brush, including but not limited to liquid grease or cooking oil, may not be applied to trees and brush.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Standards for Hunting Bear with Aid of Dogs.</text>
+        <para>
+          <num>(1)</num>
+          <text>The season for hunting bear with the aid of dogs shall be September 1 to October 31.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The season for training dogs by pursuing bear shall be July 1 to July 31.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It is illegal to hunt, pursue or train with more than a total of 6 dogs at one time regardless of the number of bear hunters in a group or the ownership of the dogs.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Dogs and non-tribal handlers may be used to recover bear; provided, the game wardens are notified prior to the use of the dogs, the dogs are used solely for the recovery action, and the dogs are kept on a leash.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Drones may be used to recover bear, provided:</text>
+        <para>
+          <num>(1)</num>
+          <text>The game wardens are notified prior to the use of the drones and are present; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The drones are solely used for recovery action.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.14" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.14">
+    <section>
+      <num>ENV.01.14</num>
+      <heading>Turkey Hunting Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Turkey hunting requires harvest tags and turkeys must be registered consistent with <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.01.18">Section ENV.01.18</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Spring Turkey Season:</text>
+        <para>
+          <num>(1)</num>
+          <text>The spring turkey season is open to tribal members and permittees.  Tribal members may harvest four (4) tom or jake during this season.  Permittees may harvest two (2) tom or jake during this season.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hunting season for tribal members is February 1 to July 31.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Hunting for permittees is April 15 to May 31.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Centerfire/rimfire rifles may not be used during the spring turkey season. Turkeys may only be taken with shotguns, bows, or crossbows during this spring season. </text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Fall Turkey Season:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Fall turkey season is open to tribal members and permittees.  Tribal members may harvest four (4) turkeys of any sex.  Permittees may harvest two (2) turkeys of any sex during this season.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The fall hunting season for tribal members is from August 1 to January 31.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The fall hunting season for permittees is from September 15 to December 31.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Permittees may only take turkey with a centerfire rifle or a shotgun loaded with slugs during time periods when the permittee is also authorized to take deer with a firearm.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.15" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.15">
+    <section>
+      <num>ENV.01.15</num>
+      <heading>Small Game, Migratory Bird And Grouse Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Small game season shall be August 1 to the last day of February.  Permittee small game season is closed during traditional 9-day gun deer season.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There shall be a daily limit of ten (10) not to exceed twenty (20) in possession of taking of rabbit and squirrel.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The taking of Migratory Birds shall be subject to the maximum federal annual allowance provided for the Mississippi Flyway, as provided in 50 CFR part 20.</text>
+        <para>
+          <num>(1)</num>
+          <text>No lead shot may be used to take migratory birds over water.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Migratory bird season shall be September 1 to December 24; except, the season shall be closed during the 9-day Wisconsin gun deer season, which is the Saturday prior to Thanksgiving through the Sunday after Thanksgiving.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There shall be a daily limit of ten (10) ducks of any sex and any species and a daily limit of five (5) geese.  The possession limit shall be double the daily bag limit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Ruffed grouse and spruce grouse shall be limited to five (5) per day per person, and the possession and transportation of these types of small game shall be limited to no more than ten (10) grouse at any time.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.18" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.18">
+    <section>
+      <num>ENV.01.18</num>
+      <heading>Mandatory Registration / Wildlife Count</heading>
+      <para>
+        <num>(a)</num>
+        <text>All big game and turkey harvested on the Stockbridge-Munsee Reservation must be registered.</text>
+        <para>
+          <num>(1)</num>
+          <text>Mandatory harvest tags will be issued to enrolled members and permittees through the Stockbridge-Munsee Conservation Department.  Harvest tags must be obtained by hunters each season prior to hunting.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hunters must have harvest tags in their possession while hunting. Harvest tags must be attached immediately upon harvest.  Big game and turkey must be tagged in the following manner: Bear &amp; deer – at base of antler or hind leg through the gamble; turkey – around the base of the wing.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All big game and turkey must be registered with a game warden within 24 hours of harvest and processed within 30 days of registration. Hunters are responsible for an in-person registration for any bear harvested. </text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Before and during the applicable hunting season, the game wardens shall publish in the <u>Mohican News</u>, and tribal posting places, the applicable registration places, phone numbers, and hours.  The Tribe's web site may also be utilized.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>From time to time, but at least every other year, the Conservation/Ecology Departments will perform a count of the wildlife within the jurisdiction; particularly the bear, deer, and turkey, but also other species as needed. Data compiled is to be brought to the Fish and Wildlife Board for reviews and recommendations.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.19" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.19">
+    <section>
+      <num>ENV.01.19</num>
+      <heading>Fishing Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Fees for adult direct descendants and spouses of tribal members are:</text>
+        <para>
+          <num>(1)</num>
+          <text>Fishing permit, which is valid for the calendar year, is $30.00 annually.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Sportsman permit for hunting (except turkey) and fishing, which is valid for the calendar year, is $50.00 annually.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There are no fees for minor-aged direct descendants, however, they must obtain a permit from the Conservation Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There shall be no limitation on the taking of rough fish for personal use. The following regulations are imposed on the taking of:  brook trout, northern pike, rainbow trout, brown trout, bass (large mouth and small mouth), panfish, and walleye.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>For trout, there will be a size limit of eight (8) inches or better, and a limit of ten (10) of any kind for tribal members and five (5) trout of any kind for other permittees per day. There will be a limit for trout possession of fifty (50) for tribal members and twenty-five (25) for other permittees.</text>
+        <para>
+          <num>(1)</num>
+          <text>There is a limit of five (5) bass per day.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>There is a limit of twenty-five (25) panfish per day.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There is a limit of five (5) northern pike per day.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>There is a limit of five (5) walleye per day.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All waters within the jurisdiction shall be closed to trout fishing from October 1 to November 30. The Spring Hole, including the creek leading to the West Branch of the Red River, shall be closed from October 1 to May 1.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The trout fishing season for all tribal members and for minor-aged permittees is December 1 through September 30.  The trout fishing season for adult permittees shall be from the first Saturday in May until September 30.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Blue Heron Pond Regulations (located in NE¼ of Section 34, Bartelme):  Catch and release by tribal members and permittees is permitted.  Keeping fish is limited to tribal members and permittees age 15 and under, and 55 and older.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.22" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.22">
+    <section>
+      <num>ENV.01.22</num>
+      <heading>Fur-Bearing Animals And Trapping Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only tribal members may take fur-bearing animals.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Only tribal members may trap.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The season for trapping fur-bearing animals shall be October 15 – April 15.</text>
+        <para>
+          <num>(1)</num>
+          <text>Quotas for the number of fur-bearing animals that may be trapped during the season shall be set at the beginning of the season based on the recommendation of the Conservation/Ecology Departments and acceptance of the Fish and Wildlife Board.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Seasonal quotas will be posted at tribal posting places, the Little Star Convenience Store, in the Mohican News and on the tribal website.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Once a seasonal quota has been reached or will be reached imminently for a particular animal, the Conservation/Ecology Departments will close the trapping season for that animal.  Notice of season closure will be posted by the Conservation/Ecology Departments at tribal posting places, the Little Star Convenience Store, in the Mohican News and on the tribal website.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All traps and fur-bearing animals taken pursuant to these regulations shall have the tribal member's enrollment number clearly marked on them.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>When shipping furs, the parcel must be plainly marked on the outside stating the name, address, permit number of the shipper, the number and kind of skins contained in the package. The bill of lading or receipt issued by any common carrier to a shipper shall specify the number and species of furs shipped.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Hides or pelts adapted to personal use need not carry the permit number once the adaptation is completion.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Coyotes may be taken year-round with a weapon.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Bobcat, Badger, Fisher, and Otter:</text>
+        <para>
+          <num>(1)</num>
+          <text>Trappers must report their trappings with the Conservation/Ecology Departments within 24 hours of the trapping.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A seasonal quota will be set for bobcat, badger, fisher, and otter on an annual basis based on the recommendations of the Conservation/Ecology Departments and acceptance by the Fish and Wildlife Board.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Once the quota has been met, the Conservation/Ecology Departments shall post such notices at the Little Star Convenience Store, the Conservation Department and the Tribe's web site.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Tribal members must obtain a transportation tag from the Ecology Department, if the bobcat, badger, fisher, and/or otter will be transported off of the reservation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If the hides or pelts legally harvested on tribal lands are to leave the State of Wisconsin, then a CITES tag may also be needed. CITES tags need to be obtained from the Wisconsin Department of Natural Resources.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Trap Size and Type Restrictions.</text>
+        <para>
+          <num>(1)</num>
+          <text>The use of body grip traps larger than 220 size is prohibited for dry land sets; EXCEPT, the use of body grip traps of any size is prohibited during any time period when the bobcat or fisher quota has been reached.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The use of snares or cable restraints is prohibited for dry land sets.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The restrictions on trap size and type for dry land sets does not apply to trapping weasel, mink, muskrat, beaver, and otter in, on, or amongst a body of water.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Trap Checking Requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Dry land sets must be checked at least once each calendar day.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Water sets must be checked at least once every 4 calendar days, EXCEPT, traps that are under ice water sets must be checked at least once every 14 calendar days.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:annotation path="ENV.01" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.01|annos">30. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 037-24">Resolution No. 037-24</cite>, adopted August 6, 2024</codify:annotation>
+</document>

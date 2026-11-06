@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2017 SMTCA 1">
+  <num>2017 SMTCA 1</num>
+  <heading>Jolene Bowman, et al. vs. Stockbridge Munsee Community Election Board</heading>
+  <meta>
+    <effective>2017-02-23</effective>
+    <citations>
+      <citation type="reporter" url="./2017 SMTCA 1.pdf">2017 SMTCA 1</citation>
+      <citation type="opinion" url="./16-AP-2016-RO-0007.pdf">Case No. 16-AP-2016-RO-0007</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Jolene Bowman and Joseph Miller</name>
+        <designation>Petitioners/Appellees</designation>
+      </party>
+      <party>
+        <name>Stockbridge Munsee Community Election Board</name>
+        <designation>Respondents/Appellants</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Diane House and Steven Boulley, and Chief Judge Marianne Higgins presiding.</text>
+  </para>
+  <container name="INTRODUCTION">
+    <heading>INTRODUCTION</heading>
+    <para>
+      <num>¶2</num>
+      <text>The Stockbridge Munsee Community Election Board (hereinafter "Election Board") appeals the Stockbridge-Munsee Tribal Court's (hereinafter "Tribal Court") November 18, 2016 order vacating the Election Board's October 14<sup>th</sup>, 2016 order and its issuance of a permanent injunction against holding a new annual election. <em>Affirmed.</em></text>
+    </para>
+  </container>
+  <container name="JURISDICTION">
+    <heading>JURISDICTION</heading>
+    <para>
+      <num>¶3</num>
+      <text>The court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6 (L) of the Stockbridge-Munsee Tribal Court Code</cite> which gives the Court of Appeals the jurisdiction to hear appeals from the Trial Tribal Court.</text>
+    </para>
+  </container>
+  <container name="PROCEDURAL BACKGROUND">
+    <heading>PROCEDURAL BACKGROUND</heading>
+    <para>
+      <num>¶4</num>
+      <text>On October 8, 2016, the Stockbridge-Munsee Community held its annual election for its Vice-President, four council seats, and two education board member positions. After certifying the election results, the Election Board received two letters from enrolled tribal members Joe Miller (hereinafter "Miller") (Miller is also one of the Petitioners/Appellees in this matter; and Councilmember-elect), and Wayne Murphy (hereinafter "Murphy"), asserting election challenges due to the denial of several recently-enrolled tribal members' right to vote said election. On October 14, 2016, the Election Board issued its decision and determined that due to this denial of tribal members' right to vote, this constituted a violation of the Election Ordinance. Based upon this violation, the Election Board ordered a new election to take place on November 12, 2016. On October 18, 2016, both Miller and Murphy withdrew their challenges on the October 8 election, and requested reconsideration and vacation of the October 14<sup>th</sup> Election Board decision that ordered a new election to take place on November 12, 2016. On October 24, 2016, the Election Board issued its decision and denied these requests for reconsideration and vacation of its October 14<sup>th</sup> order.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>On October 19, 2016, Vice-President-elect Jolene Bowman (hereinafter "Bowman") petitioned the Tribal Court for injunctive relief to void the Election Board's October 14<sup>th</sup> decision that ordered a new election to be held on November 12, 2016; and to authenticate the October 8, 2016 election results. On October 20, 2016, Councilmember-elect Miller also filed a petition for injunctive relief to cancel the upcoming November 12, 2016 election and to set aside the October 14<sup>th</sup> Election Board decision and order (Bowman and Miller's cases were later consolidated as one). On November 3, 2016, the Tribal Court issued a Preliminary Injunctive order that indefinitely suspended all activity relating to holding a new 2016 election, pending a final decision. On November 18, 2016, the Tribal Court issued its final decision and ordered the October 14, 2016 Election Board decision to be vacated in its entirety. In addition, the Tribal Court issued a permanent injunction commanding the Election Board to refrain from any further effort at rescheduling a new 2016 tribal election and ordered the certified election winners to be sworn in without further delay. On November 21, the Election Board filed a Notice of Appeal of the Tribal Court's November 18<sup>th</sup> decision and a Motion to Stay the implementation of the swearing in of the newly elected officials until the appeal process is exhausted.</text>
+    </para>
+  </container>
+  <container name="STANDARD OF REVIEW">
+    <heading>STANDARD OF REVIEW</heading>
+    <para>
+      <num>¶6</num>
+      <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(5)">Stockbridge-Munsee Tribal Law §1.6(L)(5)</cite> states that judicial rulings in discretionary matters are reviewed based on whether there was an abuse of discretion. We independently determine whether the correct standard of law was applied as a de novo review, but uphold the trial court's findings of fact unless they are clearly erroneous. <em>Id.</em> Furthermore, errors that are not likely to have had a substantial impact on the decision or on substantial rights are considered "harmless errors" and are not a basis for reversal. <em>Id.</em> This standard of review is heavily weighted in support of an original hearing body's findings.</text>
+    </para>
+  </container>
+  <container name="ISSUES PRESENTED">
+    <heading>ISSUES PRESENTED</heading>
+    <para>
+      <num>¶7</num>
+      <text>Did the Tribal Court commit an error of law with its application of <cite doc="Stockbridge-Munsee Tribal Code" path="GOV.03">Chapter 49</cite> and the <em><u>Chicks</u></em><fn path="|footnotes|1">1</fn> decision to the undisputed facts in this case? Did the Tribal Court abuse its discretion by granting the permanent injunction?</text>
+    </para>
+  </container>
+  <container name="ANALYSIS">
+    <heading>ANALYSIS</heading>
+    <para>
+      <num>¶8</num>
+      <text>This action was initiated by Bowman and Miller, both who were certified as two of the winning candidates in the election, as requests for injunctive relief. The Tribal Court determined that "this case is more accurately identified as an Administrative Appeal (<cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02">Chapter 5</cite>) involving a tribal election dispute, that is, more specifically governed by <cite doc="Stockbridge-Munsee Tribal Code" path="GOV.03">Chapter 49</cite>"<fn path="|footnotes|2">2</fn>. The Tribal Court also found <cite doc="Stockbridge-Munsee Tribal Code" path="GOV.03">Chapter 49</cite> silent with respect to injunctive relief, and properly looked for guidance under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1 of the Stockbridge-Munsee Tribal Court Code</cite>.<fn path="|footnotes|3">3</fn></text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>One of the Election Board's main arguments in this matter is that Miller and Murphy should not be allowed to "unilaterally dismiss an action after a decision has been issued".<fn path="|footnotes|4">4</fn> The Election Board also argues that it is not required to abrogate its decision after receiving the reconsideration requests from Miller and Murphy.<fn path="|footnotes|5">5</fn> The Election Board is correct in both of these assertions. Miller and Murphy had no rights to a dismissal after the Election Board made its decision to order a new election. In this instance, Miller and Murphy both filed requests for the Election Board to reconsider the October 14<sup>th</sup> decision. The Election Board was the decision-maker in this instance. They were not required to abrogate its decision; and chose not to do so.</text>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text>The Election Board was charged with the decision to reconsider their order and chose to stand by it. It is this decision that the Tribal Court examined for errors of law and for potential abuses of discretion. Our charge is then to review how the Tribal Court came to its conclusion 1) to vacate the October 14<sup>th</sup> Election Board order; 2) to issue a permanent injunction prohibiting the Election Board from taking any further action at rescheduling a new 2016 tribal election; and 3) to order the certified election winners to be sworn in without further delay.</text>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(5)">Stockbridge-Munsee Tribal Law §1.6(L)(5)</cite> allows us de novo review to initially determine whether the correct standard of law was applied. For guidance, we look to other jurisdictions that have set forth a functional inquiry for determining whether de novo review is appropriate. For example, the Ninth Circuit proposed in <cite doc="728 F.2d 1195"><em>United States v. McConney,</em> 728 F.2d 1195 (9th Cir. 1984)</cite>, that if application of the rule of law to the facts requires an inquiry that is "essentially factual," then it should be reviewed under the clearly erroneous standard. <cite doc="728 F.2d 1195"><em>Id.</em></cite> If, on the other hand, if the question requires the court to consider legal concepts and to exercise judgment about the "values that animate legal principles," then the question should be reviewed de novo. <cite doc="728 F.2d 1195"><em>Id.</em> at 120</cite>.<fn path="|footnotes|6">6</fn> As a result, it would be appropriate to reverse the Tribal Court's decision only if it was based upon a clear mistake of law or upon clearly erroneous findings.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>We find no errors law with the Court's finding that the provisions in <cite doc="Stockbridge-Munsee Tribal Code" path="GOV.03">Chapter 49</cite> and the <em><u>Chicks</u></em> decision are applicable to this matter before us. The Tribal Court considered whether the Election Board failed to follow its own precedent in <em><u>Chicks</u></em> and committed an error of law by not conducting a hearing as requested by Miller. It found that because <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.03.17|(a)">§49.12 (A)</cite> requires such things as notice of any disputes to be provided to all candidates, this ordinance not only anticipates and authorizes the Election Board to provide a hearing, but actually requires it to do so.<fn path="|footnotes|7">7</fn> It is undisputed that notice was not given to all of the other candidates about the October 11<sup>th</sup> and October 18<sup>th</sup>  filings by candidate Miller. Furthermore, by not holding a hearing, the Tribal Court determined that an error of law occurred due to violations of the precedent set in Chicks which interpreted both <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.03.17">§49.12 </cite>and <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.03.17|(b)|(3)">§49.12 (B)(3)</cite>.<fn path="|footnotes|8">8</fn> We agree with Tribal Court's conclusions of law on this issue. If the Tribal Court determined some principles of the election law was violated by the Election Board in its review, then it is appropriate in this instance for the Tribal Court to provide equitable relief to Bowman and Miller, especially given there are more limited remedies available in the Election Ordinance.</text>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(5)">Stockbridge-Munsee Tribal Law §1.6(L) (5)</cite> states that judicial rulings in discretionary matters are reviewed based on whether there was an abuse of discretion. In this matter, a decision to provide a remedy such as the granting of injunctive relief is an act of equitable discretion by the Tribal Court, review on appeal for abuse of discretion.</text>
+    </para>
+    <para>
+      <num>¶14</num>
+      <text>The <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.13|(D)">Stockbridge-Munsee Tribal Court Code Section 1.13(D) <em>Injunctions,</em></cite> states the following:</text>
+      <include>
+        <text>The Stockbridge-Munsee Tribal Court shall only grant an injunction after considering the following factors:</text>
+        <para>
+          <num>(1)</num>
+          <text>the significance of the threat of irreparable harm to plaintiff if the injunction is not granted;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the balance between this harm and the injury that granting the injunction would inflict on the defendant; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the public interest.</text>
+        </para>
+      </include>
+    </para>
+    <para>
+      <num>¶15</num>
+      <text>The Tribal Court was charged with balancing these factors, and to make a decision whether to grant injunctive relief to Bowman and Miller based on this balancing test. <cite doc="547 U.S. 388"><em><u>eBay Inc. and Half.com, v. MercExchange, L.L.C.,</u></em> 547 U.S. 388 (2006)</cite>.<fn path="|footnotes|9">9</fn></text>
+    </para>
+    <para>
+      <num>¶16</num>
+      <text>Did the Tribal Court abuse its discretion by granting the permanent injunction? It was evident that the following factors were considered in its Preliminary Injunction Order issued on November 3<sup>rd</sup>, and in the November 18<sup>th</sup> decision to vacate the Election Board's order and issue the permanent injunction. With regard to Bowman, the Tribal Court determined that she rightfully won the election and could potentially suffer irreparable harm if the election results were voided.<fn path="|footnotes|10">10</fn> Miller as a winning candidate could also be irreparably harmed if the election results were voided.<fn path="|footnotes|11">11</fn> The Tribal Court further determined that Miller could suffer additional harm by having his due process rights being violated when a hearing was not conducted in accordance with <cite doc="Stockbridge-Munsee Tribal Code" path="GOV.03">Chapter 49</cite> and the <em><u>Chicks</u></em> decision.<fn path="|footnotes|12">12</fn> The Tribal Court also gave weight to the fact that Miller, as one of the initial complainants/injured parties to this matter, voluntarily withdrew his request.<fn path="|footnotes|13">13</fn> The Tribal Court also considered the "great cost, time, controversy and chaos for the community members" since the October 8<sup>th</sup> election was held.<fn path="|footnotes|14">14</fn></text>
+    </para>
+    <para>
+      <num>¶17</num>
+      <text><cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.03.18|(a)">§49.12.5(A) of the Stockbridge-Munsee Election Ordinance</cite> states that the Tribal Court shall have authority to function as an appellate court in relation to decisions by the Election Board when a candidate has asserted the Election Board made an error of law or fact or has abused its discretion. The Election Board earnestly took up its initial charge to review the matter. This matter was then properly before the Tribal Court when Bowman and Miller filed for relief from the Election Board's order in the Tribal Court. The Tribal Court then determined that error of law occurred and in its discretion, provided a remedy that it believed was more equitable i.e. vacating the order to hold a new annual election and the issuance of a permanent injunction.</text>
+    </para>
+    <para>
+      <num>¶18</num>
+      <text>Our standard of review for lower court decisions involving injunctions is very limited and narrow. If there is more than one plausible interpretation of the factors before the Tribal Court, the Tribal Court's acceptance of any particular interpretation of those factors cannot be an abuse of that discretion. The Tribal Court considered the additional expense of holding another election. The Tribal Court also gave consideration to Miller's withdrawal of his election challenge. More importantly, the Tribal Court gave great weight to the impact to rights of all of the winning candidates to be duly sworn in to hold the offices that they were elected in by the voting membership. It also gave great weight to the fact that the public interest would best be served by allowing the October 8<sup>th</sup> election results to stand. The Tribal Court considered many factors and determined this remedy was just and equitable. Because there were no errors of law or clearly erroneous findings, we must be deferential to the Tribal Court's balancing of these factors. We find that the Tribal Court did not abuse its discretion in its determination to provide equitable relief to Bowman and Miller by vacating the Election Board's October 14<sup>th</sup> Order and by issuing a permanent injunction against holding a new election.</text>
+    </para>
+  </container>
+  <container name="CONCLUSION">
+    <heading>CONCLUSION</heading>
+    <para>
+      <num>¶19</num>
+      <text>We conclude that the Tribal Court did not commit an error of law with its application of <cite doc="Stockbridge-Munsee Tribal Code" path="GOV.03">Chapter 49</cite> and the <em><u>Chicks</u></em> decision to the facts in this matter. We also conclude that the Tribal Court did not abuse its discretion in its determination to vacate the October 14<sup>th</sup> Election Board order, which also granted the permanent injunction. The Motion to Stay the implementation of the swearing in of the newly elected officials is denied. The November 18, 2016 Tribal Court Decision and Order is <em>Affirmed</em>.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Dated this 23rd day of February, 2017.</text>
+    <text>
+      <strong>BY ORDER OF THE COURT OF APPEALS:</strong>
+    </text>
+    <text>Diana House, Lead Appellate Court Judge Pro Tempore</text>
+    <text>Steven Boulley, Appellate Court Judge Pro Tempore</text>
+    <text>Marianne Higgins, Stockbridge-Munsee Community Chief Judge</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Decision and Order, <cite doc="2011-TRO-0005"><em>Chicks v. Stockbridge-Munsee Community, et al., </em>2011-TRO-0005 (October 24, 2011)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>Decision and Order at 7, <cite doc="2016-RO-0007"><em>Bowman &amp; Miller v. Stockbridge-Munsee Community Election Board,</em> 2016-RO-0007 (November 18, 2016)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text>
+        <cite doc="2016-RO-0007">Id.</cite>
+      </text>
+    </footnote>
+    <footnote>
+      <num>4</num>
+      <text>Respondent/Appellant's Brief at 10, <cite doc="16-AP-2016-RO-0007"><em>Bowman &amp; Miller v. Stockbridge-Munsee Community Election Board</em>, 16-AP 2016-RO-0007 (December 9, 2016)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>5</num>
+      <text>
+        <cite doc="16-AP-2016-RO-0007">Id.</cite>
+      </text>
+    </footnote>
+    <footnote>
+      <num>6</num>
+      <text>See Georgetown Writing Center's "Identifying and Understanding Standards of Review" at 2 (The Writing Center at GULC, 2013).</text>
+    </footnote>
+    <footnote>
+      <num>7</num>
+      <text>Decision and Order at 22, <cite doc="2016-RO-0007">Bowman &amp; Miller v. Stockbridge-Munsee Community Election Board, 2016-RO-0007 (November 18, 2016)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>8</num>
+      <text>Decision and Order at 27, <cite doc="2016-RO-0007"><em>Bowman &amp; Miller v. Stockbridge-Munsee Community Election Board</em>, 2016-RO-0007 (November 18, 2016)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>9</num>
+      <text>In <em><u>e-Bay, </u></em>the Supreme Court laid out four factors that must be met in order to obtain injunctive relief. The Stockbridge-Munsee Court has three of these same four factors to consider-the difference is the Tribal omission of the additional factor of "a reasonable likelihood of success on the merits" to consider in the balancing of factors. This additional factor, however, is of no consequence to this decision-consider that it is met when the preliminary and permanent injunctions are issued. In addition, when the initial granting of the preliminary injunction is issued, the court in effect already decided that the balance of harms weighs in the moving party's favor. While courts should still consider the issue of the balancing of harms before issuing a permanent injunction, it is the existence of irreparable harm and the impact on the public interest that will typically weigh more heavily in the final decision.</text>
+    </footnote>
+    <footnote>
+      <num>10</num>
+      <text>Preliminary Injunction Order at 2, <cite doc="2016-RO-0007"><em>Bowman &amp; Miller v. Stockbridge-Munsee Community Election Board,</em> 2016-RO-0007 (November 3, 2016)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>11</num>
+      <text><cite doc="2016-RO-0007">Id</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>12</num>
+      <text>"…In review, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§49.2">sections 49.2 </cite>and <cite doc="Old Stockbridge-Munsee Tribal Code" path="§49.12">49.12 </cite>state the Election Board shall the authority and or sole authority to resolve disputes, subject to appeal in the Tribal Court... The Court finds that these particular sections of the Code serve as a mandate to the Election Board that when a challenge is brought, that is shall (not that it may or might, but it shall) have a hearing and consider the challenge". <cite doc="2011-TRO-0005" path="5">Decision and Order at 5, <em>Chicks v. Stockbridge-Munsee Community et al.,</em> 2011-TRO-0005 (October 24, 2011)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>13</num>
+      <text><cite doc="2016-RO-0007" path="27">Decision and Order at 27, <em>Bowman &amp; Miller v. Stockbridge-Munsee Community Election Board,</em> 2016-RO-0007 (November 18, 2016)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>14</num>
+      <text><cite doc="2016-RO-0007" path="27">Id</cite>.</text>
+    </footnote>
+  </footnotes>
+</document>

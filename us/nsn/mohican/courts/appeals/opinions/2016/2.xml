@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2016 SMTCA 2">
+  <num>2016 SMTCA 2</num>
+  <heading>Jeff Vele vs. Jo Ann Schedler</heading>
+  <meta>
+    <effective>2016-06-29</effective>
+    <citations>
+      <citation type="reporter" url="./2016 SMTCA 2.pdf">2016 SMTCA 2</citation>
+      <citation type="opinion" url="./2015-AP-2014-CV-0012.pdf">Case No. 2015-AP-2014-CV-0012</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Jeff Vele</name>
+        <designation>Appellant</designation>
+      </party>
+      <party>
+        <name>Jo Ann Schedler</name>
+        <designation>Respondent</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This case has come before the Stockbridge-Munsee Court of Appeals, Appellate Court Judges Chad Hendricks, Stephan Grochowski, and Marianne Higgins presiding.</text>
+  </para>
+  <container name="INTRODUCTION">
+    <heading>INTRODUCTION</heading>
+    <para>
+      <num>¶2</num>
+      <text>Jeff Vele appeals an order of the Stockbridge-Munsee Tribal Court (hereinafter "SMTC" ) finding him guilty of making a libelous statement against Jo Ann Schedler in the Mohican News.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>
+        <em>Reversed.</em>
+      </text>
+    </para>
+  </container>
+  <container name="JURISDICTION">
+    <heading>JURISDICTION</heading>
+    <para>
+      <num>¶4</num>
+      <text>The Court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6(L) of the Stockbridge-Munsee Tribal Court Code</cite> which gives the Court of Appeals exclusive jurisdiction to review appeals from the Trial Court.</text>
+    </para>
+  </container>
+  <container name="HISTORICAL BACKGROUND">
+    <heading>HISTORICAL BACKGROUND</heading>
+    <para>
+      <num>¶5</num>
+      <text>Appellant Jeff Vele, Sr. (hereinafter "Vele") is editor of the Stockbridge-Munsee Community newspaper, the Mohican News, and ran for the office of Vice-President in the Fall/2013 Tribal Council election. Respondent Jo Ann Schedler (hereinafter "Schedler") ran for office of Tribal President in the same election. Prior to the Fall/2013 election, the Mohican News included a section entitled Election Platforms in its October 1<sup>st</sup> edition. This section gave candidates running for tribal council the opportunity to express their views on issues they felt were important to members of the community.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>In Vele's <em>Platform,</em> which is at issue in this appeal, he stated:</text>
+      <include>
+        <text>
+          <em>I plan to ask a pointed question of Jo Ann Schedler about when she first got on Tribal Council in 2011. I stood listening as Jo Ann said she had to travel to Georgia and was just starting work and did not have any paid time off (PTO). Joe Miller told her to just fill out her time sheet with 40 hours on it because that was one of the perks Tribal Council received as being elected. If anyone else filled out a time sheet with incorrect hours and they did not work they would be fired (and if the rumors are true, some people have been fired from the casino for this very thing)!</em>
+        </text>
+      </include>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>Schedler brought this civil libel action against Vele, the Mohican News, and the Stockbridge-Munsee Community (hereinafter "SMC"). Schedler's complaint alleged she had been libeled by Vele's statement published in the October 1, 2013 edition of the Mohican News and the actions of the named defendants have substantially damaged her interests and reputation. Rob Orcutt, SMC attorney, moved to dismiss both the tribe and newspaper as parties contending the SMC has sovereign immunity and that Schedler failed to state a claim upon which relief may be granted. The trial court granted SMC's motion to dismiss.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>A trial was conducted with Vele as the only remaining defendant. At trial, Schedler and her husband described the severity of her emotional injuries. No evidence was presented by Schedler to prove the statement made by Vele was in fact false. She also made no effort to prove that she suffered actual pecuniary loss as a result of the alleged libel. There were no expert witnesses that testified Schedler's emotional injuries resulted in depression. Vele did testify there was no malicious intent by his comments and the trial court agreed that his statement in the Mohican News was not a malicious attack.</text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>At the conclusion of the trial, the court ruled Vele's statement was libelous and that he violated three General Policies of the Mohican News. The court ordered Vele to print a retraction in the Mohican News, provide Schedler with a letter of apology, and awarded Schedler court costs and legal fees in the amount of $900. The court also stated that if Vele appealed the trial court's decision, it would double the award of court costs and legal fees he owes to Schedler to $1800.</text>
+    </para>
+  </container>
+  <container name="STANDARD OF REVIEW">
+    <heading>STANDARD OF REVIEW</heading>
+    <para>
+      <num>¶10</num>
+      <text>In reviewing a public figure libel case, the court has a constitutional duty to exercise independent review of the entire record of the trial court to determine if the record establishes actual malice with convincing clarity.</text>
+    </para>
+  </container>
+  <container name="ANALYSIS">
+    <heading>ANALYSIS</heading>
+    <para>
+      <num>¶11</num>
+      <text>The question presented is whether <cite doc="Stockbridge-Munsee Tribal Code" path="GOV.01">Chapter 2</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.01.01|(a)">§2.1(A) of the Stockbridge-Munsee Bill of Rights</cite>, 25 U.S.C. § 1302(a)(1) of the Indian Civil Rights Act of 1968 (ICRA), and the First Amendment of the U.S. Constitution shields Vele from tort liability for his speech in this case. <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.01.01|(a)">Section 2.1(A) of the Stockbridge-Munsee Bill of Rights</cite> and 25 U.S.C. § 1302(a)(1) of the ICRA states that the tribe "shall not make or enforce any law abridging the freedom of speech or press."<fn path="|footnotes|1">1</fn> <em>Id.</em></text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>Congress passed the ICRA "with an intent to protect the individual rights of Indians while fostering tribal self-government and cultural identity." <em><cite doc="507 F.2d 1079" path="1082">Wounded Head v. Tribal Council of Oglala Sioux Tribe of Pine Ridge Reservation, 507 F.2d 1079, 1082 (8th Cir. 1975)</cite></em>. Congress wanted to make clear it would not tolerate acts by tribal governments that ban freedoms of speech. Both <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.01.01|(a)">§2.1(A) of the Stockbridge-Munsee Bill of Rights</cite> and 25 U.S.C. § 1302(a)(1) of the ICRA largely parallels the First Amendment when it comes to an individual's freedom of speech rights. Thus, the same freedom of speech rights guaranteed by the First Amendment are also guaranteed by <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.01.01|(a)">§2.1(A) of the Stockbridge-Munsee Bill of Rights</cite> and 25 U.S.C. § 1302(a)(1) of the ICRA within the Stockbridge-Munsee Community.</text>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>Defamation refers to false statements of fact that harm another's reputation. Libel refers to written defamation. The essence of a defamation claim is the right to protect one's good name. However, defamation suits often clash with freedom of speech rights guaranteed by the Stockbridge-Munsee Bill of Rights, the ICRA, and the First Amendment.</text>
+    </para>
+    <para>
+      <num>¶14</num>
+      <text>Stockbridge-Munsee Tribal Law is silent on the issue of defamation, therefore the Court of Appeals may look to federal case law for guidance; specifically, the seminal case of <cite doc="376 U.S. 254"><em>New York Times Co. v. Sullivan,</em> 376 U.S. 254, (1964)</cite>. In <em>New York Times,</em> the United States Supreme Court held that a public figure may not recover for damages for a defamatory falsehood without clear and convincing proof the false "statement was made with 'actual malice' ― that is, with knowledge that it was false or with reckless disregard of whether it was false or not." <cite doc="376 U.S. 254" path="279"><em>Id</em> .at 279-80</cite>. Whether the evidence in the record in a defamation case is sufficient to support a finding of actual malice is a question of law. <cite doc="466 U.S. 485" path="510"><em>Bose Corp. v. Consumers Union of United States, Inc.,</em> 466 U.S. 485, 510-11 (1965)</cite>.</text>
+    </para>
+    <para>
+      <num>¶15</num>
+      <text>We must first determine if Schedler is a public figure, and if so, whether Vele acted with actual malice when he published his statement in the October 1, 2013 edition of the Mohican News.</text>
+    </para>
+    <para>
+      <num>¶16</num>
+      <text>The burden is on Schedler to establish Vele acted with actual malice with clear and convincing evidence.</text>
+    </para>
+    <container name="Whether Schedler is a Public Official/Figure?">
+      <heading>Whether Schedler is a Public Official/Figure?</heading>
+      <para>
+        <num>¶17</num>
+        <text>While a public official/figure must establish the defendant acted with actual malice in a defamation case, a private individual does not carry this same heavy burden. <cite doc="418 U.S. 323"><em>See Gertz v. Robert Welch, Inc., </em>418 U.S. 323 (1974)</cite>. A private individual must simply show the defendant was negligent or at fault. <cite doc="418 U.S. 323"><em>Id.</em></cite> This is because public figures have greater access to the media and to a certain extent seek out public acclaim and assume the risk of greater public scrutiny. <em>See <cite doc="418 U.S. 323">id</cite>.</em></text>
+      </para>
+      <para>
+        <num>¶18</num>
+        <text>Therefore, the most important legal issue in this case is determining the status of Schedler.</text>
+      </para>
+      <para>
+        <num>¶19</num>
+        <text>Whether Schedler is a public official/figure is not a difficult question for this Court to answer.</text>
+      </para>
+      <para>
+        <num>¶20</num>
+        <text>The only reason we discuss it here is because the trial court failed to address this issue during trial.</text>
+      </para>
+      <para>
+        <num>¶21</num>
+        <text>By Schedler's own admission she has "enjoyed a substantial reputation in her home community as an elder, advisor, and former tribal council-woman." Schedler adds that she has "enjoyed an excellent reputation with tribal communities and entities within the State of Wisconsin and the Midwest including, but not limited to, her status as an organizer and advisor to Indian Summer, an annual festival… attended by thousands of people who are either tribal members or those interested in the preservation and advancement of Indian Culture." The fact that Schedler has served as a council-woman in the past, ran for tribal president, and is currently a council-woman, by definition makes her a public official.</text>
+      </para>
+    </container>
+    <container name="Whether Vele Acted with &quot;Actual Malice&quot; When He Published the Alleged Defamatory Statement in the October 1, 2013 Issue of the Mohican News?">
+      <heading>Whether Vele Acted with "Actual Malice" When He Published the Alleged Defamatory Statement in the October 1, 2013 Issue of the Mohican News?</heading>
+      <para>
+        <num>¶22</num>
+        <text>The First Amendment requires a public official plaintiff to show that in publishing the alleged defamatory statement, the defendant acted with actual malice - that is, "with knowledge that it was false or with reckless disregard of whether it was false or not." <cite doc="376 U.S. 254" path="279"><em>New York Times</em> at 279-80</cite>. This rule arose out of the concern that punishing individuals who could not guarantee the truth of all his assertions on official conduct would deter protected speech. <cite doc="418 U.S. 323" path="334"><em>Gertz </em>at 334</cite>. It must also be emphasized that the actual malice standard is not satisfied merely through a showing of ill will. See <cite doc="389 U.S. 81" path="88"><em>Beckley Newspapers Corp. v. Hanks,</em> 389 U.S. 81, 88 (1967)</cite>.</text>
+      </para>
+      <para>
+        <num>¶23</num>
+        <text>We must examine the statements in issue and the circumstances under which they were made to see whether they are protected under the principles of the First Amendment. <cite doc="376 U.S. 254" path="285"><em>New York Times</em> at 285</cite>. Based on our review of the record we do not find there was actual malice in the statements made by Vele.</text>
+      </para>
+      <para>
+        <num>¶24</num>
+        <text>The burden in this case is entirely on Schedler to prove that the statements made by Vele were false and that he made those statements with knowledge they were false or with a reckless disregard of whether they were false or not. <cite doc="376 U.S. 254" path="279"><em>See id</em>, at 279-80</cite>. Schedler testified that she could not exactly recall when she traveled to Georgia. She did not provide any proof of the dates she traveled to Georgia and did not provide any proof for the record to show her entries on her time cards during her trip.</text>
+      </para>
+      <para>
+        <num>¶25</num>
+        <text>After reviewing Vele's statement in the Mohican News, it is difficult to find anything in his statement that can be proved as being false. Vele stated he was going to ask Schedler the question of whether she did in fact take a trip to Georgia and filled out her time sheet with 40 hours on it. He did not affirmatively state that Schedler did take a trip to Georgia and incorrectly filled out her time card or accuse her of doing so. He testified that he did in fact ask her the question and she answered it.</text>
+      </para>
+      <para>
+        <num>¶26</num>
+        <text>Public discussion of the "qualifications of a candidate for elective office presents what is probably the strongest possible case for application of the <em>New York Times</em> rule." <cite doc="401 U.S. 295" path="300"><em>Ocala Star-Banner Co. v. Damron,</em> 401 U.S. 295, 300 (1971)</cite>. Candidates who enter the political arena "must expect that the debate will sometimes be rough and personal and cannot cry foul when an opponent… attempts to demonstrate that he or she lacks the sterling integrity trumpeted in campaign literature and speeches." <cite doc="491 U.S. 657" path="687"><em>Harte-Hanks Communications, Inc. v. Connaughton,</em> 491 U.S. 657, 687 (1989)</cite>.</text>
+      </para>
+      <para>
+        <num>¶27</num>
+        <text>In this instance, both parties were asked to provide briefs addressing the issue of whether Vele acted with actual malice when he published his statement in the Mohican News. Schedler's counsel falls far short of demonstrating that Vele's statement satisfies the actual malice standard. The only bit of proof he provides is that Vele was "in a unique position to know what sound editorial policy [is] and [what] the by-laws regarding this were." He offers no cases on the actual malice issue and cites no evidence that Vele acted with a reckless disregard for the truth. Litigants cannot merely mention arguments and leave it for the court to do counsel's work.</text>
+      </para>
+      <para>
+        <num>¶28</num>
+        <text>Vele at least points to the fact that he did testify there was no malicious intent by his remarks and the trial court agreed his remarks were not a "malicious attack." While we do review the entire record independently, determinations on credibility "are reviewed under the clearly-erroneous standard because the trier of fact has had the opportunity to observe the demeanor of the witnesses." <cite doc="466 U.S. 485" path="499"><em>Bose Corp. v. Consumers Union of United States, Inc.,</em> 466 U.S, 485, 499-500 (1984)</cite>. The trial judge had several opportunities to observe Vele's demeanor and made it clear he did not feel there was a malicious intent behind Vele's comments. Therefore, based on our review of the entire record, there is no evidence to support that Vele acted with actual malice.</text>
+      </para>
+    </container>
+    <container name="Stockbridge-Munsee Tribal Law, Custom, and Tradition">
+      <heading>Stockbridge-Munsee Tribal Law, Custom, and Tradition</heading>
+      <para>
+        <num>¶29</num>
+        <text>Schedler's counsel suggests in his appellate brief that the court should return to the "Indian way of doing things" rather than simply adopting state or federal laws. However, he provides neither the necessary case law nor reasoned analysis to show what exactly is the "Indian way of doing things." As mentioned above, it is not enough for parties to merely mention arguments while leaving the court to do counsel's work.</text>
+      </para>
+      <para>
+        <num>¶30</num>
+        <text>Stockbridge-Munsee Tribal Law does state "whenever there is uncertainty or a question as to the interpretation of certain provisions of this code, tribal law or custom shall be controlling and where appropriate may be based on the written or oral testimony of a qualified tribal elder, historian or other representative." <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">ESTABLISHING THE COURT: JUDGES; COURT PERSONNEL, Chapter 1</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.03|(b)">§1.3(B) <em>Purpose and Construction.</em></cite> However, counsel for Schedler does not back up his assertions by providing the Court with any specific tribal custom, law, or code he is referring to. Furthermore, raising the issue of tribal custom for the first time on appeal, without giving Vele the chance to respond, violates his due process rights guaranteed by the Stockbridge-Munsee Bill of Rights and the ICRA. Due process means that parties should clearly understand what they are accused of doing, what the basis of the accusation is, and have a chance to respond to these accusations in court. Therefore, because counsel for Schedler does not provide the court with any basis of his claim, and since his claim is unaccompanied by developed argument, it must be waived. See <cite doc="424 F.3d 97" path="103"><em>Tejada-Batista v. Morales,</em> 424 F.3d 97, 103 (1st Cir. 2005)</cite>.</text>
+      </para>
+    </container>
+  </container>
+  <container name="CONCLUSION">
+    <heading>CONCLUSION</heading>
+    <para>
+      <num>¶31</num>
+      <text>We conclude that Schedler is a public official/figure as defined in <em>Gertz</em>. Any person who puts themselves in a position to run for political office in the community is by definition a public official/figure. Furthermore, <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.01.01|(a)">§2.1(A) of the Stockbridge-Munsee Bill of Rights</cite>, 25 U.S.C. § 1302(a)(1) of the ICRA. and the First Amendment requires that we prohibit Schedler from recovering damages for libel relating to her official conduct because she failed to prove that Vele's statement was made with actual malice or a reckless disregard of the truth. <em>Judgement reversed.</em></text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Dated this 29th day of June, 2016</text>
+    <text>
+      <strong>BY ORDER OF THE COURT:</strong>
+    </text>
+    <text>Chad Hendricks, Appellate Court Judge Pro Tempore</text>
+    <text>Stephen Grochowski, Appellate Court Judge Pro Tempore</text>
+    <text>Marianne Higgins, Chief Appellate Court Judge</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>The First Amendment, which applies to the States through the Fourteenth Amendment, also prohibits laws abridging the freedom of speech or of the press.</text>
+    </footnote>
+  </footnotes>
+</document>

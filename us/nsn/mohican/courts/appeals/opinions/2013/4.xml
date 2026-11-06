@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2013 SMTCA 4">
+  <num>2013 SMTCA 4</num>
+  <heading>Robert Chicks President, an Elected Member of the Stockbridge-Munsee Tribal Council vs. Robert Doxtator, et al.</heading>
+  <meta>
+    <effective>2013-09-11</effective>
+    <citations>
+      <citation type="reporter" url="./2013 SMTCA 4.pdf">2013 SMTCA 4</citation>
+      <citation type="opinion" url="./AP-2013-RO-0005.pdf">Case No. AP-2013-RO-0005/AP-2013-RO-0006</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Robert Chicks President, an Elected Member of the Stockbridge-Munsee Tribal Council</name>
+        <designation>Plaintiff/Appellee</designation>
+      </party>
+      <party>
+        <name>Robert Doxtator, Recall Election Board Chairman and The Recall Election Board, and Stockbridge-Munsee Tribal Council and Stockbridge-Munsee Community</name>
+        <designation>Respondent/Appellant</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This case comes before the Appellate Court, Honorable Mary Adams (Pro tem), Honorable James Mohr (Pro tem), and Honorable Leland Wigg-Ninham (Pro tem) presiding.</text>
+  </para>
+  <container name="Background">
+    <heading>Background</heading>
+    <para>
+      <num>¶2</num>
+      <text>On August 1, 2013 Appellants, Robert Doxtator, Chairman of Recall Election Board, and the Recall Election Board appealed the Stockbridge-Munsee Trial Court's decision claiming the Trial Court made an error of law in Cases No. 2013-RO-0005 and 2013-RO-0006.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>On August 29, 2013 the Appellants, Robert Doxtator, Chairman of Recall Election Board, and the Recall Election Board filed the motion to withdraw their appeal of the Order issued on July 24, 2013 by the Trial Court in Cases No. 2013-RO-0005 and 2013-RO-0006. The Appellants state that this motion is based on a change in circumstances and the cases are now moot. Namely on August 6, 2013 the Tribal Council removed Robert Chicks as Chairman.</text>
+    </para>
+  </container>
+  <container name="Decision">
+    <heading>Decision</heading>
+    <para>
+      <num>¶4</num>
+      <text>The Court grants the Appellants' Motion to Dismiss Appeal without prejudice and without costs to any party.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Dated: Monday, September 11, 2013</text>
+    <text>BY THE APPEAL COURT,</text>
+    <text>On Behalf of Pro Tem Judges,</text>
+    <text>Honorable, Mary Adams, (Pro tem)</text>
+  </procedural-data>
+</document>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 008-25">
+  <num>008-25</num>
+  <heading/>
+  <meta>
+    <stub/>
+    <ordinance/>
+    <effective>2024-12-03</effective>
+    <history>
+      <adopted>2024-12-03</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/008-25.pdf">Stockbridge-Munsee Tribal Council Res. No. 008-25</citation>
+    </citations>
+  </meta>
+  <annotations>
+    <annotation type="Legislative History">This resolution amended the <cite doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee">By-Laws for the Cultural Affairs Committee</cite>.</annotation>
+  </annotations>
+  <codify:replace doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" path="1|(c)" codified:doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" codified:path="§1|(c)">
+    <para>
+      <num>(c)</num>
+      <text>Authority.  This entity was established under Tribal Resolution #040-24 on September 3, 2024, and an amendment to the By-Laws was adopted by Tribal Resolution #008-25 on December 3, 2024.  To the extent any provision in these By-Laws conflicts with a tribal ordinance, the terms of the ordinance shall govern, unless otherwise determined by the Tribal Council.</text>
+    </para>
+  </codify:replace>
+  <codify:replace doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" path="2|(a)" codified:doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" codified:path="§2|(a)">
+    <para>
+      <num>(a)</num>
+      <text>Role.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Committee shall function as an advisory body consistent with these By-Laws and shall have no control over the operational functions of the Tribe or any of its departments, staff or enterprises.  The Tribal Council may from time-to-time delegate to the Committee, specific authority for specific projects by resolution, ordinance or policy.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Committee shall review and provide input on all policies related to the operations of the Cultural Affairs Department, prior to Tribal Council approval.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Committee shall provide input to designated staff of the Cultural Affairs Department regarding public events related to the Tribe's cultural heritage.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Committee shall participate in the peer review process for learning/materials related to development of curriculums in all areas within the Department of Cultural Affairs to ensure accuracy of content; as outlined in the approved policy.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Committee shall provide suggestions as requested by staff on Tribal Historic Preservation plans and protocols regarding the disposition of repatriated human remains, funerary objects, and other cultural items subject to Native American Graves Protection and Repatriation Act (NAGPRA) and regarding the protection of cultural sites under Section 106 of the National Historic Preservation Act.</text>
+      </para>
+    </para>
+  </codify:replace>
+  <codify:replace doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" path="3|(a)|(2)" codified:doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" codified:path="§3|(a)|(2)">
+    <para>
+      <num>(2)</num>
+      <text>Committee Members shall be appointed for staggered three (3) year terms. Terms shall begin November 1st.</text>
+    </para>
+  </codify:replace>
+  <codify:replace doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" path="4" codified:doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" codified:path="§4">
+    <section>
+      <prefix>Article</prefix>
+      <num>4</num>
+      <heading>Officers and their Duties</heading>
+      <para>
+        <num>(a)</num>
+        <text>This Committee shall have three (3) officers: Chairperson, Vice-Chairperson and Secretary.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Chairperson Duties.  Responsible for calling meetings and notifying members with the assistance of the Secretary. The Chairperson shall preside over meetings, shall be the liaison to the Tribal Council and applicable department heads, and shall perform other duties consistent with these By-Laws and tribal law and policy. The Chairperson shall be responsible to forward any media requests made of the Committee to the Tribal Council. The Chairperson shall also ensure that the Committee remains fiscally responsible for any budget designated by Tribal Council for such oversight.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Vice-Chairperson Duties.  The Vice-Chairperson shall preside at all meetings in the absence of the Chairperson and appoint an acting Vice-Chairperson for that meeting. The Vice-Chairperson shall work with the Chairperson in all matters that concern the Committee.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Secretary Duties.  The Secretary shall keep accurate minutes of all meetings, assuring that the minutes are reported in the proper format and sent to the Tribal Council.  Secretary shall also submit the approved Stipend form to the Tribal Treasurer for payment.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Officer Selection Process and Term.  The officers shall serve terms of one (1) year and shall be elected by a majority vote of the Committee. Terms of office for the officers shall run consistent with the timing for terms of appointment. In the event of a vacancy, the successor shall be elected by a majority vote of the Committee for the duration of the unexpired term.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" path="6|(d)" codified:doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" codified:path="§6|(d)">
+    <para>
+      <num>(d)</num>
+      <text>Open Meetings.  All meetings of the Committee shall be open to any tribal member. Meetings shall be in-person unless otherwise provided for in a tribal ordinance or through a Tribal Council Directive.</text>
+    </para>
+  </codify:replace>
+  <codify:replace doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" path="9" codified:doc="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" codified:path="§9">
+    <section>
+      <prefix>Article</prefix>
+      <num>9</num>
+      <heading>Amendments</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any proposed amendments shall be reviewed by the Tribe's Legal Department for legal issues prior to action by the Committee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Amendments to these By-Laws shall be recommended by the Committee to the Stockbridge-Munsee Tribal Council at a regular meeting. Amendments are effective upon adoption by the Committee and approval by the Tribal Council.</text>
+      </para>
+    </section>
+  </codify:replace>
+</document>

@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" name="2024">
+  <heading>CULTURAL AFFAIRS COMMITTEE BY-LAWS</heading>
+  <meta>
+    <effective>2024-09-03</effective>
+    <history>
+      <adopted>2024-09-03</adopted>
+    </history>
+    <recency through="2025-01-07">
+      <doc id="Stockbridge-Munsee Tribal Council Meeting 2025-01-07" type="meeting"/>
+    </recency>
+  </meta>
+  <section>
+    <prefix>Article</prefix>
+    <num>1</num>
+    <heading>Purpose and Authority</heading>
+    <para>
+      <num>(a)</num>
+      <text>Name.  The name of this entity shall be Cultural Affairs Committee ("Committee") for the Stockbridge-Munsee Community ("Tribe").</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Purpose.  The primary purpose of this Committee shall be to serve the Tribal Council as an advisory body regarding the Stockbridge-Munsee Community history, language, and cultural heritage.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Authority.  This entity was established under Tribal Resolution #040-24 on September 3, 2024, and an amendment to the By-Laws was adopted by Tribal Resolution #008-25 on December 3, 2024.  To the extent any provision in these By-Laws conflicts with a tribal ordinance, the terms of the ordinance shall govern, unless otherwise determined by the Tribal Council.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Communication to Committee.  Communications to the Committee should be sent to the Committee's attention and submitted to the Tribal Secretary.</text>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="1|(c)" type="History"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Article</prefix>
+    <num>2</num>
+    <heading>Role and Responsibilities</heading>
+    <para>
+      <num>(a)</num>
+      <text>Role.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Committee shall function as an advisory body consistent with these By-Laws and shall have no control over the operational functions of the Tribe or any of its departments, staff or enterprises.  The Tribal Council may from time-to-time delegate to the Committee, specific authority for specific projects by resolution, ordinance or policy.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Committee shall review and provide input on all policies related to the operations of the Cultural Affairs Department, prior to Tribal Council approval.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Committee shall provide input to designated staff of the Cultural Affairs Department regarding public events related to the Tribe's cultural heritage.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Committee shall participate in the peer review process for learning/materials related to development of curriculums in all areas within the Department of Cultural Affairs to ensure accuracy of content; as outlined in the approved policy.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Committee shall provide suggestions as requested by staff on Tribal Historic Preservation plans and protocols regarding the disposition of repatriated human remains, funerary objects, and other cultural items subject to Native American Graves Protection and Repatriation Act (NAGPRA) and regarding the protection of cultural sites under Section 106 of the National Historic Preservation Act.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Responsibilities.  The Committee shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Follow all applicable tribal laws and policies.  Some examples of applicable laws are the Tribe's Constitution, Procedures Ordinance, External Media Policy and the General Responsibilities Related to Boards, Committees and Commissions policy.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Maintain the strictest confidentiality of all confidential matters discussed before the Committee except to the extent required by official business necessary to fulfill the Committee's responsibilities.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Coordinate with tribal staff as directed by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Forward all communications that Committee might receive from third parties to the Tribal Council with a copy to the Director of Cultural Affairs.  This includes for example, requests for information, for permissions of any kind, for funding or for research opportunities.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Comply with Tribal Council directions and decisions. Once Tribal Council has identified the Tribe's position on a matter, Committee members shall avoid actions or omissions that undermine such directions and decisions.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Disclose to the Committee if an agenda item brought to the Committee is or may be perceived as a conflict of interest and follow the direction of the Committee regarding participation on the matter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Limitations.</text>
+      <para>
+        <num>(1)</num>
+        <text>Neither the Committee nor any individual member of the Committee shall communicate directly, whether by phone, email or letter, with a third party, including contractors, media or other entities, without express authorization from the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Neither the Committee nor an individual member of the Committee shall hold themselves out as a spokesperson or agent of the Tribe unless the Tribal Council has provided an express, written delegation of such authority.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Neither the Committee nor an individual member of the Committee shall engage in a Committee activity when there is a conflict or perceived conflict of interest; they must stand down from the Committee until the item has been completed or the Committee must table the item and get direction from the Tribal Council regarding further activity.  An example of a conflict of interest would be any situation where individual Committee Member(s)' personal interests, i.e.,  family, friendships, financial, or social factors, could compromise Committee Member(s)' judgement, decisions, actions.  Or, engaging in activities that lead to personal gain at the expense of the Committee and/or the areas the Committee's authority, roles and responsibilities service.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="2|(a)" type="History"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Article</prefix>
+    <num>3</num>
+    <heading>Composition</heading>
+    <para>
+      <num>(a)</num>
+      <text>Membership.  The Committee shall be made up of nine (9) tribal members which shall include two (2) tribal elders and two (2) tribal youths.  For purposes of this provision and consistent with tribal law, "Elder" shall mean any tribal member age 55 or older and "Youth" shall mean a tribal member between the ages of 14 and 18.</text>
+      <para>
+        <num>(1)</num>
+        <text>All members of the Committee shall be appointed by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Committee Members shall be appointed for staggered three (3) year terms. Terms shall begin November 1st.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Vacancies on the Committee shall be filled through appointment by the Tribal Council for the duration of the unexpired term.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Qualifications.  All Committee Members:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall be an enrolled member of the Tribe, unless otherwise determined by Tribal Council.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall be 18 years of age or older, except as set forth in sub-paragraph 3(a) above which requires that 2 members be Youths.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall attend applicable training and sign required confidentiality and acknowledgment documents.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Shall be a person of known good standing in the community.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Removal.  A Committee Member may be removed by the Tribal Council for cause by majority vote for violations of these By-laws or applicable laws.  Examples of conduct constituting cause for removal include, but are not limited to, the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Malfeasance in office, including acting outside one's scope of authority, acting contrary to Tribal Council directions or decisions, or acting without authorization;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Conduct which could jeopardize the reputation of the Tribe or the Committee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Proven violation of the confidentiality of an executive session meeting or any other information declared "confidential" by the Tribe or this Committee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Serious neglect of duty as a Committee Member, including but not limited to failure to appear at three (3) consecutive meetings without a valid reason, of which all such charges shall be documented by the Committee in the minutes.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Violation of conduct expectations set forth below.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Resignation.  Resignations from the Committee shall be in writing and presented to the Tribal Council, via the Tribal Council Secretary and the Committee Chair.</text>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="3|(a)|(2)" type="History"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Article</prefix>
+    <num>4</num>
+    <heading>Officers and their Duties</heading>
+    <para>
+      <num>(a)</num>
+      <text>This Committee shall have three (3) officers: Chairperson, Vice-Chairperson and Secretary.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Chairperson Duties.  Responsible for calling meetings and notifying members with the assistance of the Secretary. The Chairperson shall preside over meetings, shall be the liaison to the Tribal Council and applicable department heads, and shall perform other duties consistent with these By-Laws and tribal law and policy. The Chairperson shall be responsible to forward any media requests made of the Committee to the Tribal Council. The Chairperson shall also ensure that the Committee remains fiscally responsible for any budget designated by Tribal Council for such oversight.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Vice-Chairperson Duties.  The Vice-Chairperson shall preside at all meetings in the absence of the Chairperson and appoint an acting Vice-Chairperson for that meeting. The Vice-Chairperson shall work with the Chairperson in all matters that concern the Committee.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Secretary Duties.  The Secretary shall keep accurate minutes of all meetings, assuring that the minutes are reported in the proper format and sent to the Tribal Council.  Secretary shall also submit the approved Stipend form to the Tribal Treasurer for payment.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Officer Selection Process and Term.  The officers shall serve terms of one (1) year and shall be elected by a majority vote of the Committee. Terms of office for the officers shall run consistent with the timing for terms of appointment. In the event of a vacancy, the successor shall be elected by a majority vote of the Committee for the duration of the unexpired term.</text>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="4" type="History"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Article</prefix>
+    <num>5</num>
+    <heading>Committee Member Conduct Expectations</heading>
+    <para>
+      <num>(a)</num>
+      <text>No Committee Member shall use or in any way monetize their position on the Committee or their relationship with the Tribe for personal financial gain (not including the tribal meeting stipend).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Committee Members shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Avoid conflicts of interest, real or apparent, during their tenure on this Committee.  For example, conflict would arise if the Committee or any individual member of the Committee were to accept gifts or money in exchange for speaking engagements or participation in programs and events related to the purpose of this Committee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Disclose conflicts or potential conflicts of interest including but not limited to any personal relationship a Committee member may have with a business, a group, an entity or a program that the Committee may be referring to Tribal Council for potential business dealings or cooperative work, where the Committee member stands to gain financially. The duty of disclosure runs from the application process through the term of service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a Member has a conflict of interest, and the issue involving the conflict is an agenda item during a Committee meeting, that Member shall recuse themselves from that item item (See, ADM.01.16 or other applicable law).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Refrain from discourteous treatment of the public, other Committee Members or staff, including harassing, coercing, threatening or intimidating others. Violation of this section may result in removal from the Committee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Neither the Committee nor an individual Committee Member may solicit or accept gratuities, favors or anything of monetary value from any individual or entity related to the purpose of this Committee.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Committee Members shall follow proper protocol and communicate with the Tribal Council only through the Committee Chairperson or as otherwise determined by a vote of the Committee.</text>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+      <annotation app="2025-01-07" doc="Stockbridge-Munsee Tribal Council Meeting 2025-01-07" eff="2025-01-07" path="" target-path="5|(b)|(3)" type="History"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Article</prefix>
+    <num>6</num>
+    <heading>Meetings</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Tribal Council shall set the time, date and place for the first meeting of the Committee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Meeting Location.  The designated meeting place for Committee meetings shall be determined by the Committee at their first meeting.  Thereafter, the Committee may change this meeting location to another public location due to business reasons (such as if the Committee is meeting with another committee) so long as clear notice of the new meeting location is clearly identified on the meeting notice.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Regular Meeting Time.  The regular meeting of the Committee shall be held monthly.  The day and the time of the regular monthly meeting shall be determined by the Committee at their first meeting.  Special meetings will be held as needed consistent with any policy regarding special meetings.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Open Meetings.  All meetings of the Committee shall be open to any tribal member. Meetings shall be in-person unless otherwise provided for in a tribal ordinance or through a Tribal Council Directive.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Posted Notice and Agenda.</text>
+      <para>
+        <num>(1)</num>
+        <text>Notice of all regular meetings, including the agenda with meeting time and location, shall be posted by the Chair with the assistance of the Secretary at least three (3) business days prior to a regular meeting.  Posting shall be in all tribal posting locations and on-line via the tribal website.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any materials about agenda items should be distributed to Committee Members at least three (3) business days prior to the meeting, and a copy being submitted to the head of the relevant department.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Staff wishing to submit agenda items should submit said items to the Committee Secretary in sufficient time for Secretary to comply with the 3-day notice provision above.  It shall be the Secretary's responsibility to make sure that the material is added to the agenda and distributed timely.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Special Meetings.  Special meetings may be called by the Chair or a simple majority of the Committee Members with at least a 48-hours notice and the agenda shall be posted with the notice.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Quorum.  Meetings may not be called to order without a quorum of Committee Members in attendance. A quorum shall consist of five (5) Committee Members who shall include the Chair or the Vice-Chair.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Order of Business.  All meetings of the Committee shall follow the posted agenda.  Official business may only be conducted pursuant to a properly noticed meeting and with a quorum.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>Executive Session.  During any meeting, with proper notice, a closed executive session may be called for by any single member of the Committee only for the purpose of discussing matters of a confidential nature.</text>
+      <para>
+        <num>(1)</num>
+        <text>Executive Sessions are limited to Committee Members and such invited persons as the Committee deems necessary.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The meeting must be returned to "open session" following the "executive session." Any actions arising out of the discussion during the executive session must be taken in open session.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Discussions during and materials used as parts of executive session are deemed to be governmental deliberations. Such deliberations shall be considered confidential and shall not be disclosed, except as required by official business necessity to fulfill the Committee's responsibilities or in accordance with applicable law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>Voting.  The majority of votes cast, ignoring abstentions, is sufficient for the adoption of any motion other than those that require a super-majority vote.  A tie vote results in a motion being defeated.  The Chairperson, or Vice-Chairperson acting in the Chairperson's absence, has a right to vote on any matter before the Committee, including to break or to create tied votes, unless there is a conflict of interest requiring a recusal from the action.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>Recusal.  Persons with a conflict of interest in relation to a matter before the Committee shall avoid participation in decisions on such matter.  Tribal ethics law, particularly Chapter ADM.02, shall guide what is considered to be a conflict of interest.</text>
+    </para>
+    <para>
+      <num>(l)</num>
+      <text>Grievance.  A committee member, staff or attendee may file a grievance related to Committee Member Conduct, said grievance to be filed with the Tribal Council.</text>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="6|(d)" type="History"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Article</prefix>
+    <num>7</num>
+    <heading>Stipend</heading>
+    <para>
+      <num>(a)</num>
+      <text>All Committee Members shall receive a stipend to be determined by the Tribal Council.</text>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Article</prefix>
+    <num>8</num>
+    <heading>Recordkeeping</heading>
+    <para>
+      <num>(a)</num>
+      <text>Committees shall be responsible to keep records for all meetings. Such records shall include the agenda for the meeting, documentation of which members attended the meeting, and minutes for the meeting.  Handouts, reports, memoranda and the like may be attached to the minutes and agenda, or may be kept separately, provided that all materials can be identified to the meeting in which they are presented.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Minutes.  Minutes shall be typed or written and in a consistent format designed to generate the most informative record of the meetings of the Committee. Minutes shall be submitted to the Tribal Council for acceptance.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Reporting.  The Committee shall report the minutes to the Tribal Council. Reporting of the minutes shall be made within a reasonable time after a meeting is held and presented to the Tribal Council at a regular meeting in person by a member of the Committee, or as the Tribal Council and the Committee agree.</text>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Article</prefix>
+    <num>9</num>
+    <heading>Amendments</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any proposed amendments shall be reviewed by the Tribe's Legal Department for legal issues prior to action by the Committee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Amendments to these By-Laws shall be recommended by the Committee to the Stockbridge-Munsee Tribal Council at a regular meeting. Amendments are effective upon adoption by the Committee and approval by the Tribal Council.</text>
+    </para>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="9" type="History"/>
+    </annotations>
+  </section>
+</document>

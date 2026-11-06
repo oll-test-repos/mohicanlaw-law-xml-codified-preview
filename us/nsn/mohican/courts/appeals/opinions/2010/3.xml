@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2010 SMTCA 3">
+  <num>2010 SMTCA 3</num>
+  <heading>Kylee Dodge vs. Julie Carroll, et al.</heading>
+  <meta>
+    <effective>2010-12-09</effective>
+    <citations>
+      <citation type="reporter" url="./2010 SMTCA 3.pdf">2010 SMTCA 3</citation>
+      <citation type="opinion" url="./10-AP-2008-AA-0003.pdf">Case No. 10-AP-2008-AA-0003</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Kylee Dodge</name>
+        <designation>Petitioner-Appellee</designation>
+      </party>
+      <party>
+        <name>Julie Carroll and S-M Human Resources</name>
+        <designation>Respondent-Appellants.</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This is an Interlocutory Appeal. The Stockbridge-Munsee Human Resources has asked this court to reverse the decision of the Stockbridge-Munsee Tribal Court the Honorable Robert Miller presiding that denied their motion to dismiss on sovereign immunity and statute of limitation grounds. Because we believe the Tribal Court was correct in denying the motion we affirm the order and remand the case for full merit review.</text>
+  </para>
+  <para>
+    <num>¶2</num>
+    <text>Initially we would note petitioner Kylee Dodge brought suit against Julie-Carroll and the Stockbridge-Munsee Human Resources. We believe the correct respondent/ appellant should be Stockbridge-Munsee Community and will refer to the respondent/ appellant as the Community.</text>
+  </para>
+  <container name="FACTS">
+    <heading>FACTS</heading>
+    <para>
+      <num>¶3</num>
+      <text>Kylee Dodge (Dodge) an employee of  the Community was terminated by letter on February 7, 2008. A copy of the letter was sent to Human Resources. Dodge was also notified in the termination letter that he had a right to the internal grievance process outlined in the Information Handbook for Employees of the Mohican Nation, Effective October 1, 1996 or he could go directly to Tribal Court pursuant to the terms of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53, the Stockbridge-Munsee Employee Rights Ordinance</cite>. Dodge was also informed that each appeal option has deadlines and he needed to be responsible for meeting them. Dodge filed a grievance over his termination with his supervisor and received a timely response denying reinstatement on February 20, 2008. According to the Handbook Dodge's next procedure was to submit a follow-up grievance with his supervisor's supervisor. He did not do so. Rather, Dodge submitted a letter to the Stockbridge-Munsee Human Resource Department. That letter in part read:</text>
+      <include>
+        <text>...the prior exhaustive internal grievance relief efforts has failed to bring resolution, therefore I am requesting that appeal proceedings be initiated according to the policies available to Tribal employees including,</text>
+        <para>
+          <num>1.</num>
+          <text>An intermediate meeting with an impartial employment mediation panel or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Tribal Council review and consideration.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Tribal Court appeal as established in <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Employee Rights ordinance, Chapter 53</cite>.</text>
+        </para>
+      </include>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>Dodge received no communication from Human Resources and eventually filed a complaint with the Tribal Court on April 17, 2008.</text>
+    </para>
+  </container>
+  <container name="STATUTE">
+    <heading>STATUTE</heading>
+    <para>
+      <num>¶5</num>
+      <text>
+        <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.06">Section 53.45 Statute of Limitations</cite>
+      </text>
+      <include>
+        <text>The employee must initiate the internal grievance process or court action, whichever applies, within 30 calendar days of the event or events that gave rise to the employee's claim. In cases where the employee initiates the internal grievance process, the employee must initiate the court action within 30 calendar days of receiving the final written communication of the internal grievance process.</text>
+        <text>The Community believed the filing in Tribal Court occurred 57 days after the date the final written communication of the internal grievance process was given and filed a motion to dismiss on statute of limitations and sovereign immunity grounds with Tribal Court. That motion was subsequently denied which brought this interlocutory appeal.</text>
+      </include>
+    </para>
+  </container>
+  <container name="ANALYSIS">
+    <heading>ANALYSIS</heading>
+    <para>
+      <num>¶6</num>
+      <text>Initially it appears the tribal court was concerned with the lack of notice given to Dodge and all other employees of the community concerning the removal of the employee mediation panel (EMP). The 1995 Employee Handbook provided for part of the internal grievance process to include an EMP. However the Community's experience with the panel resulted in its removal in 1998. Unfortunately, there was not a removal of the provision from the Handbook such that a review of the Handbook as instructed by the termination letter received by Dodge would continue to advise of the mediation panels viability.</text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>We find Dodge had no notice of the removal of the EMP. Obviously if he had notice he would not have asked for it. We also believe Dodge had a reasonable expectation that Human Resources would provide written communication concerning his request. We hold then that the statute of limitations under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.06">Section 53.45 </cite>was tolled during the time he waited for this written correspondence. Dodge was required by this section to file within 30 calendar days of receiving the final written communication of the internal grievance process. He never received any formal written communication of this final grievance process such that the subsequent court filing we find was timely filed given the tolling of the time limits caused by Human Resources inaction. In addition we would hold that Dodge's delay in filing an appeal with the trial court meets the definition of excusable neglect such that we would allow the appeal to proceed on its merits.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>We do not hold that Human Resources in all instances is required to respond to all filings during the grievance process. We hold only that if employees are told to follow a procedure found in the employee handbook that is no longer available it is incumbent that Human Resources advise the employee of any changes to that grievance procedure.</text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>This finding is based in part on the <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Community's Employee Rights Ordinance, Chapter 53</cite>. The Ordinance in its preamble notes that "the tribal government recognizes the need for creating laws to govern and protect its employees." The Ordinance goes on to note that the Tribal Council further recognizes that employees of the Mohican Nation.... need protection of their rights including the right to file grievances and seek assistance in solving on-the-job problems via the proper, established policies and procedures. <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.01">Section 53.1</cite></text>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text>Employees of the Community without legal training or representation are entitled to a fair shake in the grievance process. It is clear Dodge believed Human Resources was a department that dealt with employee problems and discipline. As noted the termination letter went to Human Resources. It is only reasonable to expect Dodge to go to Human Resources with his request. In addition the termination letter directed Dodge to Human Resources and provided their telephone number if he needed documents. As noted during oral arguments had Human Resources advised Dodge that the EMP was no longer available this lengthy appeal would not have been necessary.</text>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>We are also mindful that tribal court precedent exists that suggests this court take a strict view of the 30 day statute of limitations imposed by the Community. As stated in <cite doc="97-AA-004" path="6">Stockbridge-Munsee Community v. Joseph Miller "if the appeal is not timely filed, under no circumstances will it be heard. 'Case No. 97-AA-004, page 6</cite>. However, the facts of previous cases are much different than the facts here. In the Joseph Miller case Mr. Miller was specifically told who he needed to file a grievance with and the time limit to do so. Miller acknowledged he did not follow that procedure. Here Dodge was simply advised he needed to follow the Employee Handbook which is what Dodge did in requesting an EMP with Human Services.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>In the Miller case as well the court also noted Miller provided no excusable neglect for his failure. We would also find for the above reasons that relying on the Handbook in requesting an EMP as it provided although no longer in existence is excusable neglect to allow this appeal to be heard on its merits. 154 Words and Phrases (perm. Ed.), 225 define excusable neglect as neglect which might have been the act of a reasonably prudent person under the same circumstances. That means as well that excusable neglect is not the same as neglect, carelessness, or inattentiveness. It means in essence where a person is unexpectedly placed in a situation to his detriment without fault or negligence of his own and against which ordinary prudence could not have guarded is excusable neglect. Dodge was placed in this predicament through no fault of his own. He followed procedure by requesting an EMP and was not informed the procedure was no longer available to him. Given the Community's stated interest in protecting employees rights it seems logical the tribe would prefer hearing a termination appeal on its merits rather than prohibiting the same on procedural grounds under these facts.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>SO ORDERED.</text>
+    <text>
+      <strong>BY THE COURT</strong>
+    </text>
+    <text>Signed this 9<sup>th</sup> day of December, 2010</text>
+    <text>Honorable Candace DesArmo-Coury</text>
+    <text>Honorable Leland Wigg Ninham</text>
+    <text>Honorable James B. Mohr</text>
+  </procedural-data>
+</document>

@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2023 SMTCA 1">
+  <num>2023 SMTCA 1</num>
+  <heading>Gregory Miller, et al. vs. Stockbridge-Munsee Community, et al.</heading>
+  <meta>
+    <effective>2023-09-22</effective>
+    <citations>
+      <citation type="reporter" url="./2023 SMTCA 1.pdf">2023 SMTCA 1</citation>
+      <citation type="opinion" url="./2023-AP-0001.pdf">Case No. 2023-AP-0001</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Gregory Miller and Scott R. Vele</name>
+        <designation>Plaintiffs/Appellees</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community, et. al</name>
+        <designation>Defendants/Appellants</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="INTRODUCTION">
+    <num>I.</num>
+    <heading>INTRODUCTION</heading>
+    <para>
+      <num>¶1</num>
+      <text>The Stockbridge-Munsee Community ("Community"), Stockbridge-Munsee Tribal Council Members ("Council"), and the Stockbridge-Munsee Membership Committee Members ("Committee Members") (collectively "Appellants") appeal the Stockbridge-Munsee Tribal Court's <em>Decision and Opinion</em> denying the defendants <em>Second Motion to Dismiss</em> in Case No. 2021-CV-0009; <cite doc="2021-CV-0009"><em>Miller v. Stockbridge-Munsee Community</em>, Civil No. 2021-CV-0009 (S-M Tr., Oct.6, 2021)</cite>.</text>
+    </para>
+    <para>
+      <num>¶2</num>
+      <text>Based on this Court's opinion herein, the Tribal Court's order is AFFIRMED.</text>
+    </para>
+  </container>
+  <container name="SUMMARY">
+    <num>II.</num>
+    <heading>SUMMARY</heading>
+    <para>
+      <num>¶3</num>
+      <text>On March 30, 2021, Petitioners-Appellees (hereinafter "Appellees") filed suit against Defendants-Appellants (hereinafter "Appellants") in the Stockbridge-Munsee Tribal Court (the "Tribal Court") for membership decisions made in 2018-2019. As enrolled members of the Community, Appellees allege that Appellants violated the Stockbridge-Munsee Constitution ("SMC Constitution") and the Stockbridge-Munsee Community's enacted laws by improperly approving membership-enrollment applicants.</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>Appellants filed their Motion to Dismiss and their <em>Brief in support of the Motion to Dismiss</em> on April 19, 2021. On April 28, 2021, the Tribal Court dismissed the case for Appellees failure to appear. <cite doc="2021-CV-0009"><em>Miller v. Stockbridge-Munsee Community</em> Case No. 2021-CV-0009 (S-M Tr. April 28, 2021)</cite>. Appellees appealed the dismissal to the Stockbridge-Munsee Court of Appeals (the "Court of Appeals"). On September 1, 2021, the Court of Appeals remanded the case for consideration of Appellants <em>Motion to Dismiss</em>. <cite doc="2021 SMTCA 4">Gregory Miller, et al. vs. Stockbridge-Munsee Community, 2021 SMTCA 4, August 21th, 2021.</cite> On September 22, 2021, the Court of Appeals appointed the Honorable James M. Redwine to serve as special <em>Pro-Tem</em> Judge to preside over the remand. <cite doc="2021 SMTCA 4">Gregory Miller, et al. vs. Stockbridge-Munsee Community, 2021 SMTCA 4, August 21th, 2021.</cite> On October 5, 2021 Special <em>Pro-Tem</em> Judge Redwine presided over a telephone hearing on the <em>Motion to Dismiss</em>. On October 6, 2021, Special <em>Pro-Tem</em> Judge Redwine issued a <em>Decision and Order</em> denying Appellants' <em>Motion to Dismiss</em>. Civil No. 2021-AP-0009 (S-M Tr., October 6, 2021). On October 21, 2021, Appellants timely filed their <em>Notice of Appeal</em>. On October 21, 2021, Defendants timely filed their Notice of Appeal. On April 29, 2022, following briefing by both parties, the Court of Appeals affirmed the Tribal Court's denial of the Defendants' Motion to Dismiss and remanded the case. <cite doc="2022 SMTCA 1">Gregory Miller, et al. vs. Stockbridge-Munsee Community, et al., 2022 SMTCA 1, May 27th, 2022.</cite></text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>On July 5, 2022, the Tribal Council approved Res. No. 043-22 relating to certain aspects of Tribal enrollment. Appellants filed their <em>Second Motion to Dismiss</em> and <em>Brief in Support of Second Motion to Dismiss,</em> asserting, inter alia, that such approval made the claims in the current matter moot. On December 26, 2022, the Tribal Court dismissed <em>the Second Motion to Dismiss</em>. (2021-CV-0009; S-M Tr, December 26, 2022). The Appellant's appeal to this Court of Appeals the Tribal Court's dismissal of the <em>Second Motion to Dismiss</em>.</text>
+    </para>
+  </container>
+  <container name="APPELLANTS' ARGUMENT">
+    <num>III.</num>
+    <heading>APPELLANTS' ARGUMENT</heading>
+    <para>
+      <num>¶6</num>
+      <text>Appellants argue that due to the passage of Res. No. 043-22, Appellees' claims in the current matter should be dismissed for mootness. <em>See <cite doc="2019-AP-0003">Hoffman &amp; Miller v. Stockbridge-Munsee Human Resources Dept. and Stockbridge-Munsee Community Tribal Council, Appeal No. 2018-AP-0003, (S-M App., Apr. 3, 2019)</cite>. </em>Appellants argue that Tribal Council exercised its constitutionally delegated authority to enact resolutions by passing Res. No. 043-22. <em><cite doc="Stockbridge-Munsee Constitution and By-laws" path="VIII|1(h)">CONST. SMC Art. VIII, § 1(h),</cite> Res. No. 043-22</em>, and that such resolution provides Plaintiffs all relief available to them under the Community's laws. Beyond the relief provided by Res. No. 043-22, Plaintiffs' sought relief cannot be awarded to them without violating the SMC CONSTITUTION and the Community's laws and, accordingly, without an actual, ongoing controversy, requests that this Court should dismiss this case as moot.</text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>In furtherance of their position, Appellants assert the Appellee's sought relief is unavailable to them because their sought relief, if granted, would infringe Separation of Powers principles, and violate the Community's laws and that Plaintiffs received all available relief through Res. No. 043-22 the Appellants are able to provide and as an actual controversy no longer exists and moots Plaintiffs' claims.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>Appellees set forth the key elements of the mootness doctrine requiring that an actual controversy must exist at all stages of review, not merely at the time the complain is filed. <em><cite doc="UNKNOWN">Scott v. Kindle, No. CA2015-01, 3</cite>, constitutional doctrine of justiciability. <cite doc="UNKNOWN">In re Mental Health Services for Bizardi, 5 Am. Tribal Law 467,468, 8 Nav. R. 593 (2004)</cite></em>(citing <em><cite doc="528 U.S. 167" path="180">Friends of the Earth, Inc. v. Laidlaw Envil Servs., Inc., 528 U.S. 167, 180, (2000))</cite>.</em> While the doctrine originates in the Article III, Section 2 "case or controversy" clause under the United States Constitution, tribal courts have recognized the mootness doctrine. <em><cite doc="UNKNOWN">In re Mental Health Servs. for Bizardi, 5 Am. Tribal Law at 469</cite></em> ("We do so not because of any need to mimic federal courts, but because mootness is consistent with our Navajo values. Our courts serve the purpose of bringing people in dispute back into harmony<em>."): <cite doc="UNKNOWN">Scott v. Kindle. No. CA2015-01, 4-6 (Rosebud Sioux Sup. Ct., Sept. 23, 2015)</cite></em> (citing <em><cite doc="UNKNOWN">Ducheneaux v. Cheyenne River Sioux Tribe Election Bd., 2 Am. Tribal Law 39 (Cheyenne River Sioux Tribal Ct. of App. 1999)</cite>, <cite doc="UNKNOWN">Wilson v. White, 2004 WL 6012174 (Leech Lake Band of Ojibwa Tribal Ct., Trial Division 2004))</cite>.</em> The doctrine prohibits courts from hearing hypothetical cases and controversies. <em><cite doc="UNKNOWN">Oliver v. Nat'[ Council, 9 Okla. Trib. 475 at *3 (Muscogee Nation Sup. Ct. 2006)</cite></em>. Ultimately, disharmony is required for judicial review to continue. <em><cite doc="UNKNOWN">In re Mental Health Servs. for Bizardi, 5 Am. Tribal Law at 469</cite>.</em> Thus, a case is moot if a Court can no longer give meaningful relief once subsequent events make the case incapable of further resolution. <cite doc="UNKNOWN"><em>Id</em></cite>. Further, a case is moot if the principal remedy is unavailable to the plaintiff because the remedy would itself be unconstitutional and violate tribal law. <em><cite doc="UNKNOWN">Scott v. Kindle, No. CA2015-01, 4 (Rosebud Sioux Sup. Ct., Sept. 23, 2015)</cite>.</em></text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>Appellees also address the exceptions available to the mootness doctrine providing that two exceptions exist in civil matters. Namely, mootness does not apply when (1) voluntary cessation of the complained action may reasonably recur, and (2) the complained action is capable of repetition, yet evading review. <em><cite doc="416 U.S. 312">DeFunis v. Odegaard, 416 U.S. 312 (1974)</cite> (citations omitted).</em> Voluntary cessation is insufficient unless "subsequent events made it absolutely clear that the allegedly wrongfull behavior could not reasonably be expected to recur<em>." <cite doc="528 U.S. 167" path="189">Friends of the Earth, Inc. v. Lqidlaw Envtl. Servs., 528 U.S. 167, 189 (2000)</cite></em> (citing <em><cite doc="393 U.S. 199" path="203">United States v. Concentrated Phosphate Export Ass 'n., 393 U.S. 199,203 (1968)</cite>).</em> If not, the defendant may return to their old ways <em><cite doc="416 U.S. 312" path="318">De Funis v. Odegaard, 416 U.S. at 318</cite> (citing <cite doc="345 U.S.629" path="632">United States v. W.T. Grant Co., 345 U.S. 629,632 (1953)</cite></em> (internal citations omitted)). The party asserting mootness has the heavy burden to persuade the court that the conduct cannot reasonably be expected to recur. <em><cite doc="528 U.S. 167" path="189">Friends of the Earth, 528 U.S. at 189</cite> (citing <cite doc="393 U.S. 199" path="203">Concentrated Phosphate Export Ass 'n., 393 U.S. at 203</cite>).</em></text>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text>Appellants state the second exception occurs when the action is capable of repetition, yet evading review. <em><cite doc="UNKNOWN">Oliver v. Nat'l Council, 9 Okla. Trib. 475 at *3 (Muscogee Nation Sup. Ct. 2006)</cite>.</em> This exception applies when "(1) the challenged action is in its duration too short to be fully litigated prior to cessation or expiration, and (2) there is a reasonable expectation that the same complaining party will be subject to the same action again." <em><cite doc="551 U.S. 449" path="462">Federal Election Comm'n. v. Wisconsin Right to Life, Inc., 551 U.S. 449,462 (2007)</cite></em>(citing <em><cite doc="523 U.S. 1" path="17">Spencer v. Kemna, 523 U.S. 1, 17 (1998)</cite>).</em></text>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>Appellants argue that since Resolution NO. 043-22 was duly and constitutionally enacted and provides to Appellees all relief Tribal Council is constitutionally available to provide, the Appellees claim is moot, that no exception to the mootness doctrine applies, and therefore Judge Redwine erred in not dismissing the claim pursuant to Appellant's <em>Second Motion to Dismiss.</em></text>
+    </para>
+  </container>
+  <container name="APPELLEES' ARGUMENT">
+    <num>IV.</num>
+    <heading>APPELLEES' ARGUMENT</heading>
+    <para>
+      <num>¶12</num>
+      <text>Appellees assert Defendants/Appellants claim that Resolution No. 043-22 mooted this lawsuit is incorrect and assert that Resolution No. 043-22 made no substantive changes to the Tribe's enrollment process or membership criteria, provided no relief whatsoever to Plaintiffs/Appellees, and therefore could not have mooted this lawsuit and that Judge Redmine did not err in dismissing Appellant's Second Motion to Dismiss.</text>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>Appellees assert Judge Redwine properly rejected Appellents' argument that Resolution No. 043-22 moots this action because Resolution No. 043-22 did not address anything of substance and did not give Plaintiffs/Appellees any of the relief they requested in the Complaint. Appellees posit that as described by Defendants/Appellants themselves, Resolution No. 043-22 made no substantive changes to the fraudulent and unconstitutional ways in which Appellees allege Defendants/Appellants have been applying the Tribe's membership criteria; highlighting the following from Defendants'/Appellants' own description in their Opening Brief:</text>
+      <para>
+        <num>1.</num>
+        <text>"Said resolution provided a historical summary behind the membership language included in the SMC Constitution[.]". <em>Opening Br. at 2.</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Said resolution] explained that the Community does not have a single base roll  to use for membership decisions, and acknowledged inherent flaws in the system." <em>Id.</em></text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"[Said resolution stated that] Tribal Council wants to 'strengthen the Tribe's ability to assess the eligibility of applicants during the enrollment process." <em>Opening Brief at 2-3.</em></text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Res. No. 043-22 ... reaffirm[ed] current Enrollment Department policies and procedures[.]". <em>Opening Br. at 3.</em></text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Res. No. 043-22 ... approved a new enrollment application form." <em>Id.</em></text>
+      </para>
+    </para>
+    <para>
+      <num>¶14</num>
+      <text>Appellees contend that Defendants/Appellants admit that none of these attributes make any substantive changes to the way they make their enrollment decisions: "Appellants must continue to make membership determinations as required under the SMC Constitution and Community law, but the protections offered by the policies and procedures confirmed through Res. No. 043-22 make 'it absolutely clear that the allegedly wrongful behavior could not reasonably be expected to recur.' ... The Appellant will continue to follow and have followed the SMC CONSTITUTION, the Membership Ordinance, and their internal policies and procedures to make lawful membership determinations<em>." Opening Br. at 10 </em>(emphasis added, internal citations omitted) and the Defendants/Appellants intend to "continue" the same substantive behavior that they engaged in prior to enactment of Resolution No. 043-22. Appellees assert the issue in this case is whether that behavior is unconstitutional, and that issue is very much a live controversy and nothing in Resolution No. 043-22 challenged behavior in this case.</text>
+    </para>
+    <para>
+      <num>¶15</num>
+      <text>Defendants/Appellants note this Court previously recognized the legality and legitimacy of the primary relief requested by Plaintiffs/Appellees in this case. Upon affirming the Tribal Court's denial of Defendants'/Appellants' first motion to dismiss, this Court described the requested relief as follows: "Appellees request that the Tribal Court use its power of judicial review, as recognized by the Stockbridge-Munsee Court of Appeals, to declare that acts of Appellants are null and void because they contradict the Stockbridge-Munsee Tribal Constitutional provisions." <em><cite doc="2022 SMTCA 1" path="10">Gregory Miller, et al. vs. Stockbridge-Munsee Community, et al., 2022 SMTCA 1, May 27th, 2022.</cite></em> Appellees contend the Court properly determined that if Plaintiffs/Appellees prove their allegations at trial, they will be entitled to relief: "If the Tribal Court finds that the Tribal Council did act outside its official capacity and did fraudulently admit new members in violation of procedures in place in the Stockbridge-Munsee Constitution, then it shall be found that, in keeping with <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.02|(b)">Section GOV.02.02(b)</cite>, those individuals will only be subject to declaratory judgment and prospective injunctive relief. No monetary damages will be assessed." <cite doc="2022 SMTCA 1" path="12"><em>Id. at 12.</em></cite> Indeed, no monetary damages have been requested. Relief that Plaintiffs have requested is prospective injunctive relief, as authorized by Tribal law at <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.01.02|(a)">GOV.01.02(a)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.03|(b)">GOV.02.03(b)</cite>, to stop Defendants/Appellants from making more unconstitutional enrollments and to prospectively mitigate some of the inequities that have resulted from their systematic and unconstitutional actions. In sum, Appellees argue the mere passage of Resolution No. 043-22 did not alter the underlying the underlying substance of their case and, as this Court previously acknowledged the justiciability of the case, nothing has changed with respect to the matter.</text>
+    </para>
+    <para>
+      <num>¶16</num>
+      <text>With respect to Defendants/Appellants specific argument that the Tribal Court's decision should be reversed because Judge Redwine acted "without properly analyzing the Appellants' mootness arguments[.]" <em>Opening Br. at 12</em>, and that "[t]he Tribal Court denied the Appellants' motion to dismiss without ever once mentioning mootness in its analysis", Appellees argue this position is not correct as Judge Redwine's Order addresses the mootness argument highlighting Judge Redwine's acknowledgement of Appellant's mootness argument in his order, to wit: "Defendants deny each of Plaintiffs' complaints and allege those complaints are now moot due to Tribal Council's passage of Res. No. 043-22 and that Plaintiffs are seeking relief that Tribal Law does not afford them." Determining that "[I]f settlement is not achieved, these issues as joined are justiciable." <em>Order at 1.</em></text>
+    </para>
+    <para>
+      <num>¶17</num>
+      <text>Appellees further assert the Tribal Court fully considered all relevant information and correctly summarized Defendants'/Appellants' argument that the Plaintiffs' claims are now moot due to Tribal Council's passage of Resolution No. 043-22. Appellees note the Tribal Court determined that the Plaintiffs'/Appellees' claims are not moot and that the claims provide a justiciable case or controversy. Moreover, since the issue of mootness was fully briefed and argued before the Tribal Court, it should be presumed that the court considered everything in the record. The Tribal Court is under no obligation to say anything more and Judge Redwine made no error by rejecting Defendants'/Appellants' mootness argument with judicious efficiency.</text>
+    </para>
+    <para>
+      <num>¶18</num>
+      <text>Appellees further contend that Judge Redwine has the authority to consider the relief sought holding the authority to grant "such other relief as deemed just and equitable[,]" which includes declaratory relief, as authorized by tribal law at <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.01.02|(a)">GOV.01.02(a)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.03|(b)">GOV.02.03(b)</cite>. for purposes of constitutionality and due process and equal protection under the laws." <cite doc="UNKNOWN"><em>Id.</em></cite></text>
+    </para>
+  </container>
+  <container name="ABUSE OF DISCRETION STANDARD">
+    <num>V.</num>
+    <heading>ABUSE OF DISCRETION STANDARD</heading>
+    <para>
+      <num>¶19</num>
+      <text>The <cite doc="Stockbridge-Munsee Constitution and By-laws" path="III|4">Stockbridge-Munsee Constitution, at Article III, § 4</cite><fn path="|footnotes|1">1</fn>, states as follows:</text>
+      <include>
+        <text><u>Section 4</u>. The Tribal Council shall have authority to promulgate ordinances, subject to the approval of the Secretary of the Interior, governing the adoption of new members and loss of membership in the Community.</text>
+      </include>
+    </para>
+    <para>
+      <num>¶20</num>
+      <text>The <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.06">Stockbridge-Munsee Tribal Membership Ordinance, at § Mem. 01.06</cite>, sets out the details of who qualifies under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="III">Article III of the Stockbridge-Munsee Constitution</cite> as tribal members. The lynch-pin provision of this statute, for the purposes of the pending appeal, is <cite doc="Stockbridge-Munsee Tribal Code" path="|MEM.01.06(e)">§ Mem. 01.06(e)</cite>, which states:</text>
+      <include>
+        <para>
+          <num>(e)</num>
+          <text>Tribal Council is the final forum the determine Tribal Member eligibility.</text>
+        </para>
+      </include>
+    </para>
+    <para>
+      <num>¶21</num>
+      <text>Applying these rules, the Stockbridge-Munsee Tribal Council, on July 5, 2022, passed S-M Res. No. 043-22, which notes that S-M Tribal membership questions are addressed in a totality of circumstances approach - not just reviewing one single factor. Stated another way, all three documents discussed above give the S-M government wide discretion in the area of tribal enrollment.</text>
+    </para>
+    <para>
+      <num>¶22</num>
+      <text>When reviewing the statutory exercise of discretion by a governmental body, such as the S-M Tribal Enrollment Committee or the S-M Tribal Council, the standard of review is whether the actions were arbitrary, capricious and/or clearly erroneous. <em>See <cite doc="2003 Mohegan Gaming Trial Lexis 5" path="6">Kochachy v. Office of the Dir. of Regulation, 2003 Mohegan Gaming Trial Lexis 5 (Mohegan Gaming Disputes Trial C. 2/18/2003), at *6-*7</cite> and <cite doc="2022 Oneida App. Lexis 10">Melcum v. Silas, 2022 Oneida App. Lexis 10 (Oneida App. Comm. 12/30/2022), at *4-*5</cite>.</em><fn path="|footnotes|2">2</fn><em/></text>
+    </para>
+    <para>
+      <num>¶23</num>
+      <text>When a government body can legitimately answer a question "Yes" or "No." or could offer some other viable and logical answer; an abuse of discretion seldom exists. <cite doc="97-AA-003"><em>Stockbridge Munsee Community v. VIsak, Appeal No. 97-AA-003 (S-M App. 8/20/1997). at page 6</em></cite>. Under the Separation of Powers Doctrine. this Court will be reluctant to substitute the Court's (Judicial Branch) judgment for the discretionary opinions of the S-M Legislative/Executive Branch. <cite doc="AP-2012-CV-0002" path="5"><em>Vele v. Stockbridge-Munsee Community. Appeal No. AP- 2012-CV-0002 (S-M App. 1/28/2013), at page 5.</em></cite></text>
+    </para>
+    <para>
+      <num>¶24</num>
+      <text>The case at hand tracks the logic of both Tribal and Wisconsin definitions of arbitrary and capricious acts of governmental bodies. The Wisconsin Supreme Court defines the Appellant's overall burden of proof holding, "an arbitrary or capricious decision [is] one which is either so unreasonable as to be without a rational basis or the result of an unconsidered, willful and irrational choice of conduct." <cite doc="173 N.W.2d 605" path="609"><em>Fond Du Lac v. Dep't of Nat. Resources, 173 N.W.2d 605. 609 (Wis. 1970)</em></cite>. The Oneida Nation<fn path="|footnotes|3">3</fn> defines arbitrary and capricious actions as "willful and unreasonable action without consideration or in disregard of fact or law." <cite doc="2007 Oneida App. Lexis 29" path="15"><em>Mahn v. Oneida Gaming Comm'n, 2007 Oneida App. Lexis 29 (Oneida App. Comm. 8/16/2007), at *15.</em></cite> This Court adopts these standards as it reviews whether or not the S-M Tribal Council acted within its power in the pending enrollment case. While the standard of review is monumental, the Appellants still have a right to try to prove their case at trial, not on a bald motion to dismiss, which allows all facts and inferences to be viewed in the most generous light to the non-moving party, but limits evidence presentations. <em><cite doc="988 N.W.2d 606" path="611">Pagoudis v. Keidl, 988 N.W.2d 606. 611-612 (Wis. 2023)</cite> and <cite doc="2010 Mohegan Gaming Trial Lexis 13" path="3">Woodward v. Mohegan Tribal Gaming Auth., 2010 Mohegan Gaming Trial Lexis 13 (Mohegan Gaming Disputes Trial Ct. 11/24/2010), at *3</cite>.</em> This is a very liberal standard which tends to promote trials on the merits over technical dismissal of cases. <cite doc="2005 Grande Ronde Trib. Lexis 4" path="21"><em>McCallister v. Spirit Mt. Gaming, Inc,. 2005 Grande Ronde Trib. Lexis 4 (Conf. Tribes of Grande Ronde Trial Ct. 12/29/2005), </em>at<em> *21.</em></cite></text>
+    </para>
+    <para>
+      <num>¶25</num>
+      <text>When reviewing the statutory exercise of discretion by a governmental body, such as the S-M Tribal Enrollment Committee or the S-M Tribal Council, the standard of review is whether the actions were arbitrary, capricious and/or clearly erroneous. <em>See <cite doc="UNKNOWN">Kochachy v. Office of the Dir. of Regulation, 2003 Mohegan Gaming Trial Lexis 5 (Mohegan Gaming Disputes Trial C. 2/18/2003), at *6-*7</cite> and <cite doc="UNKNOWN">Melcum v. Silas, 2022 Oneida App. Lexis 10 (Oneida App. Comm. 12/30/2022), at *4-*5</cite>.</em></text>
+    </para>
+    <para>
+      <num>¶26</num>
+      <text>When a government body can legitimately answer a question "Yes" or "No." or could offer some other viable and logical answer; an abuse of discretion seldom exists<em>. <cite doc="UNKNOWN">Stockbridge Munsee Community v. VIsak, Appeal No. 97-AA-003 (S-M App. 8/20/1997). at page 6</cite></em>. Under the Separation of Powers Doctrine. this Court will be reluctant to substitute the Court's (Judicial Branch) judgment for the discretionary opinions of the S-M Legislative/Executive Branch. <em><cite doc="AP-2021-CV-0002" path="5">Vele v. Stockbridge-Munsee Community. Appeal No. AP- 2012-CV-0002 (S-M App. 1/28/2013), at page 5</cite>.</em></text>
+    </para>
+    <para>
+      <num>¶27</num>
+      <text>The case at hand tracks the logic of both Tribal and Wisconsin definitions of arbitrary and capricious acts of governmental bodies. The Wisconsin Supreme Court defines the Appellant's overall burden of proof holding, "an arbitrary or capricious decision [is] one which is either so unreasonable as to be without a rational basis or the result of an unconsidered, willful and irrational choice of conduct." <em><cite doc="173 N.W.2d 605" path="609">Fond Du Lac v. Dep't of Nat. Resources, 173 N.W.2d 605. 609 (Wis. 1970)</cite>. </em>The Oneida Nation defines arbitrary and capricious actions as "willful and unreasonable action without consideration or in disregard of fact or law<em>." <cite doc="2007 Oneida App. Lexis 29">Mahn v. Oneida Gaming Comm'n, 2007 Oneida App. Lexis 29 (Oneida App. Comm. 8/16/2007), at *15</cite>.</em> This Court adopts these standards as it reviews whether or not the S-M Tribal Council acted within its power in the pending enrollment case. While the standard of review is monumental, the Appellants still have a right to try to prove their case at trial, not on a bald motion to dismiss, which allows all facts and inferences to be viewed in the most generous light to the non-moving party, but limits evidence presentations. <em><cite doc="988 N.W.2d 606" path="611">Pagoudis v. Keidl, 988 N.W.2d 606. 611-612 (Wis. 2023)</cite> and <cite doc="2010 Mohegan Gaming Trial Lexis 13">Woodward v. Mohegan Tribal Gaming Auth., 2010 Mohegan Gaming Trial Lexis 13 (Mohegan Gaming Disputes Trial Ct. 11/24/2010), at *3</cite>.</em> This is a very liberal standard which tends to promote trials on the merits over technical dismissal of cases. <cite doc="2005 Grande Ronde Trib. Lexis 4"><em>McCallister v. Spirit Mt. Gaming, Inc,. 2005 Grande Ronde Trib. Lexis 4 (Conf. Tribes of Grande Ronde Trial Ct. 12/29/2005), </em>at<em> *21.</em></cite></text>
+    </para>
+    <para>
+      <num>¶28</num>
+      <text>In the case at hand, the matter is remanded for a trial on the merits where Tribal enrollment standards can be addressed - but not for a proverbial "fishing expedition" by Appellees on the Tribal membership's confidential personal information records.</text>
+    </para>
+  </container>
+  <container name="CONCLUSION">
+    <num>VI.</num>
+    <heading>CONCLUSION</heading>
+    <para>
+      <num>¶29</num>
+      <text>Here, this Court finds that issues presented by Appellees are sufficient to support further pursuit of the claims presented in their arguments here and in their original complaint based upon the determination of Judge Redwine, inter alia, that the passage of Res. No. 043-22 did not substantively alter the existence of a justiciable claim in this case in dismissing the Appellants' Second Motion to Dismiss and allowing such claims to proceed for review under the standards set forth herein.</text>
+    </para>
+    <para>
+      <num>¶30</num>
+      <text>The Court therefore orders that the Tribal Court's Second Motion to Dismiss shall stand and Appellants' Appeal is DENIED.</text>
+    </para>
+    <para>
+      <num>¶31</num>
+      <text>If the Tribal Court finds that the Tribal Council did act outside its official capacity and did fraudulently admit new members in violation of procedures in place in the Stockbridge-Munsee Constitution, and legislation adopted thereunder, then it shall be found that, in keeping with <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.02.02|(b)">Section GOV.02.02(b)</cite>, those individuals will only be subject to declaratory judgment and prospective injunctive relief. No monetary damages will be assessed.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>IT IS SO ORDERED.</text>
+    <text>
+      <strong>Entered this 22</strong>
+      <sup>
+        <strong>nd</strong>
+      </sup>
+      <strong> day of September, 2023,</strong>
+    </text>
+    <text>
+      <strong>Timothy B. Anderson</strong>
+    </text>
+    <text>
+      <strong>Special Justice</strong>
+    </text>
+    <text>
+      <strong>
+        <em>Lochen, C.J., and Smith, A.J., concur.</em>
+      </strong>
+    </text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text><cite doc="Stockbridge-Munsee Constitution and By-laws" path="III">Art. III of the Stockbridge-Munsee Constitution</cite> sets out that Stockbridge-Munsee (S-M) membership is generally reserved for members and descendants of people on the 1910 Allotment Rolls with blood quotient percentages of 25% or more.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>This Honorable Court, as a sovereign Native American nation, is not bound by decision of other courts, but may look to other courts for persuasive guidance. <cite doc="2017-AA-001" path="3">Miller v. Stockbridge-Munsee Community Appeal No. 2017-AA-001 (S-M App. 7/21/2021), at page 3 and page 3 n.2</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text>The Oneida Reservation and the Stockbridge-Munsee Reservation sit approximately fifty (50) miles apart in Wisconsin.</text>
+    </footnote>
+  </footnotes>
+</document>

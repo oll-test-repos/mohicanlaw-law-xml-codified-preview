@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 056-25" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>056-25</num>
+  <heading/>
+  <meta>
+    <ordinance/>
+    <effective>2025-09-02</effective>
+    <history>
+      <adopted>2025-09-02</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/056-25.pdf">Stockbridge-Munsee Tribal Council Res. No. 056-25</citation>
+      <citation type="BIA" url="./BIA/056-25.pdf">BIA Approval for Res. No. 056-25</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to adopt the Stockbridge-Munsee General Welfare Ordinance, ADM.04;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Federal law recognizes the general welfare doctrine and that Indian tribal governments have a sovereign right to provide financial assistance to individuals on a non-taxable basis in certain circumstances; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to codify the general welfare doctrine in tribal law as well as how the Tribe establishes and operates programs consistent with federal law so as to ensure that assistance provided under general welfare programs is tax exempt.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.04">Chapter ADM.04</cite>, the Stockbridge-Munsee General Welfare Ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the Tribal Council directs that the ordinance be submitted to the Bureau of Indian Affairs for approval consistent with the Tribe's Constitution.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 2nd day of September, 2025, that the foregoing resolution was duly adopted at such meeting by a vote of 6 for, 0 against, and 0 abstaining.</text>
+    <table class="layout-table">
+      <tr>
+        <td>__________________________</td>
+        <td class="text-indent-3">__________________________</td>
+      </tr>
+      <tr>
+        <td>Shannon Holsey, President</td>
+        <td class="text-indent-3">Jody Hartwig, Secretary</td>
+      </tr>
+    </table>
+  </procedural-data>
+  <codify:insert path="ADM" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ADM.04.01|annos">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>ADM.04</num>
+      <heading>Stockbridge-Munsee General Welfare Ordinance</heading>
+      <section>
+        <num>ADM.04.01</num>
+        <heading>Enactment and Purpose.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Purpose.</heading>
+          <text>The Stockbridge-Munsee Community (the "Tribe"), a federally recognized Indian tribal government, exercises its inherent rights of sovereignty to promote the general welfare of the Tribe, its self-determination, culture, and tradition, by providing Indian general welfare benefits within the meaning of Internal Revenue Code Section 139E. Both the United States Congress, through its enactment of the Tribal General Welfare Exclusion Act of 2014, and the Internal Revenue Service, through its traditional application of the general welfare doctrine, have long recognized the sovereign right of Indian tribal governments to provide financial assistance to individuals under certain circumstances on a non-taxable basis. This Ordinance is intended to affirm the Tribe's inherent sovereign rights to promote the general welfare of the Tribe and provide qualifying Assistance and Program benefits on a tax-free basis.  The purpose of this Ordinance is to memorialize the procedures used by the Tribe in establishing Programs for the promotion of the general welfare of the Tribe and in developing Program Guidelines for compliance with the general welfare doctrine and Internal Revenue Code Section 139E.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Ratification of Prior Acts; Intent of Legislation.</heading>
+          <text>The Tribal Council, through its elected Council members, as the legislative body of the Tribe, has traditionally exercised the Tribe's inherent sovereign right to provide general welfare assistance by tribal custom and government practice in order to promote the general welfare, self-determination, culture and tradition of the Tribe.  Assistance provided prior to the enactment of this Ordinance, or any amendments hereto, is hereby ratified and confirmed as general welfare assistance pursuant to the authority of the Tribal Constitution and laws, and the inherent powers of the Tribe to promote the general welfare.  This Ordinance is not intended to invalidate or supplant traditional exercises of sovereignty and culture. All Assistance authorized by the Tribal Council to promote the general welfare of this Tribe is, and has been, intended to reflect the inherent rights and sovereign acts of the Tribe within the principles reflected under the General Welfare doctrine, as codified in the Act.  This Ordinance, therefore, does not create or establish rights, which are hereby declared to be an inherent right of sovereignty vested with the Tribe.  Rather, this Ordinance is intended to confirm, clarify, and codify the procedures used in exercising its inherent rights in promoting the general welfare, self-determination, culture and tradition of the Tribe.  Nothing in this Ordinance shall be used to invalidate acts of the Tribal Council which have the force of law.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Scope of Non-Taxable Benefits.</heading>
+          <text>The Assistance authorized by this Ordinance is intended to qualify for favorable tax treatment under the Act to the fullest extent permitted at law.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Federal Trust Responsibility.</heading>
+          <text>The federal government, through its government-to-government relationship with the Tribe, through its trust relationship with the Tribe, and through treaty, statutes, and executive orders, owes certain obligations to the Members of the Tribe, much of which has been curtailed through budget shortfalls, which the Tribe seeks to supplement, through acts of self-determination, in part through this Ordinance.  The Tribe reserves the right to provide Assistance, including circumstances where federal funding is insufficient to operate federal programs designed to benefit Tribal members, and when federal funding is insufficient to adequately and consistently fulfill federal trust responsibilities.  Nothing herein shall waive the Tribe's right to seek funding shortfalls or to enforce the trust rights of the Tribe and its Members. The Tribe shall be entitled to government-to-government consultation and coordination rights regarding issues arising from or related to this Ordinance and its implementation. Nothing herein shall be construed as a waiver of federal trust responsibility.</text>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.02</num>
+        <heading>Definitions and Key Concepts.</heading>
+        <text>For purposes of this Ordinance, the following words and phrases shall have the meanings set forth.  All words not defined herein shall be used in their ordinary and everyday sense.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Act" means the Tribal General Welfare Exclusion Act of 2014, Public Law 113-168, 128 Stat 1883 (2014), codified at 26 U.S.C. §139E.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Assistance" means any Program benefits or payments that qualify for tax free treatment under the Act.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Beneficiary" means any person or persons entitled to receive Assistance in accordance with specific Program guidelines.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Code" means the Internal Revenue Code of 1986, as amended.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Council" means the elected governing tribal council of the Tribe.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Dependent" means a qualifying child, a qualifying relative, or an individual determined to be a dependent according to a tribal ordinance, law or policy.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Disability" or "Disabled" means a physical or mental impairment that substantially limits one or more major life activities, or a person suffering from such impairment.  The Ordinance is not limited by disability determinations for Social Security or other purposes.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Effective Date(s)" means the effective date of this Ordinance which is the date on which the Bureau of Indian Affairs, as required by the Tribe' Constitution, provides final approval.  Programs that satisfied the Act prior to the foregoing effective date by prior ordinance, program, custom or government practices, retain the earlier such effective dates.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Lavish" or "Extravagant" means something that is excessive, generous or luxurious in a way that is not necessary or reasonable given the context. These terms shall have the meaning determined by the Council in its sole discretion based on all facts and circumstances, for each Program, taking into account needs unique to the Tribe, including culture, cultural practices, history, geographic area, traditions, resources and economic conditions or factors, as well as the social purpose being served by the particular Assistance at hand.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Member" or "Tribal Member" means any person, regardless of age, who is an enrolled member of the Tribe.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Misuse of Assistance" means use of Assistance payments for purposes other than those set forth in the Program Guidelines.  Misuse of Assistance may result in penalties by both the Tribe and the IRS.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Ordinance" means the General Welfare Assistance Ordinance, as amended.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Program" means any program established by or under authority of the Tribal Council, including any program authorized through the annual budget process, to provide Assistance hereunder.  A Program shall not fail to be treated as an Indian tribal government Program solely by reason of the Program being established by tribal custom or government practice.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Program Guidelines" means approved Program descriptions, including the purpose, eligibility rules and limitations, along with application forms and procedures.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"Qualified Nonmember" means a spouse, former spouse, legally recognized domestic partner or former domestic partner, ancestor, descendant, or Dependent of a Member of the Tribe.  Individual Programs may, but are not required to, cover Qualified Nonmembers in accordance with the Program Guidelines for each Program.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>"Safe Harbor Program" means a Program that meets the requirements of <cite doc="Stockbridge-Munsee Constitution and By-laws" path="III|3">Article III, Section 3</cite>.2 and IRS Revenue Procedure 2014-35, as the same may hereafter be amended.  Need shall be presumed for Assistance provided under a Safe Harbor Program.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>"Spouse" means a husband or a wife in a relationship and the legal significance of this terms shall be determined in accordance with Tribal laws, customs and traditions.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>"Tribe" means the Stockbridge-Munsee Community, a federally recognized Indian tribal government.</text>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.03</num>
+        <heading>General Welfare Assistance.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Criteria for General Welfare Programs.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Federal law at both IRS Code Section 139E and the IRS Safe Harbor, contains substantially similar criteria that Programs need to meet in order to have Assistance treated as non-taxable income under the Act.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The following criteria are intended to be read in a manner that satisfies any applicable requirements to ensure that each payment made or service provided to or on behalf of a Beneficiary pursuant to a Program under this Ordinance shall be treated as non-taxable Assistance under the Act.</text>
+            <para>
+              <num>(A)</num>
+              <text>Assistance is provided under a specific approved Program of the Tribe;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The Program is intended for the promotion of the general welfare of eligible Beneficiaries as described further under sub<cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.03|(b)">section ADM.04.03 (b)</cite>;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The Program has written Program Guidelines specifying how individuals may qualify for Assistance;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Assistance is available to any Tribal Member, Qualified Nonmember, or identified group of Tribal Members or Qualified Nonmembers who satisfy the Program Guidelines, subject to budgetary restraints;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>The distribution of Assistance from the Program does not discriminate in favor of the Council of the Tribe;</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Assistance is not compensation for services; and</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>Assistance is not Lavish or Extravagant under the facts and circumstances.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Promotion of General Welfare.</heading>
+          <text>All Assistance disbursed pursuant to this Ordinance shall be designed to promote the general welfare, self-determination, culture and tradition of the Tribe.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Council shall establish objectives for the furtherance of the general welfare, self-determination, culture and tradition of the Tribe and assess progress on said objectives in connection with its annual budgeting review or at other times called for by the Council.  Approved Programs shall be renewed, established, modified, or terminated based upon the needs of the Tribe as compared to the objectives set by the Council from time to time hereunder.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All Programs hereunder shall provide a social benefit for the promotion of the general welfare of the Tribe and be limited to purposes consistent with treatment under this Ordinance.</text>
+            <para>
+              <num>(A)</num>
+              <text>Such purposes may include, for example and not by way of limitation, assistance for medical care, food, shelter, health, education, subsistence, housing, elder and disabled care, assistance to meet cultural, traditional and religious needs of the Tribe and its membership, and assistance to promote self-sufficiency, self-determination, Tribal image, entrepreneurship, and the employment of Tribal Members.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Programs can be intended to serve individual needs, to help meet community needs, or both.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Community needs often are based in overall issues that impact the general welfare of Beneficiaries regardless of an individual's economic status. For example, the Tribe recognizes that all Members face historic and institutional obstacles based on their tribal status and that some Assistance payments may be issued as a way to help Beneficiaries address these obstacles.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Designation by the Council of a Program as falling under this Ordinance shall be conclusive evidence that the Council, following a good faith review of Tribal needs and goals, has determined that said Program is established to achieve a social benefit and to promote the general welfare of the Tribe.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Council reserves the right to enact, change, or terminate Programs in its sole discretion.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>General Welfare and Cultural and/or Ceremonial Activities.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Programs and/or Assistance, such as provision of items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture, shall not be considered or treated as compensation for services.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To the extent applicable, the Tribe will presume that individual need is met for religious leaders or spiritual officials or leaders (including but not limited to medicine men, medicine women, and shamans) receiving Assistance through a Program.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Examples falling under this provision include nominal cash honoraria provided to religious or spiritual officials or leaders to recognize their participation in cultural, religious and social events, including but not limited to pow wows, funerals, wakes, burials or other bereavement events.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Other Tax Exemptions.</heading>
+          <text>Notwithstanding anything herein to the contrary, the Tribe reserves the right to waive income limits or needs basis criteria for expenditures that otherwise qualify for tax exemptions including tax exemptions under Titles 25 or 26 of the United States Code so long as the conditions for exemption are met.  Without limitation, this includes Member medical benefits exempt under Section 9021 of the Patient Protection and Affordable Care Act of 2010 (Code Section 139D) and per capita expenses exempt under 25 U.S.C. Sections 117a-c, 1407 and 1408.</text>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.04</num>
+        <heading>Administration of Programs.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>General.</heading>
+          <text>The Council and its designees shall be charged with the responsibility and authority to administer all Programs called for by this Ordinance.  All powers and duties conferred on the Council or a designee shall be exercised or performed in the exercise of its discretion regardless of whether the provision conferring such power or imposing such duty specifically refers to such discretion.  All decisions of the Council upon all matters within the scope of its authority shall be binding and conclusive upon all persons. This provision is not intended to eliminate a Beneficiary's right to seek reconsideration from a negative Council decision arising from a matter under this Ordinance as provided for under the Ordinance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Official Capacity.</heading>
+          <text>All actions taken by an authorized individual to administer Assistance and Programs shall be conclusively presumed to be done in the individual's official capacity.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Eligibility and Application Procedures.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Council or its designee shall prepare written Program Guidelines.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>No payments shall be made in connection with a Program to or on behalf of individual Beneficiaries, unless a specific Program authorizing such payment has been approved by the Council or its designee.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Program Guidelines may limit Assistance to an identified group of Members or Qualified Nonmembers, as applicable.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Subject to the availability of funds, the Program must be available equally to all individuals who meet the eligibility requirements, which shall not discriminate to the detriment of individuals on the basis of race, religion, age, sex, sexual orientation, income, geographic location or physical or mental disability.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>All Programs may be limited by budget availability.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>In the absence of specific Program Guidelines to the contrary, all Programs shall incorporate eligibility criteria necessary for compliance with Code Section 139E.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>The Tribe reserves the right to include or reject individual means testing as an eligibility requirement in a Program. The Tribe recognizes such testing can be appropriate in some instances but may be inconsistent with cultural and community values for other Programs.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Documentation.</heading>
+          <text>The Tribe or its designee shall keep books or records deemed appropriate to demonstrate compliance with the Ordinance.  Beneficiaries are responsible for maintaining books or records as may be required for substantiation to the IRS for individual income tax purposes.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Source and Character.</heading>
+          <text>The Council may designate funding sources that are available for the payment of Assistance benefits including those from grants and contracts, operating trust funds, economic development settlement monies, and/or other revenues including without limitation indirect cost recovery, investment earnings, casino equipment fees and current and prior year casino distribution monies.  Payment of Program benefits from a funding source with preferential tax treatment, resource or asset protection shall retain said status to the extent permitted at law.</text>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.05</num>
+        <heading>Use of Assistance.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All Assistance provided to a Beneficiary through a Program shall be used for the purpose stated in the approved Program Guidelines and consistent with any limitations established for that Program.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Funds that are not used consistent with the purposes of the Program lose their tax-exempt status. The Tribe has no responsibility for any tax consequences to the Beneficiary. The Tribe suggests Beneficiaries retain receipts for three (3) years as evidence that Assistance has been used for tax-exempt purposes in the event Beneficiary is the subject of an IRS audit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Funds that are not used consistent with the purposes of the Program may be considered Misused and subject to forfeiture consistent with <cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.08">ADM.04.08</cite>.</text>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.06</num>
+        <heading>Assistance Payments.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Assistance may be paid directly to individual Beneficiaries; institutions that receive the payment on behalf of a Beneficiary (such as an educational institution); or to minors' trusts or a special needs trust on behalf of Beneficiaries who are minors or adjudicated as incompetent.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The form and amount of the Assistance and the nature of payment can vary based on the approved Program Guidelines.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Tribe recognizes that pro rata payments (uniform payments to each tribal member) are permissible under the Act and that distributing benefits in equal amounts is often the most efficient method to issue Assistance, particularly when addressing community-wide needs.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Assistance to a minor or incompetent Beneficiary generally shall be placed into a protective trust for use on their behalf.  By placing the Assistance into a protective trust, the nature of the Assistance shall not be changed. The Tribe intends the payment to remain an Assistance payment excluded from gross income upon distribution if used for general welfare purposes.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.07</num>
+        <heading>Means Testing, Privacy, Consultation.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Programs Not Limited to Means Testing.</heading>
+          <text>The Tribe reserves the right to not require a showing of individual need or means testing for Programs. The Council's determination of individual or community need when establishing a Program as well as individual attestations of need provide bases for non-taxable treatment under the Act in lieu of individual showings.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Privacy/Information Sharing.</heading>
+          <text>Confidential tribal information shall not be shared in a manner that would open up additional disclosure, for example, under information sharing agreements where the recipient may be subject to or under the Freedom of Information Act. Individuals working on Program applications may be required to execute a confidentiality agreement on a form approved by the Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Government-to-Government Relationship; Executive Order 13175 issued by President Clinton on Consultation and Coordination with Tribal Governments.</heading>
+          <text>Coordination with IRS and the United States Treasury Department on general welfare matters shall be grounded on a government-to-government relationship that recognizes the unique relationship between the federal government and the tribal government.  The federal government, as a result of its treaty obligations and trust responsibility, has committed to providing education, housing, clean water, and many other basic needs for Indian people.  Through a conscientious shift in policy in recent decades, the federal government has encouraged the Tribe itself to provide for such needs in partnership with the federal government and, increasingly in recent years, instead of the federal government.  Essential to the government-to-government relationship is mutual respect and deference to Tribal governance decisions.   Future consultations on general welfare matters should reflect these concerns and the fact that the tribal government, through its own policy setting process, is best situated to determine the needs of the Tribe and its Members and the appropriate policy solutions.  All references to Executive Order 13175 shall include any future amendments thereto.</text>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.08</num>
+        <heading>Forfeiture of Assistance.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Notwithstanding anything herein to the contrary, any Beneficiary who is found by the Council to have misused Program funds forfeits such Assistance. Any Misuse of Assistance must be repaid to the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If Assistance is used or pledged for a purpose inconsistent with the purpose set forth in an approved Program, then the payment shall be deemed forfeited.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Assistance issued in error based on misrepresentation by a Beneficiary will be forfeited or revoked. The Tribe has a right to recover from any Beneficiary who received excess or improper Assistance payment, through mechanisms that include, but not limited to, the Stockbridge-Munsee Tribal Court.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No Assistance payment shall be made to an individual Beneficiary if that person is not alive at the time the payment is to be made.  Since Assistance is based on need, a Beneficiary's death eliminates eligibility.  This is the general rule applicable to the Assistance; however, the Program Guidelines may deviate from this approach if there is Assistance that is payable after death of the individual like a burial assistance program.</text>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.09</num>
+        <heading>Limitations on Garnishment, Levy, Attachment.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Anti-Alienation.</heading>
+          <text>Assistance payments under this Ordinance are not subject to anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, attachment, levy or garnishment by creditors of the Beneficiary, unless otherwise stated in this Ordinance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Garnishment In Some Cases.</heading>
+          <text>Except as otherwise authorized by federal law, Assistance shall be garnished <em>only if the Council specifically designates within the Program Guidelines</em>, or by law, that the Assistance shall be eligible for garnishment and such garnishment is subject to the following limitations.</text>
+          <para>
+            <num>(1)</num>
+            <text>Judgments for Obligations Owed to the Tribe.  The Tribe may garnish Assistance for payment to the Tribe for any amounts due to the Tribe as established by a court of competent jurisdiction by judgment. Any remaining funds will be distributed to the Beneficiary unless there is a judgment for child support per <cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.09|(2)">subsection (2)</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Judgments for Amounts for Child Support.</text>
+            <para>
+              <num>(A)</num>
+              <text>A parent, guardian, court-appointed trustee, child support agency, or other individual or entity, who has lawfully provided for the support of any minor child, may submit a court-ordered withholding order or request the court-ordered garnishment of any responsible Beneficiary's Assistance for the support of the minor child.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Garnishment for child support shall be effective only if there is a valid, final, court order or judgement that is enforceable in accordance with Stockbridge-Munsee Child Support Code, <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.09">Chapter YAE.09</cite>; the Stockbridge-Munsee Recognition and Enforcement of Foreign Judgments, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.05.22">Section TCT.05.22</cite>; and the Full Faith and Credit for Child Support Orders Act (28 U.S.C. §1738B).</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>If there are no judgments owed to the Tribe, then up to 100% of the Assistance may be garnished for child support.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>If the Beneficiary has obligations both to the Tribe under <cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.09|(1)">subsection (1) and </cite>this <cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.09|(2)">subsection (2) </cite>for child support, then the following shall be utilized.</text>
+              <para>
+                <num>(i)</num>
+                <text>50% of the Assistance will be allocated to the Tribe for satisfaction of judgments owed to the Tribe.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>50% of the Assistance can be applied to amounts owed for child support regardless of the number child support orders. If there is more than one child support order, than the allocation for child support should be apportioned equally among the child support orders.</text>
+              </para>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>In the event the amount owed under either subsection <cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.09|(1)">(1)</cite> or <cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.09|(2)">(2)</cite> is less than 50% of the Assistance, then the remaining amount shall be allocated for the payment of the other debt.</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>In the event the amount owed under both subsections <cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.09|(1)">(1)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|ADM.04.09|(2)">(2)</cite> total less than 100% of the Assistance, the remainder shall be payable to the Beneficiary.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.10</num>
+        <heading>Miscellaneous.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Governing Law; Sovereignty.</heading>
+          <text>All rights and liabilities associated with the enactment of this Ordinance, or the Assistance payments made hereunder, shall be construed and enforced according to the laws of the Tribe.  The Tribal Council, through the Stockbridge-Munsee Constitution, is vested with the authority and discretion to construe the terms of the Ordinance.  In the event of a disagreement in interpreting the requirements of this Ordinance, the Tribal Council's decision is final.  Nothing in this Ordinance or the related policies or procedures, if any, shall be construed to make applicable any laws or regulations which the Tribe is entitled to exemption from, in accordance with its sovereign status.  Nothing herein shall be construed as a waiver of sovereign immunity.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Dispute Resolution and Reconsideration.</heading>
+          <text>The Council has final authority on disputes arising under this Ordinance; however, Beneficiaries are entitled to due process rights regarding a dispute arising from this Ordinance.  This due process is provided in the form of Beneficiaries petitioning the Council for reconsideration of a decision that negatively impacts them or the Assistance for which they may have applied.  Any petition for reconsideration must be submitted in writing to the Tribal Secretary within 20 days of the action that impacted them negatively.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Legislative History; Rules of Construction.</heading>
+          <text>The following subsections detail the legislative history regarding consultation and legislative efforts by tribes, tribal organizations, the United States Treasury Department and the United States Congress in relation to the Tribal General Welfare Exclusion Act of 2014 and shall be taken into account in construing the terms and application of this Ordinance:</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Following a series of IRS audits largely concentrated from 2003-2011 in which tribal programs were subjected to review and, in some cases, members were subjected to taxation, tribes and tribal organizations joined in efforts to secure better guidance with regard to the taxation of member benefits.  In 2011, the United States Treasury Department and IRS commenced national efforts to improve guidance on tribal general welfare matters.  Notice 2011-94 invited comments from tribal governments concerning the application of the Act to Indian tribal government programs.  Tribes participated in that process individual and through joint comments with tribal organizations seeking clarity with regard to the sovereign right of tribes to provide tax free assistance based on non-financial need criteria including the preservation of culture and tradition.  Tribes also participated in individual consultation efforts wherein IRS and Treasury acknowledged the need to address and accommodate unique tribal issues such as preservation of culture and tradition.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On December 5, 2012, the IRS and Treasury Department issued Notice 2012-75 proposing new guidance and providing interim relief under the Act for Programs that meet designated safe harbor rules.  On June 3, 2014, the Treasury Department issued final guidance in the form of Revenue Procedure 2014-35 confirming that IRS will not tax Member Assistance that meets designated IRS safe harbor requirements.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In September of 2014, tribal representatives and tribal organizations worked with the United States Congress to clarify that Bills then pending in the House (HR 3043) and in the Senate (SB 1507) were in fact intended to expand tribal general welfare exclusion rights and build upon the safe harbor and general test relief previously recognized by the IRS and the Department of Treasury.  On September 17, 2014, Senators Moran and Heitkamp, co-sponsors of SB 1507 engaged in a colloquy with the Chairman of the Senate Finance Committee, Senator Wyden, on the Congressional Record of the Senate confirming their understanding and intent that:</text>
+          <para>
+            <num>(1)</num>
+            <text>IRS would apply SB 1507 "no less favorable than the safe harbor approach provided for in Revenue Procedure 2014-35, and that in no event will IRS require an individualized determination of financial need where a tribal Program meets all other requirements of new section 139E as added by the bill."</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The bill requires that "any ambiguities in new Code section 139E shall resolved by the IRS in favor of Indian tribal governments and deference shall be given to Indian tribal governments for programs administered and authorized by the Tribe to benefit the general welfare of the Tribal community."</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>It "would be contrary to the intent of Congress" if IRS were to "take the occasion of passage of H.R. 3043 or S. 1507 to retrench, narrow or possibly withdraw the administrative guidance provided in Rev. Proc. 2014-35 after enactment of the bill."</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Congressional intent "is to expand rather than restrict the safe harbor provisions in Rev. Proc. 2014-35."</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>"The purpose of this legislation is to further empower Tribal self-determination."</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>"Tribal governments have a long history of providing critical benefits to tribal members, and these programs are fundamental to the sovereignty and cultural integrity of tribes. Tribes, and not the IRS, are in the best position to determine the needs of their members and provide for the general welfare of their tribal citizens and communities."</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>On September 18, 2014, the Tribal General Welfare Exclusion Act of 2014 passed both houses of Congress, and the Tribal General Welfare Exclusion Act of 2014 was signed into law on September 29, 2014. The Tribe now expressly embraces the forgoing principles as an integral part of this Ordinance and as guiding principles in construing the Tribe's compliance with the Act and this Ordinance.</text>
+        </para>
+      </section>
+      <section>
+        <num>ADM.04.11</num>
+        <heading>Non-Recourse Designation.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Tribe does not guarantee Assistance under this law. Beneficiaries have no contractual or other right to direct, compel, or alienate payments prior to actual receipt.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All amounts budgeted by the Tribe for Assistance payments shall remain general assets of the Tribe until such payments are disbursed. Assistance paid hereunder shall not be treated as a resource or asset of the Beneficiary for any purpose, and shall not be counted against a recipient's eligibility (through income or resource criteria) for other governmental assistance of any kind.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Tribe reserves the right to cancel, adjust, modify or revoke any Assistance that are treated as a resource of the Beneficiary or are otherwise used to limit the eligibility of a recipient for other such assistance.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>All Assistance authorized by the Ordinance shall be treated as an unfunded arrangement for tax purposes and shall be limited to appropriated funds at the discretion of the Council from time to time. Assistance hereunder is paid from assets of the Tribe; all payments are based on budget availability of the tribal government.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Approved Programs shall be administered at all times to avoid triggering of the doctrines of "constructive receipt" or "economic benefit" for income tax purposes.</text>
+        </para>
+      </section>
+    </container>
+  </codify:insert>
+  <codify:annotation path="ADM.04" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ADM.04|annos">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 056-25">Resolution No. 056-25</cite>, adopted September 2, 2025, approved by BIA September 12, 2025.</codify:annotation>
+</document>

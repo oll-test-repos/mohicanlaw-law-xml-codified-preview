@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2000 SMTCA 1">
+  <num>2000 SMTCA 1</num>
+  <heading>Joseph Miller vs. Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>2000-11-27</effective>
+    <citations>
+      <citation type="reporter" url="./2000 SMTCA 1.pdf">2000 SMTCA 1</citation>
+      <citation type="opinion" url="./99-AA-001.pdf">Case No. 99-AA-001</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Joseph Miller</name>
+        <designation>Plaintiff</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Defendant</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="FACTS">
+    <heading>FACTS</heading>
+    <para>
+      <num>¶1</num>
+      <text>Plaintiff is an enrolled member of the Stockbridge-Munsee Tribe and was employed by the Tribe as a deputy. The Tribe terminated his employment on April 14, 1999. Following his termination, the plaintiff filed both a grievance through the administrative grievance procedures and a petition for review of his termination in Tribal Court.</text>
+    </para>
+    <para>
+      <num>¶2</num>
+      <text>Trial Court Judge, David Raasch, heard the plaintiff's petition on July 30, 1999 and at the conclusion of the hearing in open court dismissed the plaintiff's petition for a review on the grounds that it was untimely filed. Judge Raasch issued his written decision dismissing the plaintiff's petition on August 4, 1999. On September 1, 1999, the plaintiff filed with the Stockbridge-Munsee Tribal Court a Notice of Appeal of the trial court's order dismissing his petition for review.</text>
+    </para>
+  </container>
+  <container name="ISSUE">
+    <heading>ISSUE</heading>
+    <para>
+      <num>¶3</num>
+      <text>An appeals panel was appointed to review the plaintiffs appeal. The critical question is whether the petitioner's notice of appeal was timely filed so as to vest the Appeals Court with jurisdiction to hear the merits of the appeal.</text>
+    </para>
+  </container>
+  <container name="DECISION">
+    <heading>DECISION</heading>
+    <para>
+      <num>¶4</num>
+      <text>Appeals in the Stockbridge-Munsee Tribal Court are governed by the Appeals Ordinance. Section 23 (A) of that ordinance requires a "(written notice of appeal from a decision of the trial court must be filed within 20 days of the announcement of the decision in open court, or within 20 days of receiving notice of the decision." S-M Appeals Ordinance. The trial court's decision in this case was made in open court at the hearing on July 30, 1999. Accordingly, the deadline for filing a notice of appeal of that decision would have been August 19, 1999. Since the notice was filed on September 1, 1999, it was untimely filed and the appeal can not be heard<u>. <cite doc="97-AA-004" path="5">S-M Community v. Joseph Miller (Stockbridge-Munsee Tribal Court, 97-AA-004, pp.5-6)</cite></u></text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>Even assuming auguendo that the statute of limitations began tolling when the plaintiff received the notice of the written decision dated August 4, 1999, the plaintiff still missed the deadline which would have been August 25, 1999 (without mail time) or August 29, 1999 allowing for a reasonable amount of time for mailing. Regardless of how the statute is tolled, the plaintiff missed the deadline and the court is without jurisdiction to hear the appeal.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>Accordingly, the plaintiff's petition for appellate court review is dismissed with prejudice.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Respectfully submitted this 27 November, 2000</text>
+    <text>Honorable Kimberly M. Vele</text>
+    <text>Stockbridge-Munsee Tribal Court Judge</text>
+    <text>Honorable Betty Jo Graveen</text>
+    <text>Stockbridge-Munsee Appellate Court Judge Pro Tem</text>
+    <text>Honorable Joseph Martin</text>
+    <text>Stockbridge-Munsee Appellate Court Judge Pro Tem</text>
+  </procedural-data>
+</document>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2010 SMTCA 1">
+  <num>2010 SMTCA 1</num>
+  <heading>Stockbridge-Munsee Community, et al. vs. Beverly Jacobs</heading>
+  <meta>
+    <effective>2010-01-19</effective>
+    <citations>
+      <citation type="reporter" url="./2010 SMTCA 1.pdf">2010 SMTCA 1</citation>
+      <citation type="opinion" url="./2008-CV-033.pdf">Case No. 2008-CV-033</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Stockbridge-Munsee Community, On Behalf of the Division of Community Housing</name>
+        <designation>Appellant</designation>
+      </party>
+      <party>
+        <name>Beverly Jacobs</name>
+        <designation>Respondent</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This is an appeal of an eviction trial that concluded on April 23, 2009. On July 22, 2009, the Honorable Robert Miller Jr. dismissed the eviction action against Beverly Jacobs.</text>
+  </para>
+  <container name="History">
+    <heading>History</heading>
+    <para>
+      <num>¶2</num>
+      <text>On August 10, 2009, Plaintiff/Petitioner, the Division of Community Housing, appealed that decision alleging the Trial Court committed an error of law in interpreting Section 21(1) as applying to the actions of Tribal Police in seeking a search warrant from the Shawano County Court.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>On September 1, 2009, Respondent, Beverly Jacobs, filed a Motion for Summary Dismissal of Petitioner's Appeal, asserting Appellant failed to comply with the five (5) day requirement for filing the Notice of Appeal as is mandated by <cite doc="Old Stockbridge-Munsee Tribal Code" path="§46.6">Section 46.6-12 of the Stockbridge-Munsee Housing Code</cite>.</text>
+    </para>
+  </container>
+  <container name="Issue">
+    <heading>Issue</heading>
+    <para>
+      <num>¶4</num>
+      <text>Is Appellant's Appeal timely?</text>
+    </para>
+  </container>
+  <container name="Analysis">
+    <heading>Analysis</heading>
+    <para>
+      <num>¶5</num>
+      <text>The Honorable Robert Miller, Jr., Chief Judge of the Stockbridge-Munsee Tribal Court published case <u>2008-CV-033</u> on July 22, 2009 and wrote, <em>"...it is apparent that Tribal Law was disregarded summarily"</em> and ordered the case dismissed with prejudice.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>Appellant appealed that decision on August 10, 2009, even if weekends or holidays were not included, appellant's appeal should have been submitted by July 29, 2009. Appellant's appeal was seventeen (17) calendar days later. According to <cite doc="Old Stockbridge-Munsee Tribal Code" path="§46.6">Stockbridge-Munsee Housing Code, Section 46.6-12</cite>, Appellant's appeal is untimely. <cite doc="Old Stockbridge-Munsee Tribal Code" path="§46.6">Section 46.6-12</cite>,</text>
+      <include>
+        <text>Appeals taken under this Ordinance shall be handled according to the general tribal appellate provisions with the exception that the party filing the appeal shall have only five (5) days from the entry of the order of judgment to file a notice of appeal. All orders from the court will remain in effect during the pendency of an appeal under this Ordinance unless otherwise ordered by the court. If applicable, a party may utilize appeal procedures of 25.C.F.R. Part 2.</text>
+      </include>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>Court procedures are written to ensure fairness. The Court found Respondent's appeal is untimely. Therefore, the Court dismisses Appellant's appeal due to untimely filing.</text>
+    </para>
+  </container>
+  <container name="Decision">
+    <heading>Decision</heading>
+    <para>
+      <num>¶8</num>
+      <text>The Court dismisses Appellant's appeal.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Dated this 19th day of January 2010</text>
+    <text>Pro tempore, Honorable Mary Adams</text>
+    <text>Pro tempore, Honorable Robert Christjohn</text>
+    <text>Honorable Marianne Higgins</text>
+  </procedural-data>
+</document>

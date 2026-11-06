@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2016 SMTCA 1">
+  <num>2016 SMTCA 1</num>
+  <heading>Karen Gardner vs. Shirley Dickie and Francis Smith</heading>
+  <meta>
+    <effective>2016-04-27</effective>
+    <citations>
+      <citation type="reporter" url="./2016 SMTCA 1.pdf">2016 SMTCA 1</citation>
+      <citation type="opinion" url="./AP-2015-GU-0005.pdf">Case No. AP-2015-GU-0005</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>In the Guardianship Matter of:</name>
+        <designation>Elda M. Dickie (DOB: 06/21/1922)</designation>
+      </party>
+      <party>
+        <name>Shirley Dickie and Francis Smith</name>
+        <designation>Respondents</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="Decision">
+    <heading>Decision</heading>
+    <para>
+      <num>¶1</num>
+      <text>This case has come before the Stockbridge-Munsee Court of Appeals, Appellate Court Judges Chad Hendricks, Diane House, and Marianne Higgins presiding.</text>
+    </para>
+    <container name="INTRODUCTION">
+      <heading>INTRODUCTION</heading>
+      <para>
+        <num>¶2</num>
+        <text>Karen Gardner appeals an order of the Stockbridge-Munsee Tribal Court (hereinafter "SMTC") appointing Shirley Dickie as Guardian of the Person (health care) and Frances Smith as Guardian of the Estate (finances). <em>Affirmed</em>.</text>
+      </para>
+    </container>
+    <container name="JURISDICTION">
+      <heading>JURISDICTION</heading>
+      <para>
+        <num>¶3</num>
+        <text>The court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6(L)</cite> of the Stockbridge-Munsee Tribal Court Code which gives the Court of Appeals exclusive jurisdiction to review appeals from the Trial Court.</text>
+      </para>
+    </container>
+    <container name="HISTORICAL BACKGROUND">
+      <heading>HISTORICAL BACKGROUND</heading>
+      <para>
+        <num>¶4</num>
+        <text>Elda Dickie (hereinafter "Elda") is an Indian Elder who suffers from dementia and resides at Atrium Post-Acute Care of Shawano (hereinafter "Atrium"). Elda's daughter, Karen Gardner (hereinafter "Gardner"), filed a petition in SMTC for guardianship of Elda and asked that Rebecca Alegria (hereinafter "Alegria") be named successor guardian.</text>
+      </para>
+      <para>
+        <num>¶5</num>
+        <text>The SMTC subsequently held a hearing on Gardner's petition in August 2015 before the Honorable Candace Des Armo Coury. Gardner appeared in person with, lay advocate, Scott Vele (hereinafter "Vele"). Alegria, Shirley Dickie (hereinafter "Shirley"), and Frances Smith (hereinafter "Smith") all appeared in person, pro se, as interested parties. Guardian ad litem Stacey Schreiber (hereinafter "Schreiber") appeared telephonically.</text>
+      </para>
+      <para>
+        <num>¶6</num>
+        <text>Judge Coury appointed Schreiber as GAL after receiving Gardner's petition. Schreiber performed an investigation and completed her GAL report prior to the hearing. During her investigation, Schreiber found that in 2005 Elda gave Shirley a health care power of attorney, with Smith listed as the alternative agent. Schreiber also found that in 2013 Elda signed a <em>Wisconsin Power of Attorney for Finances and Property Form</em> and designated Smith as power of attorney over her finances and named Shirley as successor agent. Elda made it clear in the Power of Attorney Form that if it becomes necessary for the court to appoint a guardian, it was her wish that Smith be named guardian of her estate and Shirley be named guardian of her person.</text>
+      </para>
+      <para>
+        <num>¶7</num>
+        <text>Elda has resided at Atrium since November 2014. She is comfortable at Atrium and well cared for. Her care plan consists of providing Elda the highest quality of life for the remainder of her life and to keep her comfortable. The administrator of Atrium Post-Acute Care reported that Shirley visits Elda almost daily, Smith visits Elda twice per week, and Gardner has visited a "handful of times or better since November 2014." The administrator has never met Alegria or known of her visiting. All parties agree that Elda is well cared for at Acute and should remain there.</text>
+      </para>
+    </container>
+    <container name="STANDARD OF REVIEW">
+      <heading>STANDARD OF REVIEW</heading>
+      <para>
+        <num>¶8</num>
+        <text>A trial court's decision on guardianship and placement involves a discretionary determination as to Elda's best interests. <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(5)">Stockbridge-Munsee Tribal Law §1.6(L)(5)</cite> states that judicial rulings in discretionary matters are reviewed based on whether there was an abuse of discretion. We independently determine whether the correct standard of law was applied, but uphold the trial court's findings of fact unless they are clearly erroneous. <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(5)"><em>Id</em></cite>. Furthermore, errors that are not likely to have had a substantial impact on the decision or on substantial rights are considered "harmless errors" and are not a basis for reversal. <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(5)"><em>Id</em></cite>. This standard of review is heavily weighted in support of an original hearing body's findings.</text>
+      </para>
+    </container>
+    <container name="ANALYSIS">
+      <heading>ANALYSIS</heading>
+      <para>
+        <num>¶9</num>
+        <text>We are presented with the question of whether the trial court's decision to appoint Shirley as Guardian of the Person (health care) and Smith as Guardian of Estate (finances) were clearly erroneous. Gardner questions the court's decision not to appoint herself and Alegria as Elda's guardians.</text>
+      </para>
+      <para>
+        <num>¶10</num>
+        <text>
+          <u>Whether the SMTC applied the proper standard of law in deciding who should be appointed guardianship of Elda?</u>
+        </text>
+      </para>
+      <para>
+        <num>¶11</num>
+        <text>We give great deference to findings of fact by the original hearing body because it has the fact- finding power. Even if we disagree with the factual findings or would have decided the case differently under the same facts, we are not allowed to substitute our own judgment for the judgment of the original hearing body.</text>
+      </para>
+      <para>
+        <num>¶12</num>
+        <text>The standards of review for factual findings in tribal, state, and federal courts, are based on the premise that the original hearing body is better able to make factual determinations than the reviewing court. With so many cases turning on questions of credibility, the original hearing body is able to evaluate factors such as demeanor, facial expressions, and tone to determine if one witness is more credible than the other. Therefore, we will accept an original hearing body's credibility finding unless it is so "inconsistent or improbable on its face that no reasonable factfinder could accept it." <cite doc="356 F.3d 807" path="813"><em>U.S. v. Huebner</em>, 356 F.3d 807, 813 (7<sup>th</sup> Cir. 2004)</cite>.</text>
+      </para>
+      <para>
+        <num>¶13</num>
+        <text>Stockbridge-Munsee Tribal Law is silent as to the controlling criteria in selecting a guardian of a proposed ward over the age of 18, therefore we look to Wisconsin law for some guidance. Under <cite doc="Wis. Stat." path="§54.15|(1)">Wis. Stat. § 54.15(1)</cite>, the court shall take into consideration the opinions of the proposed ward and members of her family in determining who is appointed as guardian. The court shall appoint as guardian of the estate an agent under a ward's durable power of attorney. <cite doc="Wis. Stat." path="§54.15|(2)">Wis. Stat. § 54.15(2)</cite>. Furthermore, the court shall appoint as guardian of the person the agent under a ward's power of attorney for health care. <cite doc="Wis. Stat." path="§54.15|(3)">Wis. Stat. § 54.15(3)</cite>.</text>
+      </para>
+      <para>
+        <num>¶14</num>
+        <text>Gardner asserts that the trial court erred when it appointed Shirley and Smith as Elda's guardians, but does not give any reason why. Therefore, Gardner does not succeed.</text>
+      </para>
+      <para>
+        <num>¶15</num>
+        <text>Here, the trial court followed the correct legal standard when it appointed Shirley as guardian of the person and Smith as guardian of the estate. The court noted that Elda made it clear when she executed a Wisconsin Power of Attorney and wished to appoint Shirley as guardian of her person and Smith as guardian of her estate. Thus, the court found no reasonable basis for making a change and we agree.</text>
+      </para>
+      <para>
+        <num>¶16</num>
+        <text>
+          <u>Whether Gardner's rights to due process and effective assistance of counsel were violated by Judge Coury's failure to recuse herself?</u>
+        </text>
+      </para>
+      <para>
+        <num>¶17</num>
+        <text>Gardner also questions the trial court's decision not to recuse itself stating that Judge Coury was biased against Gardner's lay advocate, Vele. There are two tests that have been established for recusal. <cite doc="75 Wis. 2d 411" path="436"><em>State v. Asfoor</em>, 75 Wis.2d 411, 436 (1977)</cite>. A subjective test based on the judge's own determination of her impartiality and an objective test based on whether impartiality can reasonably be questioned. <em>Id</em>. Judge Coury clearly indicated she did not doubt her ability to preside impartially at trial, therefore the subjective test has been satisfied. The objective test remains for our consideration. Under this test Judge Coury should have recused herself if her impartiality could reasonably be questioned.</text>
+      </para>
+      <para>
+        <num>¶18</num>
+        <text>The prejudice alleged in this case is based entirely on the trial court's personal and professional disagreements with Lay Advocate Vele. Gardner contends that the bias Judge Coury has demonstrated against Vele in the past has resulted in prejudice to Gardner, and that bias against counsel in such circumstances is grounds for recusal.</text>
+      </para>
+      <para>
+        <num>¶19</num>
+        <text>A claim of judicial prejudice against a party based on bias against counsel is not different from any other claim of judicial prejudice. <cite doc="109 Wis. 2d 96"><em>State v. Walberg</em>, 109 Wis.2d 96, 106 (1982)</cite>. The focus is the interests of the client. <cite doc="109 Wis. 2d 96"><em>Id</em></cite>. While judicial prejudice against counsel does not generally or presumptively constitute bias against the client, if it can be shown that the bias toward counsel adversely affected the client's interests, then recusal is required. <cite doc="109 Wis. 2d 96" path="106"><em>Id</em>. at 106-107</cite>.</text>
+      </para>
+      <para>
+        <num>¶20</num>
+        <text>The two established tests for recusal can be applicable to claims of judicial prejudice based on bias against counsel. <cite doc="109 Wis. 2d 96" path="107"><em>Id</em>. at 107</cite>. If the judge has any doubts as to her impartiality to the client, or impartiality can reasonably be questioned based on the judge's relationship with counsel, then disqualification is mandated. <cite doc="109 Wis. 2d 96" path="107"><em>Id</em></cite>. However, it should be noted that a mere showing of antagonism or of a strained relationship between counsel and the court is not sufficient to require disqualification. <cite doc="109 Wis. 2d 96" path="107"><em>Id</em></cite>. The judicial bias toward counsel must be sufficiently severe as to reasonably call into question the court's impartiality toward the litigant. <cite doc="109 Wis. 2d 96" path="107"><em>Id</em></cite>.</text>
+      </para>
+      <para>
+        <num>¶21</num>
+        <text>Based on the allegations of prejudice in this case, we find that Judge Coury's impartiality toward Gardner can reasonably be questioned based on her conduct toward Vele. The statements by Judge Coury during the proceedings clearly showed her irritation with Vele. These remarks are within the trial court's power to control the conduct of the proceedings to ensure an orderly and efficient administration of justice. <cite doc="109 Wis. 2d 96" path="108"><em>See id</em>. at 108</cite>. However, when taken together with Judge Coury's statement that had the proceedings directly involved Vele himself or any member of his family, she would have no problem recusing herself. created the appearance that the court allowed its relationship with Vele to affect its impartiality toward Gardner.</text>
+      </para>
+      <para>
+        <num>¶22</num>
+        <text>Therefore, we conclude that Judge Coury's failure to recuse herself was error. However, we find that this error was harmless beyond a reasonable doubt. "Even errors of a constitutional dimension may be subject to the rule of harmless error," <cite doc="100 Wis. 2d 136" path="150"><em>State v. Zellner</em>, 100 Wis.2d 136, 150 (1981)</cite>.</text>
+      </para>
+      <para>
+        <num>¶23</num>
+        <text>Gardner has not presented anything in the record that shows Judge Coury committed any errors in making her decision on who should be appointed as guardian for Elda. There is no evidence showing that Judge Coury's relationship with Vele caused her to error in deciding who would serve in the best interests of Elda as her guardians. Therefore, Judge Coury's decision not to recuse herself was harmless error,</text>
+      </para>
+    </container>
+    <container name="CONCLUSION">
+      <heading>CONCLUSION</heading>
+      <para>
+        <num>¶24</num>
+        <text>We conclude that Judge Coury's failure to recuse herself was harmless error beyond a reasonable doubt. The error was non-prejudicial in that it had no effect on the outcome of Elda's guardianship proceeding. The trial court followed the correct legal standard when it appointed Shirley as Guardian of the Person and Smith as Guardian of the Estate and found no reasonable basis for going against Elda's wishes. <em>Judgment affirmed</em>.</text>
+      </para>
+    </container>
+  </container>
+  <procedural-data>
+    <text>Dated this 27th day of April, 2016.</text>
+    <text>
+      <strong>BY ORDER OF THE COURT</strong>
+    </text>
+    <text>Chad Hendricks, Lead Appellate Court Judge Pro Tempore</text>
+    <text>Diane House, Appellate Court Judge Pro Tempore</text>
+    <text>Marianne Higgins, Chief Appellate Court Judge</text>
+  </procedural-data>
+</document>

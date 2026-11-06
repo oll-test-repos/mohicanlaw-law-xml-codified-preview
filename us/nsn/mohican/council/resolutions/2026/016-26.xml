@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 016-26" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>016-26</num>
+  <heading/>
+  <meta>
+    <ordinance/>
+    <effective>2026-02-04</effective>
+    <history>
+      <adopted>2026-01-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/016-26.pdf">Stockbridge-Munsee Tribal Council Res. No. 016-26</citation>
+      <citation type="BIA">BIA Approval for Res. No. 016-26</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted a Forestry Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.02">ENV.02</cite>, which was amended in April 2025; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>An additional amendment to the Forestry Ordinance has been proposed that modifies <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.10">Section ENV.02.10</cite>, Forest Activities by Waters, to more clearly identify riparian management zones around the different types of waters on the reservation.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts revisions to <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.10">Section ENV.02.10 </cite>of the Forestry Ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the authorizes the submittal of the amended ordinance to the Bureau of Indian Affairs for approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 6th day of January, 2026, that the foregoing resolution was duly adopted at such meeting by a vote of 6 for, 0 against, and 0 abstaining.</text>
+    <table class="layout-table">
+      <tr>
+        <td>__________________________</td>
+        <td class="text-indent-3">__________________________</td>
+      </tr>
+      <tr>
+        <td>Shannon Holsey, President</td>
+        <td class="text-indent-3">Jody Hartwig, Secretary</td>
+      </tr>
+    </table>
+  </procedural-data>
+  <codify:replace path="ENV.02.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.10">
+    <section>
+      <num>ENV.02.10</num>
+      <heading>Forestry Activities By Waters</heading>
+      <para>
+        <num>(a)</num>
+        <text>Riparian Management Zones ("RMZs") are established along rivers, lakes, and streams and there will be no commercial harvest of standing timber within the RMZs. Exceptions to this requirement are only permitted with prior approval of the Tribal Council and must be consistent with the forest management plan.</text>
+        <para>
+          <num>(1)</num>
+          <text>The RMZ around rivers is 300-feet, in both directions, landward from the ordinary high-water mark. For the purposes of <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.10">this section</cite>, rivers are defined as the Red River, the West Branch of the Red River, and Silver Creek, and Embarrass River.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The RMZ around first-order streams 35-feet, in both directions, landward from the ordinary high-water mark. For the purposes of <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.10">this section</cite>, a first order stream is a naturally occurring perennial waterway that has no other streams or tributaries flowing into it.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The RMZ around lakes, second order and greater streams, and any streams capable of supporting trout is 100-feet, in both directions, landward from the ordinary high-water mark. For the purposes of <cite doc="Stockbridge-Munsee Tribal Code" path="|ENV.02.10">this section</cite>, a second order or greater stream is a perennial waterway that has one or more other stream flowing into it.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The RMZs will be reviewed annually and are subject to change based on new mapping data and ground-truthing efforts.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Persons involved in a commercial harvest may obtain a map of RMZs in the harvest area from the Forestry Department.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:annotation path="ENV.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.01|annos">18. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 016-26">Resolution No. 016-26</cite>, adopted January 6, 2026, approved by BIA February 4, 2026.</codify:annotation>
+</document>

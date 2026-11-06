@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2008 SMTCA 2">
+  <num>2008 SMTCA 2</num>
+  <heading>Murphy Family vs. Stockbridge-Munsee Tribal<br/>Council, et al.</heading>
+  <meta>
+    <effective>2008-09-23</effective>
+    <citations>
+      <citation type="reporter" url="./2008 SMTCA 2.pdf">2008 SMTCA 2</citation>
+      <citation type="opinion" url="./AP-2006-AA-0001.pdf">Case No. AP-2006-AA-0001</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Murphy Family</name>
+        <designation>Plaintiffs-Appellants</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Tribal</name>
+        <designation>Defendants-Appellees</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>On July 21, 2008, this court dismissed the appeal of the Appellants for failure to file a timely appeal. On August 1, 2008, the 'Appellants filed a Motion to Reconsider the court's decision.</text>
+  </para>
+  <para>
+    <num>¶2</num>
+    <text>As a basis for their motion, counsel for the Appellants alleges that he attempted to file the appeal timely but that the clerk of court was not present in his office to accept the appeal. It is strange that the court first hears of this issue on August 1, 2008, the date this Motion was filed. Had there been difficulties experienced in filing the appeal, why didn't counsel bring this to the attention of the court immediately, or at least when the appeal was first filed. In the alternative, counsel could have come back when the clerk was present. Counsel did neither of these things and this argument must fall.</text>
+  </para>
+  <para>
+    <num>¶3</num>
+    <text>Counsel also claims that he did not know he could have filed for an enlargement of time pursuant to Rule <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.29|(C)">1.29(C) of the Tribal Court Code</cite>. The answer to this is that failure to know the law is no excuse under the law and this argument must fall. It must also be stated that the court looks with disfavor on motions for reconsideration and requests for enlargement of time.</text>
+  </para>
+  <para>
+    <num>¶4</num>
+    <text>For the reasons stated above, the court <strong>DENIES</strong> Appellants Motion to Reconsider.</text>
+  </para>
+  <procedural-data>
+    <text>So Ordered this 23rd Day of September, 2008.</text>
+    <text>Marianne Higgins, Stockbridge-Munsee Tribal Judge</text>
+    <text>Leland Wigg-Ninham, Judge Pro Tem</text>
+    <text>Robert Kittecon, Judge Pro Tem</text>
+  </procedural-data>
+</document>

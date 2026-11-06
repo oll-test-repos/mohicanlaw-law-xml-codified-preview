@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2016 SMTCA 6">
+  <num>2016 SMTCA 6</num>
+  <heading>Doug Huck, et al. vs. SM Recall Election Committee</heading>
+  <meta>
+    <effective>2016-12-02</effective>
+    <citations>
+      <citation type="reporter" url="./2016 SMTCA 5.pdf">2016 SMTCA 5</citation>
+      <citation type="opinion" url="./AP-2016-RO-0009.pdf">Case No. AP-2016-RO-0009</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Doug Huck, et al.</name>
+        <designation>Appellants/Petitioner</designation>
+      </party>
+      <party>
+        <name>SM Recall Election Committee</name>
+        <designation>Appellees/Respondents</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Layatalati Hill, Diane House, and John Powless III presiding.</text>
+  </para>
+  <container name="Background">
+    <heading>Background</heading>
+    <para>
+      <num>¶2</num>
+      <text>A petition was filed with the Stockbridge-Munsee Tribal Trial Court (hereinafter the "SMTC") requesting permanent injunctive relief, and the cancellation of the scheduled Recall Election for December 3, 2016. On November 23, 2016, The SMTC denied the petitioner's request for permanent injunctive relief and further ordered the Recall Election move forward as scheduled. On November 28, 2016, Appellants/Petitioners ("Appellants") filed a Notice of Appeal of the SMTC's decision that denied their request for injunctive relief. On December 1, 2016, the Respondents/Appellees ("Appellees") filed motion to dismiss this appeal.</text>
+    </para>
+  </container>
+  <container name="Jurisdiction">
+    <heading>Jurisdiction</heading>
+    <para>
+      <num>¶3</num>
+      <text>The court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6 (L) of the Stockbridge-Munsee Tribal Court Code</cite> which gives the Court of Appeals the jurisdiction to hear appeals from the Trial Tribal Court.</text>
+    </para>
+  </container>
+  <container name="Issues Presented">
+    <heading>Issues Presented</heading>
+    <para>
+      <num>¶4</num>
+      <text>Was formal notice provided to the Appellants in accordance with <cite doc="2013R0005"><u>Chicks v. Doxtator and Recall Election Board</u>, Case nos. 2013R0005 (<em>Chicks</em> I, April 25, 2013)</cite> and <cite doc="2013R0006">2013R0006 (<em>Chicks II</em>, July 24, 2013)</cite>? Yes. The Court finds reasonable due process was met when the Recall Election Notification of November 9<sup>th</sup>, 2016 was served by Tribal police on the Appellants. In addition, notice was provided to the membership when the Recall Board provided public notice in the newspaper and mailed postcards to the members.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>Was the Recall Election procedure properly followed? Yes. The <cite doc="Stockbridge-Munsee Constitution and By-laws" path="V|2">Constitution and By-Laws of the Stockbridge-Munsee Community Article 5 Sect 2 a-c</cite> provides the procedure as follows:</text>
+      <include>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>The petitioners shall form an election board consisting of five members to oversee and conduct the recall election process;</em>
+          </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Upon receipt of a petition signed by at least one-third of the number of those voting in the last general election, it shall be the duty of the recall election board to certify the validity of the signatures on the recall petitions, and to call for an election to be held not more than thirty days from the submission of the recall petition;</em>
+          </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Individual petitions shall be circulated for each Council member who is subject to recall.</em>
+          </text>
+        </para>
+      </include>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>The Appellants in this case do not claim this procedure was not followed. The Appellants claim it was not granted access to a full certified petition of the recall petition(s) that were presented to Tribal membership, certified copies of the signed petition(s), information on who and how the petitions were certified, all copies of petition/postings that were posted anywhere, including social media, as well as an explanation of any member changes to the Recall Election Board and the Board's meeting minutes. The Appellees ("Appellees") do not dispute the above requests by the Appellants were denied, but claim the Appellants have no entitlement to those documents. We agree. According to the subsection (b) above, it is the duty of the recall election board to certify the validity of the signatures on the recall petitions, which was done. The Appellants state that information would be available in other jurisdictions, but fail to point out where, based on Stockbridge-Munsee Tribal Law or Constitution, they would be entitled to access those documents and information.</text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>Were the Appellants entitled to a hearing at the trial level? No. Simply filing a petition with the court does not guarantee a person a hearing. A filing must comply with the requirements of such filing. According the law, for permanent injunctions, a hearing is only required if a permanent injunction was issued (<cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.13|(D)">Stockbridge-Munsee Tribal Law Chapter I -Tribal Court Code Section 1.13 (D)</cite>. The SMTC did not begin the injunctive process by issuing a temporary injunction, but rather denied the request. Had the SMTC issued a temporary injunction, then the SMTC would then be obligated to hold a hearing to consider a permanent injunction on the merits. The SMTC considered and reviewed the <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.02">Stockbridge-Munsee Tribal Law Chapter I -Tribal Court Code, Jurisdiction - Section 1.2</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.13|(A)|(1)">Section 1.13 (A)(1)</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.13|(B)|(1)">(B)(1)</cite>-<cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.13|(B)|(7)">(7)</cite>, and <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.13|(D)|(1)">(D)(1)</cite>-<cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.13|(D)|(3)">(3)</cite> and determined that an injunction was not appropriate in this situation based on the lack of provisions in the constitution or Tribal laws for such an injunction. We agree. In any case, we find that although the harm that may be suffered by the Appellants is greater than the harm that may be suffered by the Appellees, the harm to the Tribal Constitutional powers of members of the Stockbridge-Munsee Community to have the authority and ability to petition for removal of their council members through a recall election outweighs the harm that may be suffered by the individuals of this case.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>Does the 2016 election render the Recall Election moot? No. The <cite doc="Stockbridge-Munsee Constitution and By-laws" path="V|3">Constitution and By-Laws of the Stockbridge-Munsee Community Article V Section 3 </cite>states:</text>
+      <include>
+        <text>
+          <em>No Council member recalled or removed shall be eligible to run or hold office for four (4) years from the date of removal from office.</em>
+        </text>
+      </include>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>If recalled in the previous election cycle, in this case 2015, those recalled cannot run or hold office for four years from the date of removal from office. Although a new Tribal Council election was held in 2016, the recall process was started during the 2015 term and the Recall Process laid out in the Constitution was properly followed and must be completed. The fact that two of the Appellants did not run for reelection in 2016 and are therefore, not currently on the Council does not relieve them of the 2015 Recall Election. If any of the Appellants are removed based on the December 3, 2016 Recall Election, the four (4) year ban on running or holding office would begin dating back to 2015. If those currently sitting on the Council are removed based on the December 3, 2016 Recall Election, they would be ineligible to run and hold office for four (4) years beginning in 2015. Therefore, they would not be eligible for office for 2016 and must be removed from office leaving a vacancy to be filled. The court does not make a determination on whether or not a Recall Election can be made going further back than the previous year.</text>
+    </para>
+  </container>
+  <container name="Order">
+    <heading>Order</heading>
+    <para>
+      <num>¶10</num>
+      <text>The Court denies the Appellee's motion to dismiss and affirms the SMTC's decision denying the Appellant/Petitioner's request for permanent injunctive relief and further orders the Recall Election move forward as scheduled for December 3, 2016.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>IT IS SO ORDERED.</text>
+    <text>Dated this 2<sup>nd</sup> day of December, 2016.</text>
+    <text>
+      <strong>BY ORDER OF THE COURT OF APPEALS:</strong>
+    </text>
+    <text>Layatalati Hill, Lead Appellate Court Judge Pro Tempore</text>
+    <text>Diana House, Appellate Court Judge Pro Tempore</text>
+    <text>John Powless III, Appellate Court Judge Pro Tempore</text>
+  </procedural-data>
+</document>

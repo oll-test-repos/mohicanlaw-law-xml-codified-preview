@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2018 SMTCA 1">
+  <num>2018 SMTCA 1</num>
+  <heading>Michael G. Miller vs. Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>2018-09-14</effective>
+    <citations>
+      <citation type="reporter" url="./2018 SMTCA 1.pdf">2018 SMTCA 1</citation>
+      <citation type="opinion" url="./2018-AA-0002-01.pdf">Case No. 2018-AA-0002-01</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Michael G. Miller</name>
+        <designation>Plaintiff/Respondent</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Defendant/Petitioner</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This matter came before the Honorable Gregory D. Smith, Chief Justice of the Stockbridge-Munsee Court of Appeals, on the 14<sup>th</sup> day of September, 2018, upon the Community's petition to seek an interlocutory appeal challenging the Tribal Court's denial of a motion to recuse. Although interlocutory appeals are disfavored, due to under-developed records and piecemeal litigation, this matter is significant and delay could cause needless litigation. The petition to review the recusal ruling is well-founded.<fn path="|footnotes|1">1</fn> Further, since this is a significant issue that will impact multiple other cases, the matter shall be heard <em><u>en banc</u></em> by this Court pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.09|(g)|(2)|(A)">S-M Tribal Code § 1.9(G) (2)(a)</cite>. Oral arguments are ordered pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.02.22|(c)">S-M Tribal Code § 5.22 (C)</cite> and shall be conducted by Skype or similar visual social media for out-of-town justices. The litigants shall present arguments live and physically present at the Stockbridge-Munsee Courthouse. Oral arguments shall be limited to fifteen (15) minutes per side and this time shall be strictly enforced. <strong>Wherefore, premises considered;</strong></text>
+  </para>
+  <para>
+    <num>¶2</num>
+    <text><strong><em>IT IS ODERED that</em></strong> the Communitys petition for an interlocutory appeal is granted. The interlocutory appeal shall solely address the Tribal Court's recusal order. The record of appeal is limited to the following:</text>
+    <para>
+      <num>(A)</num>
+      <text>The Tribal Court's August 23, 2018 order denying recusal;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Any order where this same Tribal Court recused in the last twelve (12) months in a <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53</cite> case involving similar grounds for recusal;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Any transcript or recording of arguments relating solely to the motion for recusal. Since This Court is not addressing the merits of this case, transcripts are limited to the sole issue of recusal;</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The motion for recusal filed by the Community; and</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Any reply to the motion for recusal filed by Plaintiff.</text>
+    </para>
+  </para>
+  <para>
+    <num>¶3</num>
+    <text>The Community's brief shall be filed on or before October 3, 2018. The Plaintiff's brief, if one is to be filed, is due on or before November 2, 2018. Any reply brief filed by the Community is due by November 16, 2018. Oral Arguments are limited to parties that file a brief and are set for Friday, December 7, 2018 at 3:00 p.m. Central Time. Each side shall have fifteen (15) minutes for oral arguments. If the Community wishes to reserve any of their time for rebuttal, they shall announce said request at the beginning or oral arguments.</text>
+  </para>
+  <procedural-data>
+    <text>Entered this 14th day of September, 2018.</text>
+    <text>Gregory D. Smith</text>
+    <text>Chief Justice</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>This Court is deeming the Community's notice of appeal as a petition requesting interlocutory review. This Court finds, pursuant to <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.9|(G)|(3)">S-M Tribal Code § 1.9(G(3)</cite>, that it could have refused to hear this matter until a final judgment on the case is rendered. [<em><u>See</u></em>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§5.22|(A)">S-M Tribe Code § 5.22(A)</cite>.]</text>
+    </footnote>
+  </footnotes>
+</document>

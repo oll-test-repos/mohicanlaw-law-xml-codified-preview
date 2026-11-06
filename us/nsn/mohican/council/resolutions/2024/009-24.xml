@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 009-24" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>009-24</num>
+  <heading/>
+  <meta>
+    <ordinance>Healing to Wellness Court</ordinance>
+    <effective>2024-01-02</effective>
+    <history>
+      <adopted>2024-01-02</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/009-24.pdf">Stockbridge-Munsee Tribal Council Res. No. 009-24</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council has adopted a Healing to Wellness Court Ordinance as <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.06">Chapter TCT.06</cite> of the Tribal Code in order to provide additional mechanisms to help community members with substance abuse and addiction issues find a path back to being a healthy and productive member of the community;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Healing to Wellness Court is intended to help participants through assistance and accountability in a court setting that uses a more holistic, healing approach;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In order to encourage open and honest discussion as part of the court process and recognizing the sensitivity of the topics that may be discussed as part of Healing to Wellness Court hearings or be in court records, the Tribe believes it is appropriate to make changes to the ordinance in order to provide for closed hearings and to clarify confidentiality provisions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council therefore wishes to amend the Healing to Wellness Court Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.06">Chapter TCT.06</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Council hereby adopts amendments to <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.06">Chapter TCT.06</cite>, Healing to Wellness Court Ordinance, described more specifically as deleting the reference to open hearings under <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.06.06|(g)">Section TCT.06.06(g)</cite>, adding a new <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.06.08|(a)">TCT.06.08(a)</cite>, renumbering the subsections in <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.06.08">TCT.06.08</cite>, and making other edits to <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.06.08">TCT.06.08</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the Tribal Council authorizes he submittal of the amended ordinance to the U.S. Bureau of Indian Affairs for approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 2<sup>nd</sup> day of January, 2024, that the foregoing resolution was duly adopted at such meeting by a vote of 7 for, 0 against, and 0 abstaining.</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-3">__________________________</td>
+        </tr>
+        <tr>
+          <td>Shannon Holsey, President</td>
+          <td class="text-indent-3">Jody Hartwig, Secretary</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+  <codify:replace path="TCT.06.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.06.06">
+    <section>
+      <num>TCT.06.06</num>
+      <heading>Healing to Wellness Court Program Elements</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Healing to Wellness Court program is intended to promote recovery of Participants and the community from substance abuse and addiction. The program holds Participants accountable through the effective use of treatment programing, incentives, sanctions, and cultural connectiveness. The Handbook contains additional information on the program for Participants.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Healing to Wellness Court provides a Participant with consistent and continual monitoring of completion of the program requirements.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Participants are required to remain in regular contact with the Healing to Wellness Court coordinator.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Participants are required to engage in evidence-based treatment for substance abuse and addiction as part of the Healing to Wellness Court program. Treatment activities are conducted by appropriately licensed professionals. Participants must authorize the treatment professional to provide regular participatory reports to the Healing to Wellness Court confirming whether the Participant is actively engaging in treatment and meeting treatment goals required under the program.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Healing to Wellness Court shall ensure periodic and random testing through a certified laboratory for the presence of any controlled substances or alcohol in the Participant's blood, urine, or breath using the best available, accepted, and scientifically valid methods.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Healing to Wellness Court shall have appropriate periodic evaluations completed to assess the Participant's circumstances and progress in the program.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Regular status hearings will be held before the Healing to Wellness Court to discuss a Participant's progress or lack of progress in the program.  The Healing to Wellness Court may take such judicial actions as necessary to implement the Healing to Wellness Court program, which can include issuing orders, subpoenas, and fines.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Healing to Wellness Court costs and fees, if any, as well as any payments will be tracked for each Participant. Statements will be provided to Participants as appropriate.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Healing to Wellness Court may order sanctions if a Participant violates mutually agreed upon program elements. Such sanctions can include, but are not limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Contempt of court order.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The suspension of payment of any authorized per capita payments until the Participant completes the program.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The suspension of hunting, fishing, and trapping privileges.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Healing to Wellness Court typically recommends sentencing leniency or dismissal of charges in the Authorizing Jurisdiction upon successful completion of the program as the key incentive for a positive outcome. Other incentives for compliance such as encouragement, public praise, small gifts like a gas card, or assistance may also be offered during the program.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="TCT.06.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.06.08">
+    <section>
+      <num>TCT.06.08</num>
+      <heading>Records And Communications</heading>
+      <para>
+        <num>(a)</num>
+        <text>Due to the sensitive nature of topics that may be discussed during hearings, Healing to Wellness Court hearings are closed to the general public in order to facilitate open and honest discussion between a participant and the Judge as they complete their journey along the healing path.</text>
+        <para>
+          <num>(1)</num>
+          <text>In general, a Participant may authorize family members and/or individual support system members to be present at their hearings.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If any issues related to a minor child are discussed during the hearing, then the Judge will have persons present to support the Participant leave the courtroom.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Healing to Wellness Court shall not be a court of record for criminal offenses, meaning any information obtained, used or disclosed by a member of the Team while the Participant is under the jurisdiction of the Healing to Wellness Court shall not be used as evidence against the Participant in any criminal proceeding in the Tribal Court or a court in any other jurisdiction.</text>
+        <para>
+          <num>(1)</num>
+          <text>This limitation does not prevent the disclosure of information in compliance with other applicable laws, such as mandatory reporting laws for child or elder abuse.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This limitation on the use or sharing of information does not limit the use of information or evidence obtained by independent means or as part of other proceedings.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>This limitation does not prevent the Participant from authorizing the release of information from the Healing to Wellness Court proceeding to be used as part of a <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> or similar proceeding.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Healing to Wellness Court records are confidential and shall be handled and maintained securely. The record of court proceedings will be maintained separately from the coordinator's participant file.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Records shall not be disclosed to any person or entity other than the Healing to Wellness Team without prior written informed consent from the Participant or except as authorized by applicable law.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The confidentiality limitations under <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.06.08">this section</cite> are not intended to limit or prevent the Healing to Wellness Court from conducting normal court operations including issuing orders and providing notices of hearings or from scheduling and holding joint appearances with the Authorizing Jurisdiction when appropriate, such as at a Participant's successful completion of the program.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:annotation path="TCT.06" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.06|annos">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 009-24">Resolution No. 009-24</cite>, adopted January 2, 2024</codify:annotation>
+</document>

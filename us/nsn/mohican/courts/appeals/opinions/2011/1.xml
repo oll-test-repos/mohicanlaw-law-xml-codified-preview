@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2011 SMTCA 1">
+  <num>2011 SMTCA 1</num>
+  <heading>William A. Doxtator vs. Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>2011-02-16</effective>
+    <citations>
+      <citation type="reporter" url="./2011 SMTCA 1.pdf">2011 SMTCA 1</citation>
+      <citation type="opinion" url="./AP-2010-FA-0006.pdf">Case No. AP-2010-FA-0006</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>William A. Doxtator</name>
+        <designation>Appellant</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Appellee</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="opinion">
+    <para>
+      <num>¶1</num>
+      <text>Appellate Court Judges presiding judges: Stanley R. Webster, Substitute Judge, Mary Adams and Winnifred Thomas, Oneida Tribal Judicial System.</text>
+    </para>
+    <para>
+      <num>¶2</num>
+      <text>On December 28, 2010, Appellant William A. Doxtator, represented by his attorney Gary S. Dodge, filed a Notice of Intent to Appeal, Motion to Waive Filing Fee, and Motion To Stay The Trial Court's Decision Pending The Final Outcome Of This Appeal, with the Clerk of Court pursuant to <cite doc="SMRP" path="§23|(C)" proof="needed">$23 (C) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite><fn path="|footnotes|1">1</fn>. Appellant's Notice of Intent to Appeal is in reference to the <cite doc="2010-FA-0006">trial Court decision dated December 14, 2010, in Case No. 2010-FA-0006, Stockbridge- Munsee Community vs. William A. Doxtator</cite>. The trial court found William A. Doxtator guilty (dog running at large) a violation of <cite doc="Old Stockbridge-Munsee Tribal Code" path="16.10|(A)|(1)">§16.10 (A) (1) of Chapter 16, Stockbridge-Munsee Tribal Law Public Peace and Good Order Ordinance</cite><fn path="|footnotes|2">2</fn>.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>On January 6, 2011, Appellee Stockbridge-Munsee Community represented by attorney Starlyn R. Tourtillot, a Response to Appellant's Appeal. Appellee filed a motion to deny Appellant's Request for Appeal, and deny Appellant's Motion to Stay the Trial Court's Decision Pending the Final Outcome of Appeal, and Affirm the trial court's decision.</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>On February 16, 2011, the Court of Appeals reviewed the Notice of Intent to Appeal. The Appellant's Notice of Intent acknowledges that: "the defendant, by his counsel, is mindful that pursuant to <cite doc="SMRP" path="§23|(J)" proof="needed">Rule 23(J) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite>, that he must submit a written statement of the grounds for his appeal within 20 days of filing his notice of appeal unless otherwise expedited by the court"<fn path="|footnotes|3">3</fn>. The Appellant has failed to submit a written statement asserting any of the principle grounds for appeal, that the trial court made a serious error of fact and or law or that the trial court abused its discretion, in accordance with <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(3)">§1.6 (L) (3) Chapter 1 Stockbridge-Munsee Tribal Law Tribal Court</cite><fn path="|footnotes|4">4</fn>. The 20 days timeframe lapsed in January 2011.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>The Appellant failed to assert any of the principle grounds for appeal within the timeframe, without stating the grounds for appeal this matter is vague.<fn path="|footnotes|5">5</fn> The appeal is hereby, denied.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Stanley R. Webster</text>
+    <text>Mary Adams</text>
+    <text>Winnifred Thomas</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text><cite doc="" path="§23|(C)" proof="needed"><strong>STOCKBRIDGE-MUNSEE TRIBAL COURT RULES OF PROCEDURE § 23 Appeals (C)</strong></cite> Written notice of appeal from a decision of the trial court must be filed within 20 days of the announcement of the decision in open court, or within 20 days of receiving notice of the decision.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text><strong><cite doc="Old Stockbridge-Munsee Tribal Code" path="16.10|(A)">CHAPTER 16.10 (A)</cite></strong> Except as otherwise provided, no person on the reservation may: (1) Allow any dog owned by that person to run at large on the Reservation.</text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text><cite doc="" path="§23|(J)" proof="needed"><strong>STOCKBRIDGE-MUNSEE TRIBAL COURT RULES OF PROCEDURE § 23 Appeals (J)</strong></cite> An appellant shall submit a written statement of the grounds for his or her appeal within twenty (20) days of filing the notice of appeal, unless the Court below or the appellate court shall deem an expedited appeal to be advisable and shall notify the appellant promptly of the reduced time limit.</text>
+    </footnote>
+    <footnote>
+      <num>4</num>
+      <text><strong><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">CHAPTER 1</cite> STOCKBRIDGE-MUNSEE TRIBAL LAW TRIBAL COURT CODE <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6">Section 1.6 </cite>The Court</strong> (L) (3) ...The principal grounds for appeal are that the Trial Court made a serious error of fact or law and/or there was an abuse of discretion.</text>
+    </footnote>
+    <footnote>
+      <num>5</num>
+      <text><strong><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">CHAPTER 1</cite> STOCKBRIDGE-MUNSEE TRIBAL LAW TRIBAL COURT CODE <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6.5">Section 1.6.5</cite></strong> Timeframes for Court Proceedings (C)(3) Denial of Appeal. In the event an appeal is denied, the Court of Appeals shall state the reasons for the denial in a written decision within 30 days of receipt of the Notice of Appeal or Petition for Interlocutory Appeal. Grounds for denial of an appeal include, but are not limited to, finding that the action is frivolous, late, moot, not final (other than for interlocutory appeals), vague, or no basis for appeal.</text>
+    </footnote>
+  </footnotes>
+</document>

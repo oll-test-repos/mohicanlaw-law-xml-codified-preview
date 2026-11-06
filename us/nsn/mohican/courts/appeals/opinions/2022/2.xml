@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2022 SMTCA 2">
+  <num>2022 SMTCA 2</num>
+  <heading>Joshua Owen Curry vs. Stockbridge-Munsee Community, et al.</heading>
+  <meta>
+    <effective>2022-10-24</effective>
+    <citations>
+      <citation type="reporter" url="./2022 SMTCA 2.pdf">2022 SMTCA 2</citation>
+      <citation type="opinion" url="./2022-AP-0001.pdf">Case No. 2022-AP-0001</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Joshua Owen Curry</name>
+        <designation>Petitioner/Appellant</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community, o/b/o Mohican North Star Gaming &amp; Resort</name>
+        <designation>Respondent/Appellee</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>Appellant sued the Stockbridge-Munsee Community, ("Community"), because Appellant was not interviewed for an "<em>I.T</em>." Supervisor's position at the Mohican North Star Gaming &amp; Resort casino, ("Casino"), an enterprise owned and operated by the Community. The Trial Court found that Appellant's application did not demonstrate that Appellant met the posted minimum requirements to warrant the Community interviewing Appellant for the open job position and therefore dismissed Appellant's lawsuit. This Court, after review, affirms the Trial Court.</text>
+  </para>
+  <container name="STANDARD OF REVIEW">
+    <heading>STANDARD OF REVIEW</heading>
+    <para>
+      <num>¶2</num>
+      <text>The standard of review for employment issue appeals is whether the lower court "made a serious material error of law." <cite doc="97-AA-0003" path="4"><u>Stockbridge-Munsee Community v. Vlasak</u>, Appeal No. 97-AA-0003 (S-M App. 8/20/1997), at page 4</cite>. This Court is an error-correction court, not a policy making body. <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.03.04|(a)|(1)">S-M TCT 03.04(a)(1)</cite>. The legislative role of government belongs to the Stockbridge-Munsee Tribal Council ― not this Court. <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.03.04|(a)|(3)">S-M TCT 03.04(a)(3)</cite>. Errors of law will receive <em><u>de novo</u></em> review, while factual findings and determinations by a trial court generally enjoy a more generous abuse of discretion review. <cite doc="Old Stockbridge-Munsee Tribal Code" path="|TCT.01.09|(g)|(4)">S-M TCT 01.09(g)(4)</cite> and <cite doc="2019 SMTCA 2" path="2">Adam Hoffman, et al. vs. Stockbridge-Munsee Human Resources Department, et al., 2019 SMTCA 2, April 03th, 2019.</cite></text>
+    </para>
+  </container>
+  <container name="RELEVANT FACTS">
+    <heading>RELEVANT FACTS</heading>
+    <para>
+      <num>¶3</num>
+      <text>On March 20, 2022, Joshua Owen Curry (Appellant) applied for an <em>I.T</em>.<fn path="|footnotes|1">1</fn> Manager job with the Mohican North Star Gaming &amp; Resort (Casino) owned by the Stockbridge-Munsee Community. Appellant possesses very impressive credentials, such as a Master's Degree in <em>I.T</em>. Management from Western Governors University that was earned in December, 2020.</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>The Casino's <em>I.T.</em> Manager job posting listed several very specific "minimum qualifications" that included, but not limited to, the following:<fn path="|footnotes|2">2</fn></text>
+      <include>
+        <text class="center">
+          <strong>
+            <em>Two (2) years of working supervisory experience is required.</em>
+          </strong>
+        </text>
+      </include>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>The lower court made factual findings that Appellant did not demonstrate in his application that he had experience in several mandated areas of the minimum qualifications required for the Casino's posted <em>I.T</em>. Manager position. One deficiency in Appellant's application was that Appellant lacks two (2) years of experience as an <em>I.T.</em> supervisor. This Court cannot, after reviewing the appellate record, hold that the Trial Court's factual findings were in error.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>During oral arguments, which were held on October 20, 2022, Appellant commendably admitted that he has not acted as a supervising manager in <em>I.T.</em> technologies for at least two (2) years ― but Appellant claimed other experience should offset this deficiency. This Court disagrees.</text>
+    </para>
+  </container>
+  <container name="ANALYSIS">
+    <heading>ANALYSIS</heading>
+    <para>
+      <num>¶7</num>
+      <text>It is undisputed that the <em>I.T</em>. Manager job description "required" at least two (2) years of supervisory work experience in the <em>I.T.</em> field for a job applicant to be hired as an <em>I.T.</em> Manager at the Casino. Appellant disputes the lower court's determination that he did not meet this minimum requirement to interview for the <em>I.T</em>. Manager job. The disputed issue is whether meeting a nondiscriminatory "minimum requirement" for this job is actually a condition-precedent to obtaining an interview for said job?</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>The Wisconsin Court of Appeals, which is not a binding judicial body to this Court,<fn path="|footnotes|3">3</fn> defines the term "required," in a statutory legal context, as something that "must be done." <cite doc="920 N.W.2d 340" path="347"><u>Sec. Health Plan of Wis. Inc. v. Am. Std. Ins. Co. of Wis.,</u> 920 N.W.2d 340, 347 (Wis. App. 2018)</cite>. One sister tribal appellate court addressed a similar issue to the one now before this Court in 2003. The Mohegan<fn path="|footnotes|4">4</fn> Gaming Disputes Court of Appeals defined "minimum qualifications" for a job as a "highly restrictive definition" declaring:</text>
+      <include>
+        <text>Minimum Qualifications means those job-related qualifications which are essential to the basic responsibilities for each employment position or contract, including any essential qualifications concerning education, training, and job related experience..'</text>
+      </include>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>
+        <cite doc="UNKNOWN"><u>Mohegan Tribal Gaming Authority v. Mohegan Tribal Empl. Rights Comm'n, </u>2003 Mohegan Gaming App. Lexis 1 (Mohegan Gaming Disputes App. 11/20/2003), at *14.</cite>
+      </text>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text>The Alaska Supreme Court, addressing similar employment minimum qualifications concerns to the case at hand, upheld a trial court's finding that a person who did not meet the "job posting" minimum qualifications for employment did not have standing to complain about the hiring process used to select a worker. <em><u>See,</u></em> <cite doc="175 P.3d 1275"><u>Villaflores v. Alaska State Comm'n for Human Rights,</u> 175 P.3d 1275, 1276-1278 (Alaska 2008)</cite>. <em><u>Accord,</u></em> <cite doc="2003 U.S. Dist. Lexis 537" path="19"><u>Montgomery v. Coca-Cola Enterprises,</u> 2003 U.S. Dist. Lexis 537 (N.D. Tex. 1/15/2003), at *19</cite>.</text>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>Remedy options for employment disputes in the Stockbridge-Munsee Community are limited by both ordinance and sovereign immunity. <em><u>See e.g.,</u></em> <cite doc="2019 SMTCA 2" path="3">Adam Hoffman, et al. vs. Stockbridge-Munsee Human Resources Department, et al., 2019 SMTCA 2, April 03th, 2019.</cite> and <cite doc="AP2008-AA-0003" path="2"><u>Dodge v. Stockbridge-Munsee Community</u>, Appeal No. AP2008-AA-0003 (S-M App. 5/14/2013), at page 2</cite>. Since the dispositive issue in this case can be decided before a discussion on remedies comes into play, a detailed discussion on potential employment remedies need not be addressed today.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>Other Native American nations have held that meeting minimum necessary job qualifications is a valid condition-precedent to employment. <em><u>See e.g.,</u></em> <cite doc="UNKNOWN"><u>Jones v. Mashantucket Pequot Tribal Nation</u>, 2014 Mashantucket App. Lexis 3 (Mash.-Pequot App. 6/11/2014), at *2</cite> and <cite doc="UNKNOWN"><u>Sandoval v. Navajo Election Admin.,</u> 2013 Navajo Sup. Lexis 4 (Navajo Sup. Ct. 2/26/2013), at *3 and *26</cite>. This same reading of a condition-precedent being mandatory, instead of discretionary, has been used in prior decisions of this Honorable Court related to subject matter jurisdiction. <cite doc="2021 SMTCA 3" path="2">Stockbridge-Munsee Community, et al. vs. Kamille Davids, 2021 SMTCA 3, July 26th, 2021.</cite> The Casino's posted <em>I.T.</em> Manager job description "r<strong><em><u>equired</u></em></strong>" the applicant to show that he or she had at least two (2) years of <em>I.T.</em> supervisory management experience. Appellant admits that he does not meet this condition-precedent to employment. A cardinal rule of statutory construction is to follow the legislative intent and avoid unreasonable or strained results when applying a statute. Singer, 2A <u>Sutherland Stat. Const.</u> (5<sup>th</sup> ed) § 45.12 (C/B/C 1992). So long as a posted job description is neither created, nor implemented, in a discriminatory manner, the employer, not the prospective employee, determines the necessary minimal required qualifications for a job. <em><u>See e.g.,</u></em> <cite doc="287 N.W.2d 853" path="2"><u>Oshkosh Library v. Oshkosh Library Clerical &amp; Maintenance Employees,</u> 287 N.W.2d 853 (table), 1979 Wisc. App. Lexis 3504 (Wis. App. 9/18/1979), at *2-*3</cite>; <cite doc="337 F.3d 1179" path="1191"><u>Davidson v. Am. Online, Inc.,</u> 337 F.3d 1179, 1191 (10<sup>th</sup> Cir. 2003)</cite>; <cite doc="UNKNOWN"><u>Wheelock v. Kriescher,</u> 2012 Oneida Trial Lexis 9 (Oneida App. Comm. 7/12/2012), at *20-*21</cite>; <cite doc="1990 Navajo Sup. Lexis 26"><u>and Ariz. Pub. Serv. Co. v. Office of Navajo Labor Rels.,</u> 1990 Navajo Sup. Lexis 26 (Navajo Sup. Ct. 10/8/1990), at *54</cite>. For either the Casino or the lower court to hold that a clearly stated employment experience prerequisite, which Appellant admits he does not possess, disqualifies Appellant from the <em>I.T.</em> Manager job is not unreasonable.</text>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>
+        <strong>
+          <em>The Trial Court is affirmed.</em>
+        </strong>
+      </text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Entered this 24th day of October, 2022</text>
+    <text>Gregory D. Smith, Justice</text>
+    <text>
+      <strong>
+        <em>Lochen, C.J. and Bichler, J. concur.</em>
+      </strong>
+    </text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>I.T. = Information Technology.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>Other shortcomings in Appellant's application were found by the lower court, but this quoted point fully resolves this appeal.</text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text><cite doc="2017-AA-001" path="3"><em><u>See, Miller v. Stockbridge-Munsee Community,</u></em> Appeal No. 2017-AA-001 (S-M App. 7/21/2021), at page 3, n.2</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>4</num>
+      <text>While name spellings between the Mohican and Mohegan are similar; they are two (2) separate tribes.<em><u>See,</u></em><u>http://www.native-languages.org/mohicans_words.htm.</u></text>
+    </footnote>
+  </footnotes>
+</document>

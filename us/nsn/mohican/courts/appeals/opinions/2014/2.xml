@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2014 SMTCA 2">
+  <num>2014 SMTCA 2</num>
+  <heading>Robert Miller III vs. Bart D.Schultz</heading>
+  <meta>
+    <effective>2014-04-24</effective>
+    <citations>
+      <citation type="reporter" url="./2014 SMTCA 2.pdf">2014 SMTCA 2</citation>
+      <citation type="opinion" url="./3-AP-2013-CV-0002.pdf">Case No. 3-AP-2013-CV-0002</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Robert Miller III</name>
+        <designation>Appellant-Defendant</designation>
+      </party>
+      <party>
+        <name>Bart D.Schultz</name>
+        <designation>Appellee, Plaintiff</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="INTRODUCTION">
+    <heading>INTRODUCTION</heading>
+    <para>
+      <num>¶1</num>
+      <text>This case arises out of a simple promissory note given by Appellant, Mr. Miller (hereafter Miller) to Appellee, Mr. Schultz (hereafter Schultz), in the amount of $30,000. It has turned into a convoluted and winding procedural maze. For the reasons below we affirm the Trial Court's grant of summary judgment in favor of Mr. Schultz.</text>
+    </para>
+  </container>
+  <container name="STATEMENT OF THE CASE">
+    <heading>STATEMENT OF THE CASE</heading>
+    <para>
+      <num>¶2</num>
+      <text>The material facts are not in dispute. On or about August 31, 2007, Miller and Schultz executed the Note under which Schultz agreed to lend Miller $30,000 and Miller agreed to pay it back over the next several years by paying monthly installments of $525. Miller paid on the note from October 2007 to March 2010. The balance remaining at that time was nearly $19,000. Schultz attempted to collect by first dealing directly with Miller. Those efforts were unsuccessful. Schultz then sued Miller for the balance due in Brown County Circuit Court. In June of 2011, Schultz obtained a default judgment in the amount of $18,888.26 plus costs and interest.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>On or about October 5, 2012, Schultz initiated a garnishment action in the Stockbridge-Munsee Tribal Trial Court under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.05">Chapter 17 of the Tribe's ordinance</cite>. A hearing was eventually held on Schultz's filing and a default order of garnishment was entered on or about January 4, 2013. Miller moved to re-open the judgment based on improper service and on <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.05.23">Sec. 17.23 of the Tribe's ordinance</cite> which requires that any foreign judgment must be filed within one year from its date of issuance. The garnishment was in place a short time but then on or about February 7, 2013, the Trial Court vacated the earlier garnishment order.</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>Schultz states that at the hearing on Miller's re-opening the Trial Court gave Schultz a choice: leave the garnishment in place as it was originally a default order or re-file a new action in Stockbridge-Munsee Tribal Court, Schultz chose the latter and the garnishment action was dismissed.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>On or about March 7, 2013, Schultz filed a new action seeking a judgment against Miller on the unpaid balance of the promissory note plus interests and costs, then alleged to be $22,981.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>Schultz served requests for admissions on Miller's attorney. Those requests were never answered. <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.06" proof="needed">Sec. 1.6,5(B)(4)</cite> requires that discovery requests be answered within 25 days. That sections reads: "A party shall respond to discovery requests within 25 days of the date of receiving the request. This time frame shall apply to either a discovery response or a motion in opposition." The state and federal rules of procedure support Schultz's assertion that unanswered requests for admission mean the matter at issue is deemed admitted. <cite doc="Wis. Stat." path="§804.11|(1)|(b)">Wis. Stat. § 804.11(1)(b)</cite>; <cite doc="F.R.C.P." path="36" proof="needed">Fed. R. Civ. P. 36</cite>.</text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>On or about July 10, 2013, based in large part on Miller's failure to respond to the Requests for Admission, Schultz filed a Motion for Summary Judgment. It does not appear that Miller directly responded to the Summary Judgment but he did file a Motion to Dismiss on August 15, 2013.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>After a series of other procedural issues, Judge Mary Adams was assigned pro tem to hear the matter. She held a Pre-Trial Conference on October 10, 2013 and eventually granted Schultz's Motion for Summary Judgment. That ruling is now before us in this appeal.</text>
+    </para>
+  </container>
+  <container name="DISCUSSION">
+    <heading>DISCUSSION</heading>
+    <para>
+      <num>¶9</num>
+      <text>Miller, through counsel, raises several objections to the Trial Court's decision to grant summary judgment in favor of Schultz. We address each in turn.</text>
+    </para>
+    <container name="Jurisdiction">
+      <heading>Jurisdiction</heading>
+      <para>
+        <num>¶10</num>
+        <text>Miller's leading argument is that the Trial Court does not have jurisdiction because all of the events which are the subject of the case occurred in Brown County, Wisconsin, off the Stockbridge-Munsee Reservation. We are not persuaded by this argument. The Stockbridge-Munsee Tribal Court jurisdictional statement is very broad:</text>
+        <include>
+          <text>The Stockbridge-Munsee Tribal Court shall exercise jurisdiction over all matters within the power and authority of the Stockbridge-Munsee Community including controversies arising out of the Constitution of the Stockbridge-Munsee Community; laws, statutes, ordinances, resolutions and codes enacted by the Stockbridge-Munsee Tribal Council; and such other matters arising under enactments of the Tribal Council or the customs and traditions of the Stockbridge-Munsee Community. This jurisdiction extends over the Stockbridge-Munsee Community and its territory, persons who enter its territory, its members, and persons who interact with the Tribe or its members wherever found.</text>
+        </include>
+      </para>
+      <para>
+        <num>¶11</num>
+        <text>
+          <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.02|(a)">Sec. 1.2(A), SM Ord.</cite>
+        </text>
+      </para>
+      <para>
+        <num>¶12</num>
+        <text>In addition, the Rule of Procedure Mission statement includes this statement:</text>
+        <include>
+          <text>The Stockbridge-Munsee Tribal Court pledges to preserve the sovereignty of the Mohican Nation and to maintain the peace and unity of its people through the administration of justice. The Court endeavors to be the 'cornerstone of the existence of the Mohican Nation.'</text>
+        </include>
+      </para>
+      <para>
+        <num>¶13</num>
+        <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§17.2|(0)">Section 17.2(0)</cite> defines the Reservation to mean "the exterior boundaries of the Stockbridge-Munsee Reservation as defined by the Treaty of 1856."</text>
+      </para>
+      <para>
+        <num>¶14</num>
+        <text>Although <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.05">Chapter 17</cite> contains another more limiting jurisdictional statement, we believe the best policy for tribal court is to read jurisdiction as being broad, where possible, without unduly hurting the Tribe's sovereignty or the role of the legislature. It is clear from <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.02|(a)">Sec. 1.2(A)</cite> that the jurisdiction of the Tribal Court is very broad and that it has been established and functions as a court of general jurisdiction.<fn path="|footnotes|1">1</fn></text>
+      </para>
+      <para>
+        <num>¶15</num>
+        <text>As far as personal jurisdiction, Miller is a tribal member and thus the Tribe's jurisdiction over him is unquestioned. Schultz voluntarily submitted himself to the jurisdiction of the Court.</text>
+      </para>
+    </container>
+    <container name="Due process">
+      <heading>Due process</heading>
+      <para>
+        <num>¶16</num>
+        <text>Miller next argues that Judge Adams' October 10, 2013 hearing was an "impromptu trial" of which Miller did not have notice. This argument is not supported by what actually happened. The hearing notice announced the court date as a pre-trial conference. A review of the transcript shows that Judge Adams conducted the hearing appropriately. A Motion for Summary Judgment had been pending for three months by the time of the hearing. The Trial Court's decision specifically states that it is granting summary judgment; it is not a decision after a contested trial.</text>
+      </para>
+      <para>
+        <num>¶17</num>
+        <text>We view the questioning allowed by the Trial Court as a way to make up for Miller's lack of responsive to the discovery. Section 11 of the Stockbridge-Munsee Rules of Civil Procedure permits a party to file pre-trial motions and for the Court to hear argument and make a decision at any time before trial. Considering the October 10, 2013 hearing was noticed as pre-trial conference, it seems fair that Judge Adam's would take the opportunity to hear from the parties including questioning of one party under oath.</text>
+      </para>
+    </container>
+    <container name="Statute of limitations">
+      <heading>Statute of limitations</heading>
+      <para>
+        <num>¶18</num>
+        <text>Miller argues that because the garnishment action was dismissed, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.05.23">Sec. 17.23 </cite>also bars this action. <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.05.23">Sec. 17.23 </cite>is inapplicable to the current action because Schultz is not seeking recognition of a foreign order. Rather he has sued anew based on the failure of Miller to follow through with the payments under the 2007 promissory note. At most, the current action would be subject to the three year statute of limitations under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.36">Sec. 1.36</cite>. It appears possible three years may have elapsed as Miller stopped paying March 2010, the date on which the right of action began accruing. This action was filed on March 7, 2013. However, without specific dates before us we cannot say the three-year limitation was exceeded. In any event, reliance on <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.36">Sec. 1.36 </cite>was waived by Miller as it was not raised in the trial court.</text>
+      </para>
+      <para>
+        <num>¶19</num>
+        <text>Furthermore, the issue of a new garnishment hearing and the effect of <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.05.23">Sec. 17.23 </cite>on future garnishment actions are not before us and we are not deciding those issues.</text>
+      </para>
+    </container>
+    <container name="Grant of summary judgment">
+      <heading>Grant of summary judgment</heading>
+      <para>
+        <num>¶20</num>
+        <text>The Trial Court's grant of summary judgment was appropriate. The material facts were not in dispute. Miller did not answer the requests for admission. Under federal and state discovery rules, a request for admission not answered is considered admitted. Although Stockbridge-Munsee law does not contain an analogous section, what other purpose can there be to the 25-day limit set for response? Requests for Admission would be meaningless if a failure to respond did not have consequences of admission. Therefore, we adopt the state and federal practice and consider those matters not answered as admitted. See <cite doc="Wis. Stat." path="§804.11|(1)|(b)">Wis. Stat. § 804.11(1)(b)</cite>; <cite doc="F.R.C.P." path="36" proof="needed">Fed. R. Civ. P. 36</cite>. The Tribal Court through rulemaking or the Tribal Council through legislation can change these rules if our interpretation is incorrect.</text>
+      </para>
+      <para>
+        <num>¶21</num>
+        <text>Schultz provided supporting documents to justify his actions. This was done timely and completely. Miller failed to respond to the Requests for Admission, did not appear in court twice and did not show the Court why he should not pay his debt in full.</text>
+      </para>
+    </container>
+  </container>
+  <container name="CONCLUSION">
+    <heading>CONCLUSION</heading>
+    <para>
+      <num>¶22</num>
+      <text>The Trial Court decision and judgment are affirmed.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Dated this April 15th, 2014</text>
+    <text>
+      <strong>BY THE COURT:</strong>
+    </text>
+    <text>Honorable Judge Alton "Sonny" Smart</text>
+    <text>
+      <strong>Stockbridge-Munsee Tribal Court</strong>
+    </text>
+    <text>Honorable Judge Jean M. Webster</text>
+    <text>
+      <strong>Stockbridge-Munsee Tribal Court</strong>
+    </text>
+    <text>Honorable Judge Jeryl L. Perenich</text>
+    <text>
+      <strong>Stockbridge-Munsee Tribal Court</strong>
+    </text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Although res Judicata concerns are arguably present, they were not raised or argued by Miller at the trial court and therefore are considered waived. Furthermore, we rule that Schultz shall not be permitted to recover twice even though he now has a state court and tribal court judgment. Payments made by Miller will be in satisfaction of both judgments.</text>
+    </footnote>
+  </footnotes>
+</document>

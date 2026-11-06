@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2016 SMTCA 3">
+  <num>2016 SMTCA 3</num>
+  <heading>Wayne B. Ahlers vs. Stockbridge Munsee Community (September 30, 2016)</heading>
+  <meta>
+    <effective>2016-09-30</effective>
+    <citations>
+      <citation type="reporter" url="./2016 SMTCA 3.pdf">2016 SMTCA 3</citation>
+      <citation type="opinion" url="./2016-AP-2016-AA-001.pdf">Case No. 2016-AP-2016-AA-001</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Wayne B. Ahlers</name>
+        <designation>Petitioner/Appellee</designation>
+      </party>
+      <party>
+        <name>Stockbridge Munsee Community</name>
+        <designation>Respondent/Appellant</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Diane House and Eugene Whitefish, and Chief Judge Marianne Higgins presiding.</text>
+  </para>
+  <container name="INTRODUCTION">
+    <heading>INTRODUCTION</heading>
+    <para>
+      <num>¶2</num>
+      <text>The Stockbridge-Munsee Community (hereinafter "Respondent") petitioned this Court for an interlocutory appeal following the Trial Court's remand mandating casino management to complete an investigation into Ahlers' termination, and suspending a decision on Respondent's Motion to Dismiss pending the outcome of this investigation. We agree with the Tribal Court and find Ahlers has alleged sufficient facts to meet the statutory requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)">§53.5(A)</cite> of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the Stockbridge-Munsee Employee Rights Ordinance</cite>. We also find that a harassment suit is barred in this instance under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.04|(d)">Section §53.35(D)</cite>. As a result, the interlocutory appeal of Respondent's motion to dismiss alleging 1) failure to state a claim upon which relief can be granted is <em>denied in part;</em> and 2) immunity from suit based upon the doctrine of sovereign immunity <em>is granted in part.</em></text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>In accordance with the Mohican North Star Casino Employee Handbook's grievance process, the failure of management to respond to the grievance within the required time frame mandates that the corrective action or termination be invalidated. As a result, the decision to remand this matter back for an investigation is an error and is <em>reversed</em>.</text>
+    </para>
+  </container>
+  <container name="JURISDICTION">
+    <heading>JURISDICTION</heading>
+    <para>
+      <num>¶4</num>
+      <text>The court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)" proof="needed">§1.6 (L)</cite> and <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(3)" proof="needed">(L) (3) of the Stockbridge-Munsee Tribal Court Code</cite> which gives the Court of Appeals the jurisdiction to hear appeals from the Trial Tribal Court and interlocutory appeals of issues that do not terminate the litigation, but are sufficiently important and collateral to the merits of the litigation as to be treated as final and appealable, including sovereign immunity.</text>
+    </para>
+  </container>
+  <container name="BACKGROUND OF CASE">
+    <heading>BACKGROUND OF CASE</heading>
+    <para>
+      <num>¶5</num>
+      <text>On December 14, 2015, Wayne B. Ahlers (hereinafter "Ahlers") submitted a North Star Mohican Casino Resort Grievance Review Form to HRD and casino management, with said filing intended to commence the grievance process for appealing his recent termination from the slot department. Receiving no response from management within the required timeframe, Ahlers filed the appeal of his suspension pending termination/termination with the Tribal Court on January 11, 2016. On February 1, 2016, Respondent filed a motion to dismiss, presenting arguments on both sovereign immunity and failure to state a claim upon which relief can be granted as reasons to dismiss Ahlers' appeal. On May 6, 2016, after hearing oral arguments from both parties, the Tribal Court Judge issued an order which remanded this case back to the Mohican North Star Casino management to conduct an investigation into the December 14, 2015 grievance filed by Ahlers. This order also suspended any decision on Respondent's motion to dismiss pending the results of the investigation. On June 7, 2016, the Respondent filed a petition for an interlocutory appeal of Judge Coury's order, alleging an error of fact and law in her decision to 1) allow this appeal to move forward, and 2) suspend a decision on the motion to dismiss pending the outcome of an investigation to be completed by casino management.</text>
+    </para>
+  </container>
+  <container name="ISSUES PRESENTED">
+    <heading>ISSUES PRESENTED</heading>
+    <para>
+      <num>¶6</num>
+      <text>Did Ahlers plead sufficient facts to meet the statutory requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07">§53.5 </cite>of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the Stockbridge-Munsee Employee Rights Ordinance</cite>?</text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text>Did the Tribal Court err when it remanded this matter to back to management to complete an investigation into Ahlers' grievance?</text>
+    </para>
+  </container>
+  <container name="ANALYSIS">
+    <heading>ANALYSIS</heading>
+    <para>
+      <num>¶8</num>
+      <text>The threshold issue that is presented to this Court is whether Ahlers plead sufficient facts to meet the statutory requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)">§53.5(A)</cite> of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the Stockbridge-Munsee Employee Rights Ordinance</cite>. As this is question of law that involves the whether a complaint meets the statutory requirement in an existing law or statute, this Court will review this matter de novo (<cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(5)">Stockbridge-Munsee Tribal Court Code, Section 1.6 (5)</cite>). This standard of review allows the Appeals Court to review this matter with no deference to the Trial Court's holding in order to determine whether the lower court or in this case, the Tribal Court, acted correctly.</text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>Respondent filed a motion to dismiss arguing in one instance that Ahlers' petition for relief should be dismissed as it failed to state a claim upon which relief can be granted. Respondent cites <cite doc="IAP15-2014-AA-004"><em><u>Nunez v. Stockbridge-Munsee Community</u></em></cite> as controlling in this instance as it lays out the statutory requirement of what must be plead in order to survive a motion to dismiss for failure to state a claim upon which relief can be granted <cite doc="IAP15-2014-AA-004">(Case No. IAP15-2014-AA-004)</cite>. Respondent further argues that Ahlers also failed to meet the <em><u>Davids</u></em> test, and as a result, Respondent's motion to dismiss should have been granted by the Tribal Court. We disagree.</text>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text>One of the issue presented involves the interpretation of what is required to successfully plead that a termination from employment without just cause occurred under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3 (M) of the Stockbridge-Munsee Employee Rights Ordinance</cite>. As tribal law is silent, <cite doc="98-AA-013"><em><u>Sheldon R. Davids' v.</u></em><em><u>Mohican North Star Casino, et al.</u></em><u>,</u> (Case No. 98-AA-013, May 3, 1999)</cite>, provides the framework from substantive law of what constitutes termination for just cause. Pursuant to <em><u>Davids</u></em>, when determining whether "just cause" for termination exists, the Court must determine whether "the decision to terminate [was] fair, impartial and consistent with the procedural rules set forth by the employer" <cite doc="98-AA-013" path="4"><em>Id. </em>at 4</cite>.</text>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>In this instance, the Tribal Court applied the holdings articulated in <em><u>Nunez</u></em> and <em><u>Davids</u></em>, and found that Ahlers met his burden of persuasion when he alleged facts, sufficient to show that casino management, by not conducting an investigation into his grievance filed on December 14, 2015, failed to follow existing procedures. When Ahlers was terminated with no investigation into his grievance, the Tribal Court determined that this was "effectively, a discharge without just cause" because there exists an administrative policy that invalidates any corrective action taken if timelines are not adhered to (Tribal Court Order, Pg. 5). We agree with the Tribal Court in its assessment that Ahlers met his burden of persuasion in pleading that a termination from employment without just cause occurred under §<cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">53.3 (M) of the Stockbridge-Munsee Employee Rights Ordinance</cite>.</text>
+    </para>
+    <para>
+      <num>¶12</num>
+      <text>As articulated in Nunez, Court Procedures <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)|(3)">Section §53.5(A)(3) of the Stockbridge-Munsee Employee Rights Ordinance</cite> also require that a petition for relief include "a brief description of the facts and events that gave rise to the alleged violation, including the names of potential witnesses and the name of the petitioner's supervisor, if applicable." The Tribal Court found that Ahlers set forth enough facts to allege a specific violation of the following section of the Mohican North Star Casino Employee Handbook's grievance process:</text>
+      <include>
+        <text>"If a supervisor at any level does not respond to the grievance within the required time frame and the triggering event was a corrective action, that corrective action should be invalidated."</text>
+      </include>
+    </para>
+    <para>
+      <num>¶13</num>
+      <text>The Tribal Court found this failure to investigate or act as "inherently unfair and an abuse of discretionary authority by an administrative agency" (see Tribal Court Order, p. 5). By finding that Ahlers set forth facts sufficient enough to allege the decision to terminate Ahlers was partial, biased, and inconsistent with existing policies, the Tribal Court determined that Ahlers' cause of action must stand. We agree with the Tribal Court in its determination of the sufficiency of Ahlers' pleadings in this aspect. As a result of this finding, the motion to dismiss for failure to state a claim upon which relief can be granted is denied.</text>
+    </para>
+    <para>
+      <num>¶14</num>
+      <text>In the alternative, Respondent also presents an argument that Ahlers' claim of harassment under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.04|(d)">Section §53.35(D)</cite>, is barred from proceeding as the tribe is immune from suit due to its inherent sovereign immunity. We agree with Respondent's arguments on this issue that a harassment suit is barred in this instance under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.04|(d)">Section §53.35(D)</cite>. However, framing this appeal solely as a harassment action, and not an appeal of termination action is unpersuasive. Although Ahlers alleges a violation of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.04|(d)">§53.35 (D)</cite> by management, Ahlers appears only to bring forward harassment as an affirmative defense in his grievance filed on December 14, 2015. To support, Ahlers makes allegations of selective enforcement of rules by management as support for his claim of being treated unfairly or singled out for corrective action. Based upon what was presented in the filings and at the hearing, the Tribal Court correctly determined that this is an appeal of a termination from employment action. However, the Tribal Court did not address Respondent's claim of harassment which is barred under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.04|(d)">Section §53.35 (D)</cite>. Furthermore, the Tribal Court found Ahlers has alleged sufficient facts to meet the statutory requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(a)">§53.5 (A)</cite> of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the Stockbridge-Munsee Employee Rights Ordinance</cite>.</text>
+    </para>
+    <para>
+      <num>¶15</num>
+      <text>We agree with the Tribal Court in its determination of the sufficiency of Ahlers' pleadings in this aspect. As a result, Ahlers appeal of his termination to the Tribal Court is appropriate. In addition, the laws regarding the waiver of Respondent's sovereign immunity for a harassment claim under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(d)">§53.5 (D)</cite> do not apply to Ahlers' claim of wrongful termination in this instance.<fn path="|footnotes|1">1</fn> As a result of these findings, the Respondent's motion to dismiss the harassment claim based upon sovereign immunity is granted in part; and the Respondent's motion to dismiss for failure to state a claim upon which relief can be granted is denied in part.</text>
+    </para>
+    <para>
+      <num>¶16</num>
+      <text>Did the Tribal Court err when it remanded this matter to back to management to complete an investigation into Ahlers' grievance?</text>
+    </para>
+    <para>
+      <num>¶17</num>
+      <text>Another issue presented to this Court is whether the Tribal Court erred when it suspended a decision on Respondent's motion to dismiss pending the outcome of a court-directed investigation. After the complaint was allowed to move forward, the Tribal Court ordered that the case be remanded back to Casino management in order to conduct an investigation into the December 14, 2015 grievance filed by Ahlers. When the Tribal Court judge directed an investigation into the grievance filed by Ahlers, this was an act of judicial discretion. As a result, one of the questions on appeal is whether the trial judge committed legal error in exercising her discretion with the action taken in this instance.</text>
+    </para>
+    <para>
+      <num>¶18</num>
+      <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(5)">Stockbridge-Munsee Tribal Law §1.6(L) (5)</cite> states that judicial rulings in discretionary matters are reviewed on the basis of whether there was an abuse of discretion. We look for guidance in determining how to review judicial rulings in discretionary matters. In <cite doc="518 U.S. 81"><em>Koon v. United States,</em></cite> the Supreme Court determined that a district or lower court by "definition abuses its discretion when it makes an error of law". <cite doc="518 U.S. 81" path="100">518 U.S. 81, 100 (1996)</cite>. This leaves the Court with the understanding that the failure to apply the law correctly in reaching a decision is an abuse of discretion. Based upon this standard of review, we essentially review for legal error under a de novo standard. This means we independently determine whether the correct standard of law was applied, but uphold the trial court's findings of fact unless they are clearly erroneous (<cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(5)">Stockbridge-Munsee Tribal Law §1.6(L) (5)</cite>).</text>
+    </para>
+    <para>
+      <num>¶19</num>
+      <text>The Tribal Court made certain undisputed findings. It is undisputed that Ahlers filed a grievance with casino management on December 14, 2015. It is also undisputed that casino management failed to provide any response to Ahlers' grievance in the required time frame. The Tribal Court was correct when it determined that the failure of management to respond in the required time frame "goes against the SM Community's own written policy of invalidating a corrective action, Ahlers' discharge, when no one responded to his December 2015 grievance" (Tribal Court Order, pg. 6). The Tribal Court also determined that by filing his grievance with casino management, Ahlers attempted to exhaust all administrative remedies, but was hindered by management by their non-compliance in following procedure. With his December 14, 2015 filing, Ahlers had a right to have his grievance reviewed, but was denied this right by a failure in the administrative process. As a matter of law, this non-compliance, or the failure to respond to the grievance within the required time frame, mandates that the corrective action be invalidated in accordance with the following section of the Mohican North Star Casino Employee Handbook's grievance process:</text>
+      <include>
+        <text>"If a supervisor at any level does not respond to the grievance within the required time frame and the triggering event was a corrective action, <strong>that corrective action should be invalidated.</strong>" (emphasis added).</text>
+      </include>
+    </para>
+    <para>
+      <num>¶20</num>
+      <text>Because of this finding of a clear violation of policy by casino management, it was an error to remand this matter back through the administrative process as the administrative process was already exhausted. It would also be unfair to require Ahlers to go through an administrative process that had already failed to provide him his due process on his grievance. It is time to make Ahlers whole. As a result, due to the violation of policy, there should be a just remedy made available to Ahlers.</text>
+    </para>
+  </container>
+  <container name="ORDER">
+    <heading>ORDER</heading>
+    <para>
+      <num>¶21</num>
+      <text>We conclude that the Tribal Court applied the correct legal standard when it determined that Ahlers plead sufficient facts to meet the statutory requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.03|(m)">§53.3(M)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07">§53.5 </cite>of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the Stockbridge-Munsee Employee Rights Ordinance</cite>. We also find that a harassment suit is barred in this instance under <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.04|(d)">Section §53.35(D)</cite>. As a result, the interlocutory appeal of Respondent's motion to dismiss alleging 1) failure to state a claim upon which relief can be granted is denied in part; and 2) the doctrine of sovereign immunity is granted in part.</text>
+    </para>
+    <para>
+      <num>¶22</num>
+      <text>As a matter of law, the failure to respond to the grievance within the required time frame mandates that the corrective action or termination be invalidated. As a result, the decision to remand this matter back for an investigation is an error and must be reversed. In accordance with the remedies provided for in <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(f)">Chapter 53.5(F) of the Stockbridge-Munsee Employee Rights Ordinance</cite>, this Court hereby orders the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The termination of Ahlers is to be invalidated and removed from his employment record;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ahlers is to be reinstated to his former position as a Slot Attendant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ahlers is to be awarded back pay from the date of his termination until the date of his reinstatement; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Ahlers is to be provided the PTO that would have been accrued during the time period between his termination and reinstatement.</text>
+      </para>
+    </para>
+  </container>
+  <procedural-data>
+    <text>IT IS SO ORDERED.</text>
+    <text>Dated this 30<sup>th</sup> day of September, 2016</text>
+    <text>
+      <strong>BY THE COURT OF APPEALS:</strong>
+    </text>
+    <text>Diana House, Lead Appellate Court Judge Pro Tempore</text>
+    <text>Eugene Whitefish, Appellate Court Judge Pro Tempore</text>
+    <text>Marianne Higgins, Chief Appellate Court Judge</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Because Ahlers is successful in his <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.5|(A)">§53.5 (A)</cite> claim, this issue of sovereign immunity of the tribe is only addressed in part with regard to his claim of harassment.</text>
+    </footnote>
+  </footnotes>
+</document>

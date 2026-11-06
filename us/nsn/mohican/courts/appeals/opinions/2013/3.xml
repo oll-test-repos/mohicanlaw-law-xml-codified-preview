@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2013 SMTCA 3">
+  <num>2013 SMTCA 3</num>
+  <heading>Kylee Dodge vs. Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>2013-05-14</effective>
+    <citations>
+      <citation type="reporter" url="./2013 SMTCA 3.pdf">2013 SMTCA 3</citation>
+      <citation type="opinion" url="./AP-2008-AA-0003.pdf">Case No. AP-2008-AA-0003</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Kylee Dodge</name>
+        <designation>Plaintiff-Appellee</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Respondent-Appellant</designation>
+      </party>
+    </parties>
+  </meta>
+  <para>
+    <num>¶1</num>
+    <text>Presiding Stockbridge-Munsee Court of Appeals (hereafter Appellate Court) Judges include the Honorable Richard L. Ackley, Panel Chair of the Bad River Tribal Court, the Honorable James Mohr of Lac Courte Oreilles Tribal Court and the Honorable Candace Des Armo Coury. The Appellate Court judges met in telephonic conference on February 22, 2013.</text>
+  </para>
+  <container name="JURISDICTION">
+    <heading>JURISDICTION</heading>
+    <para>
+      <num>¶2</num>
+      <text>Under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(3)">TRIBAL COURT CODE §1.6 (L) (3)</cite>, the principal grounds for appeal are that the Tribal Trial Court made a serious error of fact or law and/or there was an abuse of discretion. This Appellate Court finds that a serious error of law occurred. More specifically, the Trial Court held in its Order Clarifying Issue of Paid Time Off (PTO) "... the Petitioner is entitled to an accumulation of the PTO that would have been earned, during the period of termination, up to, but not to exceed, 320 hours. If the Petitioner forfeited PTO hours because they exceeded 320 and because he was unable to use them during the period of termination, then the Petitioner is entitled to be paid only for those forfeited hours. In addition, if the Petitioner was not paid, upon separation, for the PTO hours earned up to the point of termination, he must be paid for those hours also."<fn path="|footnotes|1">1</fn> We disagree and reverse.</text>
+    </para>
+  </container>
+  <container name="QUESTION PRESENTED">
+    <heading>QUESTION PRESENTED</heading>
+    <para>
+      <num>¶3</num>
+      <text>The question before the Court of Appeals is whether or not the award of PTO is authorized by the Stockbridge-Munsee Code of Law or does such an award exceed the scope of remedies authorized by tribal law?</text>
+    </para>
+  </container>
+  <container name="BACKGROUND">
+    <heading>BACKGROUND</heading>
+    <para>
+      <num>¶4</num>
+      <text>The Plaintiff-Appellee was terminated from employment as a Computer Support Specialist in February 2008. The Trial Court issued its initial ruling in May 2012 and subsequently issued an Order of Reinstatement in August 2012. In so doing, the Court authorized "(1) Back pay not to exceed one (1) year's wages... (2) Reinstatement...."<fn path="|footnotes|2">2</fn> In November 2012, the Stockbridge-Munsee Community (hereafter S-M Community) filed a timely notice of appeal explicitly related to the "monetary remedies"<fn path="|footnotes|3">3</fn> resulting from the Court's November 2016 Order Clarifying Issue of Paid Time Off (PTO). It argues that "The trial court's order would result in the payment of approximately $23,000 for forfeited PTO time along with awarding a bank of 320 hours of PTO…."<fn path="|footnotes|4">4</fn> In contradiction to the Stockbridge-Munsee Code of Law as outlined in <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(f)">§53.5 (F)</cite> which "limits the scope of remedies…."<fn path="|footnotes|5">5</fn></text>
+    </para>
+  </container>
+  <container name="ANALYSIS">
+    <heading>ANALYSIS</heading>
+    <para>
+      <num>¶5</num>
+      <text>Plaintiff-Appellee sought relief from the S-M Tribal Court when his employment as a Computer Support Specialist with the S-M Community was terminated back in 2008. Finally in 2012, the Tribal Trial Court determined that the S-M Community wrongfully discharged Plaintiff-Appellee. In accordance with the <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Employee Rights Ordinance at Chapter 53</cite>, the Court ordered certain remedies and issued written clarification of its Order based upon requests from the Plaintiff-Appellee. Pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(f)|(1)">§53.5 (F) (1-2)</cite>, the Plaintiff-Appellee was paid one year retroactive pay and he was reinstated to his previous position as a Computer Support Specialist. The third and final remedy that is permitted according to the Stockbridge-Munsee Code of Law is enumerated at <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.5|(F)(3)">§53.5 (F) (3)</cite> which states that the Court may order "Any other non-monetary remedy which is narrowly tailored to remedy the violation." Simply stated, one must ask then whether or not an additional payment for unused "PTO" and the banking of three hundred twenty (320) PTO hours is a monetary or a non-monetary benefit.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text><cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53</cite> is limited to three remedies that may be ordered by the Court, if the Court has credible evidence that an employee was terminated without just cause, In the instant case, there is no question as to whether the Court properly ordered two of the three remedies. Clearly, the Court properly granted the payment of one-year of wages in back pay, as well as ordering the Plaintiff-Appellee's reinstatement. The primary question is whether the Court can under tribal law order the S-M Community to reinstate paid time off (PTO) and calculate a dollar amount that should be paid to the Plaintiff-Appellee because of the S-M Community's action involving the wrongful discharge? To that, this Appellate Court emphatically answers that the Court may not issue an Order that requires the S-M Community to extend a remedy that is outside its tribal law.</text>
+    </para>
+    <para>
+      <num>¶7</num>
+      <text><cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(f)|(3)">Section 53.5 (F) (3)</cite> does not specifically address "paid time off," which is more commonly referred to as PTO. This Appellate Court, however, has considered the question of whether or not three hundred and twenty (320) hours has a monetary benefit. On review, this Appellate Court finds that when the Court granted the bank of 320 PTO hours, that it did effectively issue an Order that includes a monetary benefit which is contrary to <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(f)|(3)">§53.5 (F) (3)</cite>. The Tribal Trial Court did exceed its authority when it issued the Order to bank the PTO hours for the Plaintiff-Appellee, over and above the additional financial payment of approximately twenty-three thousand dollars ($23,000.00) for unused and or forfeited PTO, which clearly is a monetary benefit that exceeds the retroactive payment of one year's back pay as outlined in <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.07|(f)|(1)">§53.5(F) (1)</cite>. The payment of $23,000 and a bank of 320 PTO hours is an additional financial burden to the tribe; and it is not permitted under the tribal code.</text>
+    </para>
+  </container>
+  <container name="CONCLUSION">
+    <heading>CONCLUSION</heading>
+    <para>
+      <num>¶8</num>
+      <text>The Appellate Court finds that any such additional payment (the estimate of $23,000.00 for unused or forfeited PTO) or the banking of PTO hours is a violation of tribal law. The Court does not have the authority to decide what the appropriate remedy/ies will be in cases of unjust termination or wrongful discharge, except in the area of a non-monetary nature. Rather, the issue of appropriate remedies is a matter that is rightfully under the direction of the Stockbridge-Munsee Tribal Council, as the legislative body of the S-M Community. The Tribal Council made the decision to limit the remedies to include: one year back pay, reinstatement and "any other non-monetary remedy which is narrowly tailored to remedy the violation."<fn path="|footnotes|6">6</fn></text>
+    </para>
+  </container>
+  <container name="ORDER">
+    <heading>ORDER</heading>
+    <para>
+      <num>¶9</num>
+      <text>The advancement of money for unused or forfeited FTO and a bank of 320 PTO hours does represent a monetary benefit, and the Court is not authorized by law to issue such a remedy. We hold that the S-M Tribal Trial Court made a serious error of law, and consequently, this Appellate Court reverses the November 16, 2012 decision.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>IT IS SO ORDERED. Dated this 14th day of May, 2013.</text>
+    <text>BY THE COURT:</text>
+    <text>Honorable Richard L. Ackley, Panel Chair</text>
+    <text>Honorable James Mohr, Judge Pro Tempore</text>
+    <text>Honorable Candace Des Armo Coury</text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>See <cite doc="2008-AA-0003" path="4">Dodge v. Stockbridge-Munsee Community, 2008 AA 0003, Order Clarifying Issue of Paid Time Off (PTO) at page 4 (November 16, 2012)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>
+        <cite doc="2008-AA-0003" path="1">Id, pages 1-2.</cite>
+      </text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text>See <cite doc="2008-AA-0003" path="1">Dodge v. Stockbridge-Munsee Community, AP 2008-AA-0003, Notice of Appeal and Request to Stay at page 1 (November 29, 2012)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>4</num>
+      <text><cite doc="2008-AA-0003" path="1">Id, page 1</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>5</num>
+      <text><cite doc="2008-AA-0003" path="1">Id, page 1</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>6</num>
+      <text>Stockbridge-Munsee Tribal Code, <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.5|(F)|(3)">§ 53.5 (F) (3)</cite>.</text>
+    </footnote>
+  </footnotes>
+</document>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2012 SMTCA 2">
+  <num>2012 SMTCA 2</num>
+  <heading>Kylee Dodge vs. Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>2012-11-29</effective>
+    <citations>
+      <citation type="reporter" url="./2012 SMTCA 2.pdf">2012 SMTCA 2</citation>
+      <citation type="opinion" url="./AP-2008-AA-0003.pdf">Case No. AP-2008-AA-0003</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Kylee Dodge</name>
+        <designation>Petitioner-Appellee</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Respondent-Appellant</designation>
+      </party>
+    </parties>
+  </meta>
+  <container name="Opinion">
+    <heading>Opinion</heading>
+    <para>
+      <num>¶1</num>
+      <text>The Appellant, the Stockbridge-Munsee Community, through its undersigned attorney, files this Notice of Appeal in relation to the Order Clarifying Issue of Paid Time Off (PTO) issued November 16, 2012 by the Trial Court in the above-captioned matter.</text>
+    </para>
+    <para>
+      <num>¶2</num>
+      <text>The Court of Appeals has jurisdiction to hear this appeal under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">Section 1.6 (L)</cite> of the Tribal Court Code and <cite doc="SMRP" path="§23">§23 of the Stockbridge-Munsee Rules of Procedure</cite> since it is an appeal of a decision from the trial tribal court. Such jurisdiction is consistent with past precedent of the court of appeal. <cite doc="97-AA-4"><em>Joseph Miller v. Stockbridge-Munsee Community</em>, Case No. 97-AA-4 (Court of Appeals, December 21, 1998)</cite>. The underlying case was filed under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53</cite>, the Employee Rights Ordinance.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>The Appellant contends that the trial court made a serious error of law in its November 16, 2012 Order. More specifically, the remedies ordered in relation to PTO are no consistent with <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.5|(F)">Section 53.5 (F)</cite> of Stockbridge-Munsee tribal law. This provision limits the scope of remedies, particularly monetary remedies, available in actions brought under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53</cite>. The trial court's order would result in the payment of approximately $23,000 for forfeited PTO time along with awarding a bank of 320 hours of PTO to Kylee Dodge. This is in addition to the Appellant's previous payment of back pay to Mr. Dodge. Remedies beyond the scope of those remedies authorized under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.5|(F)">Section 53.5 (F)</cite> are barred by the Stockbridge-Munsee Community's sovereign immunity per <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.5|(G)">Section 53.5 (G)</cite>. Stockbridge-Munsee tribal law provides that such a serious error of law is grounds for an appeal to the Court of Appeals (<cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(3)">Section 1.6 (L)(3)</cite>).</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>This Notice of Appeal is timely as it is filed within 45-days of the November 16, 2012 Order regarding the disposition of the case as required under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6.5|(C)|(1)" proof="needed">Section 1.6.5 (C)(1)</cite>.</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>The Appellant requests that the Court of Appeals stay the implementation of the PTO remedies identified in the November 16, 2012 Order pending the resolution of this appeal. The Stockbridge-Munsee Rules of Procedure authorize the issuance of stays of injunctive orders pending appeals in <cite doc="SMRP" path="§23|(H)">§23 (H)</cite> or posting of a cash deposit for the judgment amount with the court pending an appeal under <cite doc="SMRP" path="§23|(D)">§23 (D)</cite>. The court of appeals has previously granted a stay of relief in relation to a case filed under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53</cite> in <cite doc="2000-AA-003"><em>Stockbridge-Munsee Community v. Elton Louis</em>, 2000-AA-003 (Court of Appeals, December 12, 2006)</cite>.</text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>Furthermore, <cite doc="SMRP" path="§23|(G)">§23 (G)</cite> permits the postponement of the posting such cash deposit or provision of alternate security. In the event that the Order is not stayed, the Appellant requests that the posting of a cash deposit be postponed or it be permitted to segregate funds within tribal accounts for such cash deposit. The amount of the cash deposit for the payment for forfeited PTO hours would be approximately $23,000.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Submitted this 29th day of November, 2012.</text>
+    <text>Bridget Swanke, Staff Attorney</text>
+    <text>Stockbridge-Munsee Community</text>
+    <text>P.O. Box 70, Bowler, WI 54416</text>
+  </procedural-data>
+</document>
